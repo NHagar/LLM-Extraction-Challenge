@@ -1,4 +1,5 @@
 JSON Filename,Total Records,Committee Matches
+granite31_dense_8b_november_2024_prompt2.json,1000,684
 llama-3.2-3b-preview_november_2024.json,552,175
 phi4_november_2024_prompt2.json,997,21
 qwq_november_2024_prompt2.json,1000,743
@@ -15,7 +16,6 @@ llama33_november_2024_prompt2.json,1000,716
 solar-pro_november_2024.json,1000,259
 llama33_november_2024.json,1000,802
 deepseek_r1_32b_november_2024_prompt2.json,1000,595
-mistral_small_24b_november_2024.json,992,38
 mistral_small24b_november_2024.json,995,682
 phi4_november_2024.json,1000,798
 nuextract_november_2024.json,141,0
@@ -28,6 +28,7 @@ llama318b_november_2024.json,507,406
 openai4o_november_2024.json,1000,934
 claude35haiku_november_2024.json,880,654
 exaone35_november_2024.json,960,582
+claude35haiku_november_2024_prompt2.json,992,734
 tulu3_8b_november_2024_prompt2.json,1000,725
 gemma2_november_2024_prompt2.json,1000,839
 phi3_november_2024.json,521,143
