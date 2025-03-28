@@ -3,7 +3,7 @@ import json
 import os
 
 # Load the CSV file
-csv_file = "training.csv"
+csv_file = "fundraising-emails/training.csv"
 df_csv = pd.read_csv(csv_file)
 
 # Directory containing JSON files
