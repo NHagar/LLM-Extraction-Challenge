@@ -2,9 +2,6 @@ name: Generate Leaderboard
 
 on:
   push:
-    paths:
-      - 'fundraising-emails/*.json' # Trigger on new JSON files
-      - 'fundraising-emails/summary_all_json.csv' # Or when summary is updated
 
 jobs:
   generate-leaderboard:
