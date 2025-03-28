@@ -1,0 +1,40 @@
+name: Generate Leaderboard
+
+on:
+  push:
+    paths:
+      - '*.json'  # Trigger on new JSON files
+      - 'summary_all_json.csv'  # Or when summary is updated
+
+jobs:
+  generate-leaderboard:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas
+    
+    - name: Run matcher script
+      run: cd fundraising-emails && python matcher.py
+    
+    - name: Generate Leaderboard HTML
+      run: cd fundraising-emails && python generate_leaderboard.py
+    
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .
+        publish_branch: gh-pages
+        force_orphan: true
+        full_commit_message: Update leaderboard
