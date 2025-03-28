@@ -2,11 +2,12 @@ name: Generate Leaderboard
 
 on:
   push:
-
+    branches:
+      - main
 jobs:
   generate-leaderboard:
     runs-on: ubuntu-latest
-
+    
     permissions:
       contents: write
       pages: write
@@ -27,18 +28,15 @@ jobs:
         pip install pandas
 
     - name: Run matcher script
-      working-directory: fundraising-emails
-      run: python matcher.py
+      run: python fundraising-emails/matcher.py
     
     - name: Generate Leaderboard HTML
-      working-directory: fundraising-emails
-      run: python generate_leaderboard.py
+      run: python fundraising-emails/generate_leaderboard.py
+    
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: fundraising-emails
     
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: fundraising-emails
-        publish_branch: gh-pages
-        force_orphan: true
-        full_commit_message: Update leaderboard
+      uses: actions/deploy-pages@v2
