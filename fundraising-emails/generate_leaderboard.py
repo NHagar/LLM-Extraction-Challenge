@@ -128,7 +128,7 @@ def generate_leaderboard_html(summary_csv_path, output_path):
 
 if __name__ == "__main__":
     # Default paths, can be modified as needed
-    summary_csv_path = "summary_all_json.csv"
-    output_html_path = "index.html"
+    summary_csv_path = "fundraising-emails/summary_all_json.csv"
+    output_html_path = "fundraising-emails/index.html"
     
     generate_leaderboard_html(summary_csv_path, output_html_path)
