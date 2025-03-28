@@ -3,8 +3,8 @@ name: Generate Leaderboard
 on:
   push:
     paths:
-      - 'fundraising-emails/*.json'  # Trigger on new JSON files
-      - 'fundraising-emails/summary_all_json.csv'  # Or when summary is updated
+      - 'fundraising-emails/*.json' # Trigger on new JSON files
+      - 'fundraising-emails/summary_all_json.csv' # Or when summary is updated
 
 jobs:
   generate-leaderboard:
@@ -23,18 +23,20 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pandas
-    
+
     - name: Run matcher script
-      run: python fundraising_emails/matcher.py
+      working-directory: fundraising-emails
+      run: python matcher.py
     
     - name: Generate Leaderboard HTML
-      run: python fundraising_emails/generate_leaderboard.py
+      working-directory: fundraising-emails
+      run: python generate_leaderboard.py
     
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: .
+        publish_dir: fundraising-emails
         publish_branch: gh-pages
         force_orphan: true
         full_commit_message: Update leaderboard
