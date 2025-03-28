@@ -25,10 +25,10 @@ jobs:
         pip install pandas
     
     - name: Run matcher script
-      run: cd fundraising-emails && python matcher.py
+      run: python fundraising_emails/matcher.py
     
     - name: Generate Leaderboard HTML
-      run: cd fundraising-emails && python generate_leaderboard.py
+      run: python fundraising_emails/generate_leaderboard.py
     
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
