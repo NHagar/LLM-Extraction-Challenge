@@ -6,9 +6,8 @@ from datetime import datetime
 
 def generate_leaderboard_html(summary_csv_path, output_path):
     """
-    Generate an HTML leaderboard from the summary CSV file, 
+    Generate an HTML leaderboard from the summary CSV file,
     with sections for Updated Prompt and Original Prompt.
-    
     :param summary_csv_path: Path to the summary CSV file
     :param output_path: Path to save the output HTML file
     """
@@ -30,12 +29,12 @@ def generate_leaderboard_html(summary_csv_path, output_path):
     # Function to generate table rows
     def generate_table_rows(dataframe):
         return "".join([f"""
-            <tr>
-                <td>{row['JSON Filename']}</td>
-                <td>{row['Total Records']}</td>
-                <td>{row['Committee Matches']}</td>
-                <td>{row['Committee Matches'] / row['Total Records'] * 100:.2f}%</td>
-            </tr>""" for _, row in dataframe.iterrows()])
+        <tr>
+            <td>{row['JSON Filename']}</td>
+            <td>{row['Total Records']}</td>
+            <td>{row['Committee Matches']}</td>
+            <td>{row['Committee Matches'] / row['Total Records'] * 100:.2f}%</td>
+        </tr>""" for _, row in dataframe.iterrows()])
 
     # Generate HTML
     html_content = f"""<!DOCTYPE html>
@@ -51,6 +50,13 @@ def generate_leaderboard_html(summary_csv_path, output_path):
             margin: 0 auto;
             padding: 20px;
             line-height: 1.6;
+        }}
+        .introduction {{
+            margin-bottom: 25px;
+            text-align: left;
+            background-color: #f8f8f8;
+            padding: 15px;
+            border-radius: 5px;
         }}
         h1, h2 {{
             text-align: center;
@@ -84,6 +90,12 @@ def generate_leaderboard_html(summary_csv_path, output_path):
 <body>
     <h1>Political Email Extraction Leaderboard</h1>
     
+    <div class="introduction">
+        <p>What kind of sicko signs up for political fundraising emails from just about every committee? Oh, right, that's me. I've collected thousands of political fundraising emails and challenged various LLMs to extract committee names from their disclaimers (like "Paid for by The Pennsylvania Democratic Party"). This extraction isn't straightforward - disclaimers vary in format and position, with some being simple and others continuing with additional text about contributions and treasurers.</p>
+        
+        <p>Using the same 1,000 emails from November 2024 and a zero-shot prompt asking models to extract committee names and senders, I've compared how different LLMs perform at this task. The leaderboard below shows each model's success rate at correctly matching the committee names in the training dataset. For more details on this project, read my <a href="https://thescoop.org/archives/2025/01/27/llm-extraction-challenge-fundraising-emails/index.html">full blog post</a>.</p>
+    </div>
+    
     <h2>Updated Prompt</h2>
     <table>
         <thead>
@@ -95,10 +107,10 @@ def generate_leaderboard_html(summary_csv_path, output_path):
             </tr>
         </thead>
         <tbody>
-            {generate_table_rows(df_updated)}
+{generate_table_rows(df_updated)}
         </tbody>
     </table>
-    
+
     <h2>Original Prompt</h2>
     <table>
         <thead>
@@ -110,10 +122,10 @@ def generate_leaderboard_html(summary_csv_path, output_path):
             </tr>
         </thead>
         <tbody>
-            {generate_table_rows(df_original)}
+{generate_table_rows(df_original)}
         </tbody>
     </table>
-    
+
     <div class="timestamp">
         Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
     </div>
@@ -123,12 +135,10 @@ def generate_leaderboard_html(summary_csv_path, output_path):
     # Write the HTML file
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(html_content)
-    
     print(f"Leaderboard HTML generated at {output_path}")
 
 if __name__ == "__main__":
     # Default paths, can be modified as needed
     summary_csv_path = "fundraising-emails/summary_all_json.csv"
     output_html_path = "fundraising-emails/index.html"
-    
     generate_leaderboard_html(summary_csv_path, output_html_path)
