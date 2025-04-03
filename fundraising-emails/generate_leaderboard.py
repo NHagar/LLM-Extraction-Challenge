@@ -93,7 +93,7 @@ def generate_leaderboard_html(summary_csv_path, output_path):
     <div class="introduction">
         <p>What kind of sicko signs up for political fundraising emails from just about every committee? Oh, right, that's me. I've collected thousands of political fundraising emails and challenged various LLMs to extract committee names from their disclaimers (like "Paid for by The Pennsylvania Democratic Party"). This extraction isn't straightforward - disclaimers vary in format and position, with some being simple and others continuing with additional text about contributions and treasurers.</p>
         
-        <p>Using the same 1,000 emails from November 2024 and a zero-shot prompt asking models to extract committee names and senders, I've compared how different LLMs perform at this task. The leaderboard below shows each model's success rate at correctly matching the committee names in the training dataset. For more details on this project, read my <a href="https://thescoop.org/archives/2025/01/27/llm-extraction-challenge-fundraising-emails/index.html">full blog post</a>.</p>
+        <p>Using the same 1,000 emails from November 2024 and a zero-shot prompt asking models to extract committee names and senders, I've compared how different LLMs perform at this task. The leaderboard below shows each model's success rate at correctly matching the committee names in the training dataset. For more details on this project, read my <a href="https://thescoop.org/archives/2025/01/27/llm-extraction-challenge-fundraising-emails/index.html">full blog post</a>. You can also explore the <a href="https://github.com/dwillis/LLM-Extraction-Challenge">complete code and extraction results on GitHub</a>.</p>
     </div>
     
     <h2>Updated Prompt</h2>
