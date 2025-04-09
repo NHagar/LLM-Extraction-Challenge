@@ -28,7 +28,6 @@ gemini_25_november_2024_prompt2.json,1000,954
 mistral_small24b_november_2024.json,995,682
 phi4_november_2024.json,1000,798
 command_a_november_2024_prompt2.json,1000,766
-claude3sonnet_november_2024.json,985,903
 gemini20_flash_november_2024_prompt2.json,1000,924
 claude35_haiku_november_2024_prompt2.json,1000,745
 mixtral_november_2024_prompt2.json,1000,742
@@ -41,17 +40,14 @@ exaone35_32b_november_2024_prompt2.json,1000,681
 hermes3_70b_november_2024_prompt2.json,1000,531
 llama318b_november_2024.json,507,406
 openai4o_november_2024.json,1000,934
-claude35haiku_november_2024.json,880,654
 gemma3_12b_november_2024_prompt2.json,1000,735
 exaone35_november_2024.json,960,582
-claude35haiku_november_2024_prompt2.json,992,734
 claude3_sonnet_november_2024.json,985,903
 tulu3_8b_november_2024_prompt2.json,1000,725
 mistral_small_31_november_2024_prompt2.json,1000,857
 gemma3_27b_november_2024_prompt2.json,1000,799
 gemma2_november_2024_prompt2.json,1000,839
 phi3_november_2024.json,521,143
-claude35sonnet_november_2024_prompt2.json,1000,839
 claude35_sonnet_november_2024_prompt2.json,1000,839
 deepseek_r1_32b_november_2024.json,1000,663
 qwen25_72b_november_2024_prompt2.json,1000,781
