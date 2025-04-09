@@ -1,6 +1,6 @@
 JSON Filename,Total Records,Committee Matches
 cogito_14b_november_2024_prompt2.json,1000,783
-gpt-4o_november_2024_prompt2.json,1000,793
+gpt-4o_november_2024_prompt2.json,1000,812
 granite31_dense_8b_november_2024_prompt2.json,1000,684
 llama-3.2-3b-preview_november_2024.json,552,175
 gpt-4o-mini_november_2024.json,1000,801
@@ -13,6 +13,7 @@ gemma2_27b_november_2024.json,994,790
 qwen25_november_2024_prompt2.json,1000,929
 granite3.2_november_2024_prompt2.json,1000,693
 qwq_november_2024.json,996,716
+cogito_70b_november_2024_prompt2.json,1000,732
 internlm2_november_2024_prompt2.json,1000,666
 phi3_november_2024_prompt2.json,1000,469
 openthinker_32b_november_2024_prompt2.json,1000,814
