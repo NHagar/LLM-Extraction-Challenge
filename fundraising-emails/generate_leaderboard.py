@@ -126,7 +126,11 @@ def generate_leaderboard_html(summary_csv_path, output_path):
                 <th>Model (JSON Filename)</th>
                 <th>Total Records</th>
                 <th>Committee Matches</th>
-                <th>Match Percentage</th>
+                <th>Match %</th>
+                <th>Accuracy</th>
+                <th>Precision</th>
+                <th>Recall</th>
+                <th>F1 Score</th>
             </tr>
         </thead>
         <tbody>
