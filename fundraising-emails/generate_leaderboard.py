@@ -34,6 +34,10 @@ def generate_leaderboard_html(summary_csv_path, output_path):
             <td>{row['Total Records']}</td>
             <td>{row['Committee Matches']}</td>
             <td>{row['Committee Matches'] / row['Total Records'] * 100:.2f}%</td>
+            <td>{row['Accuracy']:.2f}</td>
+            <td>{row['Precision']:.2f}</td>
+            <td>{row['Recall']:.2f}</td>
+            <td>{row['F1 Score']:.2f}</td>
         </tr>""" for _, row in dataframe.iterrows()])
 
     # Generate HTML
@@ -100,10 +104,14 @@ def generate_leaderboard_html(summary_csv_path, output_path):
     <table>
         <thead>
             <tr>
-                <th>Model (JSON Filename)</th>
+                <th>Model</th>
                 <th>Total Records</th>
-                <th>Committee Matches</th>
-                <th>Match Percentage</th>
+                <th>Matches</th>
+                <th>Match %</th>
+                <th>Accuracy</th>
+                <th>Precision</th>
+                <th>Recall</th>
+                <th>F1 Score</th>
             </tr>
         </thead>
         <tbody>
