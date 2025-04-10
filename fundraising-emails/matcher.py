@@ -81,7 +81,7 @@ for json_filename in os.listdir(json_directory):
         })
 
         report = classification_report(y_true, y_pred, zero_division=0)
-        with open(f"evals/classification_report_{json_filename.replace('.json', '')}.txt", "w") as f:
+        with open(f"fundraising-emails/evals/classification_report_{json_filename.replace('.json', '')}.txt", "w") as f:
             f.write(f"Classification report for model {json_filename}\n\n")
             f.write(report)
 
@@ -93,4 +93,4 @@ summary_df.to_csv(output_file, index=False)
 print(f"Summary saved to {output_file}")
 
 scores_df = pd.DataFrame(model_scores)
-scores_df.to_csv("evals/model_performance_summary.csv", index=False)
+scores_df.to_csv("fundraising-emails/evals/model_performance_summary.csv", index=False)
