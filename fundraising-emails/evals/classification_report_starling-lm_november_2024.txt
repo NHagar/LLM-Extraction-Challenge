@@ -1,0 +1,180 @@
+Classification report for model starling-lm_november_2024.json
+
+                                                                                                                   precision    recall  f1-score   support
+
+                                                                                                adam for colorado       1.00      1.00      1.00         3
+                                                                            alexandria ocasio-cortez for congress       0.00      0.00      0.00         1
+                                                                                            alsobrooks for senate       1.00      1.00      1.00         2
+                                                                                        andrea salinas for oregon       1.00      1.00      1.00         1
+                                                                                          andy kim for new jersey       1.00      1.00      1.00         1
+                                                                                                arizona democrats       1.00      1.00      1.00         2
+                                                                                         bernie moreno for senate       1.00      1.00      1.00         3
+                                                                                 blackburn tennessee victory fund       1.00      1.00      1.00         3
+                                                                                              blue amp action pac       1.00      1.00      1.00         2
+                                                                                       blumenthal for connecticut       1.00      1.00      1.00         1
+                                                                                             bob casey for senate       0.00      0.00      0.00         0
+                                                                                        bob casey for senate inc.       1.00      0.20      0.33         5
+                                                                                            bohannan for congress       1.00      1.00      1.00         1
+                                                                                                busse for montana       1.00      1.00      1.00         1
+                                                                                      california democratic party       1.00      1.00      1.00         1
+                                                                                             caraveo for congress       1.00      1.00      1.00         1
+                                                                                               citizens for boyle       1.00      1.00      1.00         1
+                                                                                               cooke for congress       1.00      1.00      1.00         2
+                                                                                               debbie for florida       1.00      1.00      1.00         6
+                                                                                               defeat boebert pac       1.00      1.00      1.00         6
+                                                                                              defend freedom inc.       1.00      0.50      0.67         4
+                                                                                               defendfreedom inc.       0.00      0.00      0.00         0
+                                                                                        democracy on the line pac       1.00      1.00      1.00         1
+                                                                        democratic legislative campaign committee       1.00      0.50      0.67         2
+                                                                                      democratic party of georgia       1.00      0.50      0.67         2
+                                                                                          derek tran for congress       1.00      0.50      0.67         2
+                                                                                                         dlcc pac       1.00      1.00      1.00         1
+                                                                                     dr. kim schrier for congress       1.00      1.00      1.00         1
+                                                                             dr. raul ruiz for congress committee       1.00      1.00      1.00         1
+                                                                                               ehasz for congress       1.00      1.00      1.00         1
+                                                                          elizabeth pannill fletcher for congress       1.00      1.00      1.00         1
+                                                                                        emilia sykes for congress       1.00      1.00      1.00         1
+                                                                                       emily randall for congress       1.00      1.00      1.00         2
+                                                                                                     emily's list       0.00      0.00      0.00         0
+                                                                                                      emilys list       0.00      0.00      0.00         3
+                                                                                                       emilyslist       0.00      0.00      0.00         0
+                                                                                   end citizens united nonfederal       1.00      0.60      0.75         5
+                                                                                    endcitizens united nonfederal       0.00      0.00      0.00         0
+                                            endcitizens united nonfederal, p.o. box 66005, washington, d.c. 20035       0.00      0.00      0.00         0
+                                                                                            eric hovde for senate       0.00      0.00      0.00         0
+                                                                                       eric sorensen for illinois       1.00      1.00      1.00         1
+                                                                                            evan low for congress       1.00      1.00      1.00         1
+                                                                                                 fetterman for pa       1.00      0.50      0.67         2
+                                                                                           fight for progress pac       1.00      1.00      1.00         1
+                                                                                        friends of dave mccormick       0.00      0.00      0.00         1
+                                                                                           friends of dick durbin       1.00      1.00      1.00         1
+                                                                                          friends of jahana hayes       1.00      1.00      1.00         1
+                                                                                           friends of mark warner       1.00      1.00      1.00         1
+                                                                                         friends of sherrod brown       1.00      1.00      1.00         7
+                                                                                        gabe vasquez for congress       0.00      0.00      0.00         1
+                                                                                      george latimer for congress       1.00      1.00      1.00         1
+                                                                                                    gillen for ny       1.00      1.00      1.00         1
+                                                                                            gillibrand for senate       1.00      1.00      1.00         3
+                                                                                             gloria for tennessee       1.00      1.00      1.00         2
+                                                                                         gloria witt for congress       1.00      1.00      1.00         1
+                                                                                             harris for president       1.00      0.60      0.75         5
+                                                                                      heritage action for america       1.00      1.00      1.00         1
+                                                                                              hovde for wisconsin       1.00      0.75      0.86         4
+                                                                                            hung cao for congress       1.00      1.00      1.00         1
+                                                                                            hung cao for virginia       1.00      1.00      1.00         6
+                                                                                                hunt for congress       1.00      1.00      1.00         1
+                                                                               indiana republican state committee       1.00      1.00      1.00         1
+                                                                             integrity first voter action project       1.00      1.00      1.00         1
+                                                                                                james for ny 2026       1.00      1.00      1.00         1
+                                                                                            jane fonda climatepac       1.00      1.00      1.00         1
+                                                                                       janelle bynum for congress       1.00      1.00      1.00         1
+                                                                            jocelyn benson for secretary of state       1.00      1.00      1.00         1
+                                                                                                        joe biden       0.00      0.00      0.00         0
+                                                                                         joe salerno for congress       0.00      0.00      0.00         1
+                                                                                          john james for michigan       1.00      1.00      1.00         1
+                                                                                    josh hawley victory committee       1.00      1.00      1.00         2
+                                                                                               kaine for virginia       1.00      0.50      0.67         2
+                                                                                            kean for congress inc       1.00      1.00      1.00         1
+                                                                                        ken mitchell for virginia       0.00      0.00      0.00         1
+                                                                                       kevin lincoln for congress       1.00      1.00      1.00         1
+                                                                                             kristen for michigan       1.00      1.00      1.00         2
+                                                                                      laura friedman for congress       0.00      0.00      0.00         1
+laura's campaign doesn't take a dime from corporate pacs and completely relies on grassroots supporters like you!       0.00      0.00      0.00         0
+                                                                                               leaders we deserve       1.00      1.00      1.00         1
+                                                                                             lofgren for congress       1.00      1.00      1.00         1
+                                                                                         lucas kunce for missouri       1.00      0.50      0.67         4
+                                                                                      lucas kunce for u.s. senate       0.00      0.00      0.00         0
+                                                                                           mackenize for congress       0.00      0.00      0.00         0
+                                                                                           mackenzie for congress       0.00      0.00      0.00         2
+                                                                                              maggie for congress       1.00      1.00      1.00         1
+                                                                                               marie for congress       1.00      1.00      1.00         1
+                                                                                         mark takano for congress       1.00      1.00      1.00         1
+                                                                                       martin heinrich for senate       1.00      1.00      1.00         1
+                                                                                    michelle vallejo for congress       1.00      1.00      1.00         2
+                                                                                             miyares for virginia       1.00      1.00      1.00         1
+                                                                                            mondaire for congress       1.00      1.00      1.00         1
+                                                                      national democratic redistricting committee       1.00      0.50      0.67         2
+                                                                      national republican congressional committee       0.00      0.00      0.00         0
+                                                                                        nebraska republican party       1.00      1.00      1.00         1
+                                                                                                 nella for senate       1.00      0.80      0.89         5
+                                                                                    nevada state democratic party       1.00      1.00      1.00         1
+                                                                               new democrat coalition action fund       1.00      1.00      1.00         1
+                                                                                     nikki budzinski for congress       1.00      1.00      1.00         2
+                                                                                                             none       0.00      0.00      0.00         0
+                                                                                                             nrcc       1.00      0.17      0.29         6
+                                                                                                              nrs       0.00      0.00      0.00         0
+                                                                                                             nrsc       1.00      0.35      0.52        17
+                                                                                                            okgop       1.00      1.00      1.00         2
+                                                                     paid for and authorized by wyden for senate.       0.00      0.00      0.00         0
+                                                                              paid for by derek tran for congress       0.00      0.00      0.00         0
+                                                                            paid for by friends of dave mccormick       0.00      0.00      0.00         0
+                                                                                 paid for by harris for president       0.00      0.00      0.00         0
+                              paid for by kaine for virginia 1490-5a quarterpath road #272 williamsburg, va 23185       0.00      0.00      0.00         0
+                                                                                     paid for by nella for senate       0.00      0.00      0.00         0
+                                                                               paid for by pfaff for state senate       0.00      0.00      0.00         0
+                                                                                     paid for by rosen for nevada       0.00      0.00      0.00         0
+                        paid for by the collective pac; not authorized by any candidate or candidate's committee.       0.00      0.00      0.00         0
+                          paid for by the national democratic redistricting committee, john bisognano, president.       0.00      0.00      0.00         0
+                                                                                             paid for by the nrsc       0.00      0.00      0.00         0
+                                                                   paid for by the pennsylvania democratic party.       0.00      0.00      0.00         0
+                                                                                           pat harrigan committee       0.00      0.00      0.00         1
+                                                                                    pennsylvania democratic party       0.00      0.00      0.00         2
+                                                                                     peter hernandez for congress       1.00      1.00      1.00         1
+                                                                                           pfaff for state senate       0.00      0.00      0.00         1
+                                                                                             pramila for congress       0.00      0.00      0.00         1
+                                                                                                  pramila jayapal       0.00      0.00      0.00         0
+                                                                                             rand paul for senate       1.00      1.00      1.00         1
+                                                                                                 reddy for kansas       1.00      1.00      1.00         1
+                                                                                              republican majority       0.00      0.00      0.00         0
+                                                                                    republican party of wisconsin       0.00      0.00      0.00         0
+                                                                                           rick scott for florida       1.00      1.00      1.00         1
+                                                                                                rogers for senate       1.00      0.50      0.67         2
+                                                                                                 rosen for nevada       0.75      0.60      0.67         5
+                                                                                                  rosenfor nevada       0.00      0.00      0.00         1
+                                                                                          rubio victory committee       1.00      1.00      1.00         1
+                                                                   rudy giuliani freedom fund legal defense trust       1.00      1.00      1.00         2
+                                                                                          sam eppler for congress       1.00      1.00      1.00         1
+                                                                                                schiff for senate       1.00      0.67      0.80         3
+                                                                                        senate conservatives fund       1.00      1.00      1.00         2
+                                                                                           sensible americans pac       1.00      1.00      1.00         1
+                                                                                          servant leadership fund       1.00      1.00      1.00         1
+                                                                                        seth moulton for congress       1.00      1.00      1.00         1
+                                                                                               shaheen for senate       1.00      1.00      1.00         1
+                                                                                             sharice for congress       1.00      1.00      1.00         1
+                                                                                       shontel brown for congress       0.00      0.00      0.00         0
+                                                                                        shontelbrown for congress       0.00      0.00      0.00         1
+                                                                                               stand with sanchez       0.00      0.00      0.00         1
+                                                                                               stand with sánchez       0.00      0.00      0.00         0
+                                                                                     steve garvey for u.s. senate       1.00      1.00      1.00         2
+                                                                                         tammy baldwin for senate       1.00      1.00      1.00         3
+                                                                                                     team scalise       1.00      0.50      0.67         2
+                                                                                              ted cruz for senate       1.00      1.00      1.00         3
+                                                                                               the collective pac       0.00      0.00      0.00         1
+                                                                                                         the nrsc       0.00      0.00      0.00         0
+                                                                                       the pat harrigan committee       0.00      0.00      0.00         0
+                                                                                the pennsylvania democratic party       0.00      0.00      0.00         0
+                                                                                the republican party of wisconsin       0.00      0.00      0.00         1
+                                                                                                think big america       1.00      1.00      1.00         1
+                                                                                           tim sheehy for montana       1.00      1.00      1.00         5
+                                                                                              torres for congress       0.00      0.00      0.00         1
+                                                                                               torresfor congress       0.00      0.00      0.00         0
+                                                                                                trisha 4 colorado       1.00      1.00      1.00         3
+                                                                                     trump national committee jfc       0.00      0.00      0.00         0
+                                                                                trump national committee jfc inc.       1.00      0.88      0.93         8
+                                                                                               truth to power pac       1.00      1.00      1.00         2
+                                                                                             turning point action       1.00      0.67      0.80         3
+                                                                                               unitedemocrats pac       1.00      1.00      1.00         4
+                                                                                                      upright pac       1.00      1.00      1.00         2
+                                                                                                  upset the setup       0.00      0.00      0.00         0
+                                                                                              upset the setup pac       1.00      1.00      1.00         1
+                                                                                               upset the setuppac       0.00      0.00      0.00         1
+                                                                                           val hoyle for congress       1.00      1.00      1.00         1
+                                                                                                      vote bolick       0.00      0.00      0.00         1
+                                                                                                     vote bolick.       0.00      0.00      0.00         0
+                                                                                         voter protection project       1.00      1.00      1.00         5
+                                                                                                 wyden for senate       0.00      0.00      0.00         1
+                                                                                     yassamin ansari for congress       1.00      1.00      1.00         2
+
+                                                                                                         accuracy                           0.75       270
+                                                                                                        macro avg       0.66      0.60      0.62       270
+                                                                                                     weighted avg       0.90      0.75      0.79       270
