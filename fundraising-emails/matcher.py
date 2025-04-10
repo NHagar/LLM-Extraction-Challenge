@@ -92,5 +92,5 @@ summary_df.to_csv(output_file, index=False)
 
 print(f"Summary saved to {output_file}")
 
-scores_df = pd.DataFrame(model_scores).sort_values(by="F1 Score", ascending=False)
+scores_df = pd.DataFrame(model_scores)
 scores_df.to_csv("evals/model_performance_summary.csv", index=False)
