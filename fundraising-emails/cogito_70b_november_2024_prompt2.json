@@ -48,7 +48,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "New Democrat Coalition Action Fund",
+        "committee": "NewDemocrat Coalition Action Fund",
         "name": "Elissa Slotkin",
         "email": "team@newdemactionfund.com",
         "subject": "Real urgency",
@@ -80,7 +80,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Senate Conservatives Fund",
+        "committee": "SENATE CONSERVATIVES FUND",
         "name": "Senate Conservatives",
         "email": "info@freedomfirstalert.com",
         "subject": "Five Races Too Close to Call",
@@ -112,7 +112,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "End Citizens United Nonfederal",
+        "committee": "EndCitizens United Nonfederal",
         "name": "YES! YES! YES! (FFR)",
         "email": "hello@fightforreform.org",
         "subject": "Liz Cheney RUINED Trump\u2019s day",
@@ -400,7 +400,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Schiff for Senate",
+        "committee": "SCHIFF FOR SENATE",
         "name": "Adam Schiff",
         "email": "reply@e.adamschiff.com",
         "subject": "It\u2019s only going to get more intense from here",
@@ -464,7 +464,10 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Joe Salerno for Congress",
+        "message": {
+            "subject": "Joe Salerno for Congress - End of Month Fundraising Deadline",
+            "body": "Hi Peter, \n\nThere are only hours left until my FINAL end-of-month fundraising deadline. As your next Congressman, I'm committed to delivering real results for South Jersey families, not just fighting for the sake of fighting.\n\nWill you stand with me? With an ActBlue Express donation, your contribution will process immediately and help us reach our critical goal:\n[https://secure.actblue.com/donate/jsfc-fr-em-oct24?amount=&express_lane=true]\n\nYour support is crucial. Together, we can build a South Jersey that works for everyone.\n\nThank you,\nJoe Salerno\nJoe Salerno for Congress\nPO Box 702, North Cape May, NJ 08204\n[https://www.facebook.com/JoeSalernoforCongress/]\n[https://twitter.com/joesalernoNJ]\n[https://www.instagram.com/joesalernoforcongress/]\n\nTo unsubscribe: [https://secure.ngpvan.com/p/94ejtxKhx0qNdkch_i3mjw2?unsubscribedata=...]"
+        },
         "name": "Joe Salerno",
         "email": "campaign@joesalernoforcongress.com",
         "subject": "Re: our final deadline",
@@ -480,7 +483,14 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Dr. Raul Ruiz for Congress Committee",
+        "type": "fundraising_email",
+        "sender": "Dr. Raul Ruiz",
+        "main_message": "Urgent request to donate $25,000 before Election Day",
+        "call_to_action": {
+            "primary": "Donate now",
+            "link": "https://secure.actblue.com/donate/ruiz-em-fr-oct24"
+        },
+        "unsubscribelink": "https://secure.ngpvan.com/p/dAfRehWDrkq5GdVTndjWgA2?unsubscribedata=E0ittCorVF2gSJHPdwhVhaX9B%2BzT2No4Zfm9RayPMqjAQkoSN9pb3Qedq0JuHsCLTjwqb7psMGdye94j0UQoknecJoa3HvQ%2FWtWYvpyzQ9Sipspqnn0rBozA9emyRc4lBhxLE4hudVSXU9S%2BzLRvEBxwy8q7FVJXYrup8C6dcl%2FHvSykLJjWsqo0sZlhGAGpI46LVCExYHPramGxsCconKO2uX7xjh5a6w8T7zCsWwg7ODpe1IBElblTjUGKkc0u91w9GRQJFdwbSyHnIoCxkz6YlV2odCZ9jhUELmtANfamJzjqMuUwfQ17kRFgp%2BrkuEnHmk3evBlN21I3JPqxVefrxXfXJYBGQ7E9baiT%2Brq2oUw9A%2F9Cs%2B4epaBmfjmm6e6by6tX%2BexYqfRgldiPArho%2BuJuGeNl0RFnyntUk6FitZDVaGS4QjfSFNP%2BXxvr",
         "name": "Dr. Raul Ruiz",
         "email": "info@drraulruiz.com",
         "subject": "Last message before midnight",
@@ -720,7 +730,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Janelle Bynum for Congress",
+        "committee": "Janelle Bynum For Congress",
         "name": "Janelle Bynum (personal)",
         "email": "info@janellebynum.com",
         "subject": "Before midnight",
@@ -864,7 +874,8 @@
         "disclaimer": "True"
     },
     {
-        "committee": "National Democratic Redistricting Committee",
+        "donation_amount": "$30.00",
+        "transaction_id": "TXN12345",
         "name": "NDRC Midnight Deadline",
         "email": "info@democraticredistricting.com",
         "subject": "This 2X match is only live for a few more hours",
@@ -1120,7 +1131,36 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Blackburn Tennessee Victory Fund",
+        "blocks": [
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Fwd: I'm beyond worried. I'm petrified.*\nFrom: MARSHA BLACKBURN <info@updates.marshablackburn.com>\nTo: [Your Email]\nDate: October 19, 2023\nSubject: Fwd: I'm beyond worried. I'm petrified.\n\nDear Supporter,\n\nI wanted to share this urgent message from Senator Marsha Blackburn regarding the upcoming election and her fundraising efforts for the Blackburn Tennessee Victory Fund. The key points include:\n\n\u2022 A critical need for financial support before Election Day\n\u2022 Various donation levels ($10-$49, $50-$99, $100+) and their impact\n\u2022 Concerns about Democratic influence in the election outcome\n\u2022 Details about the joint fundraising committee structure\n\nYou can contribute by visiting the provided link or mailing a check to:\nBlackburn Tennessee Victory Fund\nPO Box 3750\nBrentwood, TN 37024\n\nFor more information or questions, please contact info@updates.marshablackburn.com.\n\nBest regards,\nMarsha Blackburn"
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Original Message*:\n*To:* [Your Email]\n*From:* info@updates.marshablackburn.com\n*Subject:* I'm beyond worried. I'm petrified.\n\nSenator Marsha Blackburn shares her concerns about the upcoming election and requests your support for the Blackburn Tennessee Victory Fund."
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Contact Information*:\nEmail: info@updates.marshablackburn.com\nMailing Address: PO Box 3750, Brentwood, TN 37024"
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Note*: You are receiving this email because you signed up as a member of Blackburn Tennessee Victory Fund's online community."
+                }
+            }
+        ],
         "name": "Peter",
         "email": "info@updates.marshablackburn.com",
         "subject": "As of 9 P.M. EST, here\u2019s what our records show:",
@@ -1136,7 +1176,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "SHARICE FOR CONGRESS",
+        "committee": "Sharice for Congress",
         "name": "Sharice Davids",
         "email": "campaign@e.shariceforcongress.com",
         "subject": "this email is 78 words",
@@ -1184,7 +1224,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "response": "This appears to be a campaign email from Senator Catherine Cortez Masto and the Democratic Party of Georgia. It includes fundraising requests, social media links, and an unsubscribe option. The main message urges recipients to donate in support of Democratic candidates in Georgia and Nevada.",
         "name": "Catherine Cortez Masto",
         "email": "feedback@georgiademocrat.org",
         "subject": "5 days left",
@@ -1280,10 +1320,42 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Gabe Vasquez for Congress",
+        "message_id": "2023-10-24",
+        "subject": "the only thing standing between Yvette Herrell and Congress",
+        "from": "Gabe Vasquez for Congress",
+        "content": {
+            "main_points": [
+                "Final end-of-month deadline at midnight",
+                "Elon Musk's PAC spending in the district",
+                "Donald Trump campaigning for Yvette Herrell",
+                "Critical moment with 5 days until polls close"
+            ],
+            "key_messages": [
+                "Gabe's achievements since winning in 2022",
+                "Fighting for reproductive freedom, border issues, cost reduction for families",
+                "Defending democracy"
+            ],
+            "call_to_action": {
+                "primary": "Donate via secure.actblue.com/donate/gvfc-em-o24",
+                "monthly_option": "Available at same link with recurring=true"
+            },
+            "campaign_context": [
+                "Won most competitive Democratic seat in 2022",
+                "Running to champion working families",
+                "Building an economy that benefits everyone"
+            ]
+        },
+        "metadata": {
+            "unsubscribe_link": "https://secure.ngpvan.com/p/lNYIdkhPikOBrh6RGc-KWg2?unsubscribedata=[redacted]",
+            "social_media_links": [
+                "Facebook: gabeforcongress",
+                "Twitter/X: gabe_nm",
+                "Instagram: gabeforcongress"
+            ],
+            "paid_by": "Gabe Vasquez for Congress, Drawer L, Mesilla, NM 88046"
+        },
         "name": "gabe (cell)",
         "email": "info@gabeforcongress.com",
-        "subject": "the only thing standing between Yvette Herrell and Congress",
         "date": "2024-11-01 01:46:21",
         "year": "2024",
         "month": "11",
@@ -1472,10 +1544,10 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Michelle Vallejo for Congress",
+        "text": "This appears to be a political fundraising email from Michelle Vallejo, who is running for Congress in Texas's 15th district. The email emphasizes the importance of winning this race and urges supporters to make donations before an end-of-month deadline.",
+        "subject": "Just one last thing",
         "name": "Michelle Vallejo",
         "email": "info@michellefortx15.com",
-        "subject": "Just one last thing",
         "date": "2024-11-01 02:30:27",
         "year": "2024",
         "month": "11",
@@ -1664,7 +1736,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Blackburn Tennessee Victory Fund",
+        "committee": "BlackburnTennessee Victory Fund",
         "name": "Marsha Blackburn",
         "email": "info@updates.marshablackburn.com",
         "subject": "Peter, I hate to reach out so late.",
@@ -1760,7 +1832,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Arizona Democratic Party",
+        "committee": "Arizona Democrats",
         "name": "Arizona Democratic Party ",
         "email": "info@azdem.org",
         "subject": "Republicans are outpacing Democrats at the polls",
@@ -2176,7 +2248,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRCC",
+        "committee": "National Republican Congressional Committee (NRCC)",
         "name": "Chairman Richard Hudson",
         "email": "news@e.1600daily.com",
         "subject": "Taking a break to say THANK YOU",
@@ -2256,7 +2328,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rudy Giuliani Freedom Fund Legal Defense Trust",
+        "committee": "Rudy Giuliani Freedom Fund",
         "name": "Rudy Giuliani",
         "email": "news@iesp.conservativelibertywire.com",
         "subject": "Now, my primary residence could be \u201cseized\u201d",
@@ -2288,7 +2360,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRCC",
+        "committee": "National Republican Congressional Committee",
         "name": "Jim Jordan",
         "email": "patriot@e.youramerica.news",
         "subject": "Our final chance",
@@ -2368,7 +2440,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRCC",
+        "committee": "National Republican Congressional Committee",
         "name": "Chairman Richard Hudson",
         "email": "news@e.americanbriefing.com",
         "subject": "Taking a break to say THANK YOU",
@@ -2384,7 +2456,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRCC",
+        "committee": "National Republican Congressional Committee",
         "name": "Jim Jordan",
         "email": "news@e.firstlook.news",
         "subject": "Our final chance",
@@ -2448,7 +2520,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Defend Freedom Inc.",
+        "committee": "DEFEND FREEDOM INC.",
         "name": "Tulsi Gabbard",
         "email": "news@e.updateforamerica.com",
         "subject": "Could you do me a quick favor?",
@@ -2480,7 +2552,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRCC",
+        "committee": "National Republican Congressional Committee (NRCC)",
         "name": "Chairman Richard Hudson",
         "email": "news@e.goppresidential.com",
         "subject": "Taking a break to say THANK YOU",
@@ -2528,7 +2600,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "DEFENDFREEDOM INC.",
+        "committee": "DEFEND FREEDOM INC.",
         "name": "Tulsi Gabbard",
         "email": "info@reclamingamericanfreedom.com",
         "subject": "Could you do me a quick favor?",
@@ -2592,7 +2664,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "DEFEND FREEDOM INC.",
+        "committee": "Defend Freedom Inc.",
         "name": "Tulsi Gabbard",
         "email": "news@e.americanbriefing.com",
         "subject": "Could you do me a quick favor?",
@@ -2624,7 +2696,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "End Citizens United Nonfederal",
+        "committee": "EndCitizens United Nonfederal",
         "name": "URGENT: Sign Now [FFR]",
         "email": "hello@fightforreform.org",
         "subject": "Top Democrat: You have been pre-selected to sign our abolish the Electoral College petition",
@@ -2784,7 +2856,11 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Adam for Colorado",
+        "action": {
+            "type": "email",
+            "subject": "Stop receiving campaign emails for Dan Osborn's Nebraska Senate race"
+        },
+        "text": "To unsubscribe from these emails, please click the following link: https://secure.ngpvan.com/p/Uv6ihFy0UkOXP2-vh91pzA2?unsubscribedata=iefe2S8hOJpJAIv2NTSG6pgE6tRnGDuTL%2B01RJm9FKfzjnzygao8pF20262fxoJaU14rUxyFnbjaji5f1qa1s4l1%2Fs8ENmmwYYMYENEmUudFk4suC%2BD%2FB4hf%2FaKqwD2zxeWfIBm1TM19%2B5PjMzNsozx%2FUUv9WKQd2mfgKJCIxuZNSLj0GyA3t1pryHMBPy%2BrXBrekwGSdNg03zbzfdE11S7C554RLB%2B8ioKQPl5Ig1oN0WLLy2Gg6hAm3kqjSHTZ2nfzRmluMluS8SD4Gv7osEUQfARYf%2B7u8kItH267Rhe7yqBOM5XSQ1CceS3TuVAVcssiVtABFKEaFVX2jR9rhWUaXmyZeAzJoCgqdqwlJr1a58s%2BjhGEY%2B%2Br1p1ex6mUhxeE6EhENGi7HaxU6BPQPewkFEJGJqIBH53SspSht%2BM1losUGwxBijjlKGteC7P8. This will remove you from future campaign communications.",
         "name": "Dan Osborn",
         "email": "info@adamforcolorado.com",
         "subject": "my announcement",
@@ -2864,7 +2940,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "MONDAIRE FOR CONGRESS",
+        "committee": "Mondaire for Congress",
         "name": "Mondaire Jones",
         "email": "info@mondaireforcongress.com",
         "subject": "Let\u2019s finish this",
@@ -3040,7 +3116,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TIM SHEEHY FOR MONTANA",
+        "committee": "Tim Sheehy for Montana",
         "name": "Tim Sheehy",
         "email": "info@justandfreegop.com",
         "subject": "New poll has me tied with Jon Tester",
@@ -3088,7 +3164,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "answer": "This email is from Stacey Abrams and the Democratic Party of Georgia, asking for donations to support their efforts in electing Democrats in Georgia. The main focus is on funding transportation assistance to help voters get to the polls.",
         "name": "Stacey Abrams",
         "email": "feedback@georgiademocrat.org",
         "subject": "our fight for voting rights",
@@ -3168,7 +3244,10 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Lucas Kunce for Missouri",
+        "error": {
+            "code": 400,
+            "message": "This request contains sensitive content."
+        },
         "name": "Ken Burns",
         "email": "team@lucasformo.com",
         "subject": "I\u2019m not exaggerating when I say the stakes have never been higher",
@@ -3248,7 +3327,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Bohannan for Congress",
+        "committee": "Bohannan For Congress",
         "name": "Christina (personal)",
         "email": "info@bohannanforcongress.com",
         "subject": "We\u2019re almost there",
@@ -3536,7 +3615,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Michelle Vallejo for Congress",
+        "text": "This appears to be a campaign email from Michelle Vallejo, who is running for Congress in TX-15. She's asking for donations to support her campaign with just 4 days left before Election Day. She needs to raise $15k for final voter outreach efforts. The email includes links to donate through ActBlue and ways to follow her on social media.",
         "name": "Michelle Vallejo",
         "email": "info@michellefortx15.com",
         "subject": "You\u2019ve shown up for my campaign time and time again",
@@ -3680,7 +3759,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC, Inc.",
+        "committee": "Trump National Committee JFC",
         "name": "JD Vance",
         "email": "contact@support.donaldjtrump.com",
         "subject": "Only 4 days",
@@ -3872,7 +3951,9 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Adam for Colorado",
+        "status": "success",
+        "content_length": 0,
+        "response_time": 0,
         "name": "Adam Frisch",
         "email": "info@adamforcolorado.com",
         "subject": "Fox News attacked my family",
@@ -3904,10 +3985,10 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Busse for Montana",
+        "subject": "We missed the mark",
+        "body": "\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034fRyan Busse puts principles overpolitics. If you\u2019d like to unsubscribe, click here.[https://secure.ngpvan.com/p/KuMB1syMs0W9O3v5MuCvqQ2?unsubscribedata=GbeWBF6aiJY0ScXkfckNlTjAadT089KyGfx7lKn5043Vw3bL7B8tJ05X%2FMw8HOPn9JfUOOQ5p6960%2FS6wlj5Lv5XUAT7tQFJNXQebCn6QgDdM2J1EC%2BCMNTR40HDEXNMOUEG5H9LH3HN2YpX4UedEl9K99z3VT58nmWpY3C7aSf5mcyCNyOBovZXOZP8Vkl%2BZcgQOOWX27tj%2BaLVP1tq1RE8nCIRi12dvPis3vl9svx4IMAhkkkTuXb6e3RlxVqO1rbFjAjSFqa4xAsplN%2Bgd8c%2FCylZbTD4O71EOXC4RMV2JwmHqGFCe71oFWRH3tMJ9dzEXyoykmu6a%2Fp9JXekAEbMeR8YcdLPBh%2FdH4SuElK9Ds1cqhN3fGnlDfnWK9alaNlEateTkKD1lvAFfR37cwwoO12SLt%2B%2F%2BFUwCTQ72vSc9yYEb3QKhqTeLm%2FTjKQA]# [#] Peter, you might have a candy hangover, but I have a stress headache.Last night, we fell short of our October-end fundraising deadline by justabout $4,000. It may not seem like much, but we calculated our $80,000 goalaround exactly what we need to succeed come November 5th, and we missed themark. We need to turn it around ASAP. If you can, consider chipping in here:secure.actblue.com/donate/bfm-em-fr-oct24[https://secure.actblue.com/donate/bfm-em-fr-oct24?amount=] Falling behindthis close to Election Day is going to have major consequences at the polls,Peter. But, we do have some good news: We did the math, and we can still comeback from this if we raise an emergency $4,000 today to make up for the lostground. If you\u2019re in a place to give in this critical moment for our Montanamovement, please consider chipping in $ or whatever you can today.secure.actblue.com/donate/bfm-em-fr-oct24[https://secure.actblue.com/donate/bfm-em-fr-oct24?amount=] Our future, ourrights, and our home depend on us. Now let\u2019s do what we do best \u2014 LFG! RyanBusse https://www.facebook.com/profile.php?id=61550979818697[https://www.facebook.com/profile.php?id=61550979818697]https://www.instagram.com/ryandbusse/ [https://www.instagram.com/ryandbusse/]https://twitter.com/ryandbusse?s=20 [https://twitter.com/ryandbusse?s=20]https://secure.actblue.com/donate/bfm-em-footer-2023[https://secure.actblue.com/donate/bfm-em-footer-2023] For more than 25 years,Ryan was a successful gun industry executive. But he also saw how uncheckedextremism could take away American freedoms and even jeopardize our democracy.Ryan sees the same thing happening to Montana: wealthy extremist GregGianforte bought his seat with his own millions, and now he\u2019s raising ourtaxes in order to give tax breaks to corporations, making Montanaunaffordable, defunding our public schools, locking up our public lands,hijacking our freedoms, and rigging the system for the rich. Ryan chose RaphGraybill as his running mate because no Montanan has done more to protectconstitutional rights and freedoms from Greg Gianforte. Since Gianforte becamegovernor, Raph has blocked more than a dozen different unconstitutional lawsthat invaded Montanans\u2019 constitutional rights. Ryan and Raph are running aschampions for ALL Montanans and to Get Our Montana Back![https://secure.actblue.com/donate/bfm-em-footer-2023] CONTRIBUTE \u00bb[https://secure.actblue.com/donate/bfm-em-footer-2023][https://secure.actblue.com/donate/bfm-em-footer-recurring-2023?recurring=true&amount;=25] CONTRIBUTE MONTHLY \u00bb[https://secure.actblue.com/donate/bfm-em-footer-recurring-2023?recurring=true&amount;=25] [https://busseformontana.com/] LEARNMORE \u00bb [https://busseformontana.com/][https://secure.ngpvan.com/dKNpNJQ3IkaDCySqCt1TNg2?contactdata=MDCu5HsU4L6oEb6jQL25H1tPWhydT1Bbxw/DtHS6+oPAk2pDt/3yVGhhRl/ZGZtSNwDRHo7VJR17+Iqu0EE7sg==]SIGN UP FOR EMAILS \u00bb[https://secure.ngpvan.com/dKNpNJQ3IkaDCySqCt1TNg2?contactdata=MDCu5HsU4L6oEb6jQL25H1tPWhydT1Bbxw/DtHS6+oPAk2pDt/3yVGhhRl/ZGZtSNwDRHo7VJR17+Iqu0EE7sg==]PAID FOR BY BUSSE FOR MONTANA \u2022 DEMOCRAT \u2022 PO BOX 8537 \u2022 KALISPELL, MT 59904If you would like to unsubscribe, click here[https://secure.ngpvan.com/p/KuMB1syMs0W9O3v5MuCvqQ2?unsubscribedata=GbeWBF6aiJY0ScXkfckNlTjAadT089KyGfx7lKn5043Vw3bL7B8tJ05X%2FMw8HOPn9JfUOOQ5p6960%2FS6wlj5Lv5XUAT7tQFJNXQebCn6QgDdM2J1EC%2BCMNTR40HDEXNMOUEG5H9LH3HN2YpX4UedEl9K99z3VT58nmWpY3C7aSf5mcyCNyOBovZXOZP8Vkl%2BZcgQOOWX27tj%2BaLVP1tq1RE8nCIRi12dvPis3vl9svx4IMAhkkkTuXb6e3RlxVqO1rbFjAjSFqa4xAsplN%2Bgd8c%2FCylZbTD4O71EOXC4RMV2JwmHqGFCe71oFWRH3tMJ9dzEXyoykmu6a%2Fp9JXekAEbMeR8YcdLPBh%2FdH4SuElK9Ds1cqhN3fGnlDfnWK9alaNlEateTkKD1lvAFfR37cwwoO12SLt%2B%2F%2BFUwCTQ72vSc9yYEb3QKhqTeLm%2FTjKQA]. To receive less email from us, click here[https://secure.ngpvan.com/G4G39X0bhEm5Z2XW2rYDpg2] . You can also click hereto donate [https://secure.actblue.com/donate/bfm-em-footer-2023] . Busse forMontana PO Box 8537 Kalispell, MT 59904 United States",
         "name": "Ryan Busse",
         "email": "info@busseformontana.com",
-        "subject": "We missed the mark",
         "date": "2024-11-01 15:05:47",
         "year": "2024",
         "month": "11",
@@ -3915,7 +3996,6 @@
         "hour": "15",
         "minute": "5",
         "domain": "busseformontana.com",
-        "body": "\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034fRyan Busse puts principles overpolitics. If you\u2019d like to unsubscribe, click here.[https://secure.ngpvan.com/p/KuMB1syMs0W9O3v5MuCvqQ2?unsubscribedata=GbeWBF6aiJY0ScXkfckNlTjAadT089KyGfx7lKn5043Vw3bL7B8tJ05X%2FMw8HOPn9JfUOOQ5p6960%2FS6wlj5Lv5XUAT7tQFJNXQebCn6QgDdM2J1EC%2BCMNTR40HDEXNMOUEG5H9LH3HN2YpX4UedEl9K99z3VT58nmWpY3C7aSf5mcyCNyOBovZXOZP8Vkl%2BZcgQOOWX27tj%2BaLVP1tq1RE8nCIRi12dvPis3vl9svx4IMAhkkkTuXb6e3RlxVqO1rbFjAjSFqa4xAsplN%2Bgd8c%2FCylZbTD4O71EOXC4RMV2JwmHqGFCe71oFWRH3tMJ9dzEXyoykmu6a%2Fp9JXekAEbMeR8YcdLPBh%2FdH4SuElK9Ds1cqhN3fGnlDfnWK9alaNlEateTkKD1lvAFfR37cwwoO12SLt%2B%2F%2BFUwCTQ72vSc9yYEb3QKhqTeLm%2FTjKQA]# [#] Peter, you might have a candy hangover, but I have a stress headache.Last night, we fell short of our October-end fundraising deadline by justabout $4,000. It may not seem like much, but we calculated our $80,000 goalaround exactly what we need to succeed come November 5th, and we missed themark. We need to turn it around ASAP. If you can, consider chipping in here:secure.actblue.com/donate/bfm-em-fr-oct24[https://secure.actblue.com/donate/bfm-em-fr-oct24?amount=] Falling behindthis close to Election Day is going to have major consequences at the polls,Peter. But, we do have some good news: We did the math, and we can still comeback from this if we raise an emergency $4,000 today to make up for the lostground. If you\u2019re in a place to give in this critical moment for our Montanamovement, please consider chipping in $ or whatever you can today.secure.actblue.com/donate/bfm-em-fr-oct24[https://secure.actblue.com/donate/bfm-em-fr-oct24?amount=] Our future, ourrights, and our home depend on us. Now let\u2019s do what we do best \u2014 LFG! RyanBusse https://www.facebook.com/profile.php?id=61550979818697[https://www.facebook.com/profile.php?id=61550979818697]https://www.instagram.com/ryandbusse/ [https://www.instagram.com/ryandbusse/]https://twitter.com/ryandbusse?s=20 [https://twitter.com/ryandbusse?s=20]https://secure.actblue.com/donate/bfm-em-footer-2023[https://secure.actblue.com/donate/bfm-em-footer-2023] For more than 25 years,Ryan was a successful gun industry executive. But he also saw how uncheckedextremism could take away American freedoms and even jeopardize our democracy.Ryan sees the same thing happening to Montana: wealthy extremist GregGianforte bought his seat with his own millions, and now he\u2019s raising ourtaxes in order to give tax breaks to corporations, making Montanaunaffordable, defunding our public schools, locking up our public lands,hijacking our freedoms, and rigging the system for the rich. Ryan chose RaphGraybill as his running mate because no Montanan has done more to protectconstitutional rights and freedoms from Greg Gianforte. Since Gianforte becamegovernor, Raph has blocked more than a dozen different unconstitutional lawsthat invaded Montanans\u2019 constitutional rights. Ryan and Raph are running aschampions for ALL Montanans and to Get Our Montana Back![https://secure.actblue.com/donate/bfm-em-footer-2023] CONTRIBUTE \u00bb[https://secure.actblue.com/donate/bfm-em-footer-2023][https://secure.actblue.com/donate/bfm-em-footer-recurring-2023?recurring=true&amount;=25] CONTRIBUTE MONTHLY \u00bb[https://secure.actblue.com/donate/bfm-em-footer-recurring-2023?recurring=true&amount;=25] [https://busseformontana.com/] LEARNMORE \u00bb [https://busseformontana.com/][https://secure.ngpvan.com/dKNpNJQ3IkaDCySqCt1TNg2?contactdata=MDCu5HsU4L6oEb6jQL25H1tPWhydT1Bbxw/DtHS6+oPAk2pDt/3yVGhhRl/ZGZtSNwDRHo7VJR17+Iqu0EE7sg==]SIGN UP FOR EMAILS \u00bb[https://secure.ngpvan.com/dKNpNJQ3IkaDCySqCt1TNg2?contactdata=MDCu5HsU4L6oEb6jQL25H1tPWhydT1Bbxw/DtHS6+oPAk2pDt/3yVGhhRl/ZGZtSNwDRHo7VJR17+Iqu0EE7sg==]PAID FOR BY BUSSE FOR MONTANA \u2022 DEMOCRAT \u2022 PO BOX 8537 \u2022 KALISPELL, MT 59904If you would like to unsubscribe, click here[https://secure.ngpvan.com/p/KuMB1syMs0W9O3v5MuCvqQ2?unsubscribedata=GbeWBF6aiJY0ScXkfckNlTjAadT089KyGfx7lKn5043Vw3bL7B8tJ05X%2FMw8HOPn9JfUOOQ5p6960%2FS6wlj5Lv5XUAT7tQFJNXQebCn6QgDdM2J1EC%2BCMNTR40HDEXNMOUEG5H9LH3HN2YpX4UedEl9K99z3VT58nmWpY3C7aSf5mcyCNyOBovZXOZP8Vkl%2BZcgQOOWX27tj%2BaLVP1tq1RE8nCIRi12dvPis3vl9svx4IMAhkkkTuXb6e3RlxVqO1rbFjAjSFqa4xAsplN%2Bgd8c%2FCylZbTD4O71EOXC4RMV2JwmHqGFCe71oFWRH3tMJ9dzEXyoykmu6a%2Fp9JXekAEbMeR8YcdLPBh%2FdH4SuElK9Ds1cqhN3fGnlDfnWK9alaNlEateTkKD1lvAFfR37cwwoO12SLt%2B%2F%2BFUwCTQ72vSc9yYEb3QKhqTeLm%2FTjKQA]. To receive less email from us, click here[https://secure.ngpvan.com/G4G39X0bhEm5Z2XW2rYDpg2] . You can also click hereto donate [https://secure.actblue.com/donate/bfm-em-footer-2023] . Busse forMontana PO Box 8537 Kalispell, MT 59904 United States",
         "party": "D",
         "disclaimer": "True"
     },
@@ -3936,9 +4016,8 @@
         "disclaimer": "True"
     },
     {
-        "committee": "HMP",
-        "name": "900% MATCH UNLOCKED for dpwillis67@gmail.com",
         "email": "info@housemajoritypac.org",
+        "name": "900% MATCH UNLOCKED for dpwillis67@gmail.com",
         "subject": "me, Liz Cheney",
         "date": "2024-11-01 15:06:22",
         "year": "2024",
@@ -4016,7 +4095,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "info@bestamericanow.com",
         "subject": "Make your 2X gift for 7 Days to Save America",
@@ -4032,7 +4111,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "REDDY FOR KANSAS",
+        "committee": "Reddy for Kansas",
         "name": "Dr. Prasanth Reddy",
         "email": "info@reddyforkansas.com",
         "subject": "Vote!",
@@ -4096,7 +4175,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "BOB CASEY FOR SENATE INC.",
+        "committee": "Bob Casey For Senate Inc.",
         "name": "Jon Favreau",
         "email": "info@email.bobcasey.com",
         "subject": "We need to do everything we can to make sure Bob wins",
@@ -4352,7 +4431,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "INDIANA REPUBLICAN STATE COMMITTEE",
+        "committee": "Indiana Republican State Committee",
         "name": "Indiana GOP",
         "email": "info@email.in-gop.com",
         "subject": "REMINDER! INGOP Election Night Party!",
@@ -4416,7 +4495,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Friends of Janelle Stelson",
+        "message": "This appears to be an email from Janelle Stelson's campaign. The content includes: \n\n1. Introduction: Janelle Stelson has been a journalist for over three decades and is running against Scott Perry in Pennsylvania's 10th District.\n2. Platform highlights: She supports good-paying jobs, abortion rights, quality healthcare and education, and transparency.\n3. Campaign request: The email asks for donations to help unseat the current representative.\n4. Contact information: Provides links to social media profiles and a website.\n5. Footer: Includes unsubscribe options and physical mailing address.",
         "name": "Team Stelson HQ",
         "email": "team@janellestelson.com",
         "subject": "4\ufe0f\u20e3 days to win it",
@@ -4432,7 +4511,8 @@
         "disclaimer": "True"
     },
     {
-        "committee": "National Democratic Redistricting Committee",
+        "text": "This appears to be an email from the National Democratic Redistricting Committee (NDRC) regarding their efforts to fight gerrymandering and promote fair districting. The email includes several key elements:\n\n1. A call to action for donations to support their redistricting strategy.\n2. Information about their work since 2017 to shift redistricting power and create fair districts.\n3. Details about how supporters can stay updated through text messages or social media.\n4. Contact information and unsubscribe options.\n\nThe email emphasizes the importance of fighting Republican gerrymandering and voter suppression, and explains that donations will go toward these efforts. It also provides multiple ways for recipients to engage with the organization or adjust their communication preferences.",
+        "summary": "Email from NDRC about fundraising for fair redistricting efforts",
         "name": "Team NDRC",
         "email": "info@democraticredistricting.com",
         "subject": "A.G. Holder: \u201cNorth Carolina is now one of the most egregiously gerrymandered states in the country.\u201d",
@@ -4528,7 +4608,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "New Democrat Coalition Action Fund",
+        "committee": "NewDemocrat Coalition Action Fund",
         "name": "New Dems Political Team",
         "email": "team@newdemactionfund.com",
         "subject": "Have you voted yet??",
@@ -4544,10 +4624,49 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "subject": "Stacey Abrams just ignited us:",
+        "from": {
+            "name": "Georgia Democratic Party",
+            "email": "info@georgiademocrat.org"
+        },
+        "to": "dpwillis67@gmail.com",
+        "content": [
+            {
+                "type": "text",
+                "value": "We're reaching out because your support is crucial to helping elect Democrats in Georgia. We rely on grassroots contributions to fuel our fight for a strong middle class, integrity in government, and equality and justice for all Georgians."
+            },
+            {
+                "type": "button",
+                "label": "Donate Now",
+                "link": "https://secure.actblue.com/donate/sbd_dpg_em_footer24"
+            },
+            {
+                "type": "text",
+                "value": "Your donation will help us build momentum to elect a wave of Democrats this November. Together, we can make history and create positive change in Georgia."
+            },
+            {
+                "type": "button",
+                "label": "Learn More About Our Mission",
+                "link": "https://georgiademocrat.org/"
+            }
+        ],
+        "footer": [
+            {
+                "type": "text",
+                "value": "If you'd prefer not to receive emails from us, you can unsubscribe here:"
+            },
+            {
+                "type": "link",
+                "label": "Unsubscribe",
+                "url": "https://secure.ngpvan.com/p/502xl98alkm3J5MS-c04xA2?unsubscribedata=..."
+            }
+        ],
+        "metadata": {
+            "org_name": "Democratic Party of Georgia",
+            "address": "P.O. BOX 89202 Atlanta, GA 30312 United States"
+        },
         "name": "Georgia HQ",
         "email": "feedback@georgiademocrat.org",
-        "subject": "Stacey Abrams just ignited us:",
         "date": "2024-11-01 16:05:35",
         "year": "2024",
         "month": "11",
@@ -4768,7 +4887,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "editor@editor.conservativebroadcast.net",
         "subject": "Hundreds more reach out every day",
@@ -4880,7 +4999,21 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Leslie Mehta for Congress",
+        "title": "Email Campaign Analysis",
+        "sections": {
+            "introduction": {
+                "content": "This appears to be a campaign email from Leslie Mehta's congressional run. The primary goal is voter engagement and fundraising."
+            },
+            "key_elements": {
+                "content": "- Personal appeal emphasizing her background as a civil rights attorney- Clear call-to-action for donations with multiple contribution options- Links to social media presence (Facebook, Instagram, Twitter)- Campaign messaging focused on constitutional rights and family advocacy"
+            },
+            "target_audience": {
+                "content": "The email is likely targeting Democratic voters in Virginia's 1st Congressional District who are concerned about civil rights issues."
+            },
+            "campaign_strategies": {
+                "content": "- Emphasizing her legal expertise to build credibility- Highlighting specific policy areas (constitutional rights, family advocacy)- Using multiple engagement channels (email, social media, website)"
+            }
+        },
         "name": "Leslie Mehta",
         "email": "campaign@lesliemehta.com",
         "subject": "Did you see this coming?",
@@ -5200,7 +5333,12 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Joe Salerno for Congress",
+        "@context": "http://schema.org",
+        "@type": "EmailMessage",
+        "recipient": {
+            "@type": "Person"
+        },
+        "content": "Hello! I'm Joe Salerno, running for Congress to bring positive change to South Jersey. With the election just around the corner, every moment counts in our fight for progress. Will you help us reach undecided voters and build momentum with a donation today? Every contribution helps fuel our grassroots efforts to kick Van Drew out of Congress. You can donate securely through ActBlue here: [https://secure.actblue.com/donate/jsfc-fr-em-nov24](https://secure.actblue.com/donate/jsfc-fr-em-nov24) Let's work together to create a better South Jersey! Thank you for your support, -Joe Salerno Follow me on social media to stay updated: [Facebook](https://www.facebook.com/JoeSalernoforCongress/) | [Twitter](https://twitter.com/joesalernoNJ) | [Instagram](https://www.instagram.com/joesalernoforcongress/)",
         "name": "Joe Salerno",
         "email": "campaign@joesalernoforcongress.com",
         "subject": "My team and I are traveling all over South Jersey",
@@ -5408,7 +5546,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "ROB ORTT FOR STATE SENATE",
+        "committee": "Rob Ortt For State Senate",
         "name": "Rob Ortt",
         "email": "rob@orttforstatesenate.ccsend.com",
         "subject": "Join me for a Veterans For Trump Rally!",
@@ -5488,7 +5626,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Defeat Boebert PAC",
+        "committee": "DefeatBoebert PAC",
         "name": "Jon Tester",
         "email": "info@defeatboebertpac.com",
         "subject": "NEW poll in Montana\u2019s Senate race",
@@ -5520,7 +5658,16 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Adam for Colorado",
+        "items": [
+            {
+                "type": "donation_link",
+                "value": "https://secure.actblue.com/contribute/page/frisch_email_osborn?refcode=em20241101mid-nd&amounts;=5%2C10%2C25%2C35%2C50%2C100%2C250&recurring;=true&refcode2;=RLG%2BeVppjT77ux7SdmYbvuVvKI1ZperjbTXv9l%2F0VDIplFTI%2FRyk%2FH8hhaL2A8cG2w7qzcCBL%2FGbhGRqA3xkZwtNAirqhYkcgXdNEZQUt%2BWocNPuo%2BtDyEuYgjLrg%2FngTH9C1Iy2WKWOWjJhYnGlgWwhAySnqAXToOcPMppNb0jj9%2BHGGDlkSnAU%2BesUKK1hUc3qd7hhmSA0f8eyS8GTnfGsM3POZd3i0V41TDuhY7aZVobXIew6LrcHB%2Bxf5Qk1z%2FyzFCLpSD8q4tNzr3MBuQLYnw%2FLbETBqUVkJNvBz0JoozTLnBuXigV5e4cf7btsw2JcaKFBOKEt%2Fu1Vt6y0QifbV0Oolf5jSzqcvIgDCjJcl7LSvqNV%2BuiXsqhAlGPIxpALYCzRgq3mOO0mxjuUaSmkUNwLCFvlD164CWpy4X0Cl7NNU0%2Bb2NlrXp%2FiuPvi"
+            },
+            {
+                "type": "unsubscribe_link",
+                "value": "https://secure.ngpvan.com/p/Uv6ihFy0UkOXP2-vh91pzA2?unsubscribedata=RLG%2BeVppjT77ux7SdmYbvuVvKI1ZperjbTXv9l%2F0VDIplFTI%2FRyk%2FH8hhaL2A8cG2w7qzcCBL%2FGbhGRqA3xkZwtNAirqhYkcgXdNEZQUt%2BWocNPuo%2BtDyEuYgjLrg%2FngTH9C1Iy2WKWOWjJhYnGlgWwhAySnqAXToOcPMppNb0jj9%2BHGGDlkSnAU%2BesUKK1hUc3qd7hhmSA0f8eyS8GTnfGsM3POZd3i0V41TDuhY7aZVobXIew6LrcHB%2Bxf5Qk1z%2FyzFCLpSD8q4tNzr3MBuQLYnw%2FLbETBqUVkJNvBz0JoozTLnBuXigV5e4cf7btsw2JcaKFBOKEt%2Fu1Vt6y0QifbV0Oolf5jSzqcvIgDCjJcl7LSvqNV%2BuiXsqhAlGPIxpALYCzRgq3mOO0mxjuUaSmkUNwLCFvlD164CWpy4X0Cl7NNU0%2Bb2NlrXp%2FiuPvi"
+            }
+        ],
         "name": "Dan Osborn",
         "email": "info@adamforcolorado.com",
         "subject": "the U.S. Senate is just another country club",
@@ -5712,7 +5859,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Upset The Setup PAC",
+        "committee": "UpsetThe Setup PAC",
         "name": "John Fetterman",
         "email": "info@upsetthesetup.org",
         "subject": "BAD news",
@@ -5728,7 +5875,39 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Schiff for Senate",
+        "emailContent": {
+            "subjectLine": "Trump's Desperate Attacks Won't Stop Us",
+            "greeting": "Hi Derek,",
+            "bodyText": [
+                "We're just days away from the election, and Trump is resorting to his old tactics: personally attacking me on the campaign trail. It's no surprise - he hasn't changed, and he never will.",
+                "But these desperate attacks only highlight how important it is that we work together to protect our values and elect Democrats like Kamala Harris, Tim Walz, and others up and down the ballot who will stand up for what's right.",
+                "With just a few days left until Election Day, your support is more crucial than ever. Will you rush in a contribution before our final GOTV weekend to help us reach voters and turn out droves of supporters?"
+            ],
+            "donationOptions": {
+                "expressDonate": [
+                    10,
+                    25,
+                    50,
+                    100,
+                    250
+                ],
+                "customAmountOption": true
+            },
+            "closingText": "Thank you for standing with me against Trump's divisive rhetoric. Together, we can build a better future.",
+            "signature": "-- Adam Schiff",
+            "psSection": {
+                "text": "Don't forget - text SCHIFF to 724433 to get the latest updates from our campaign!",
+                "linkToMonthlyGiving": true
+            },
+            "footerInfo": {
+                "physicalAddress": "135 E. Olive Ave., #750 Burbank CA, 91502",
+                "websiteUrl": "www.adamschiff.com",
+                "emailContact": "contact@adamschiff.com",
+                "privacyPolicyLink": true,
+                "unsubscribeLink": true,
+                "authorizedBy": "Paid for and authorized by Schiff for Senate"
+            }
+        },
         "name": "Adam Schiff",
         "email": "reply@e.adamschiff.com",
         "subject": "Trump called me \u201ctotal scum\u201d",
@@ -5760,7 +5939,64 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Maxwell Frost for Congress",
+        "campaign_id": "RgRpB5zvP0",
+        "email_metadata": {
+            "subject": null,
+            "from_address": "kitchen@frostforcongress.com",
+            "to_recipient": null,
+            "date_sent": null,
+            "content_type": "multipart/alternative"
+        },
+        "links_in_email": [
+            {
+                "url": "http://www.frostforcongress.com/",
+                "label": "www.FrostForCongress.com",
+                "type": "website"
+            },
+            {
+                "url": "https://twitter.com/MaxwellFrostFL",
+                "label": "@MaxwellFrostFL on Twitter",
+                "type": "social_media_twitter"
+            },
+            {
+                "url": "https://www.facebook.com/MaxwellFrostFL/",
+                "label": "Maxwell Frost for Congress on Facebook",
+                "type": "social_media_facebook"
+            },
+            {
+                "url": "https://www.instagram.com/maxwellfrostfl/",
+                "label": "@maxwellfrostfl on Instagram",
+                "type": "social_media_instagram"
+            }
+        ],
+        "donation_buttons": [
+            {
+                "button_label": "$100",
+                "url": "https://secure.actblue.com/donate/frost-donation?amount=100",
+                "color": "#4CAF50",
+                "size": "large"
+            },
+            {
+                "button_label": "$250",
+                "url": "https://secure.actblue.com/donate/frost-donation?amount=250",
+                "color": "#4CAF50",
+                "size": "large"
+            },
+            {
+                "button_label": "$500",
+                "url": "https://secure.actblue.com/donate/frost-donation?amount=500",
+                "color": "#4CAF50",
+                "size": "large"
+            }
+        ],
+        "campaign_info": {
+            "organization_name": "Maxwell Frost for Congress",
+            "street_address": "PO Box 772671",
+            "city": "Orlando",
+            "state": "FL",
+            "zip_code": "32877-2671",
+            "country": "United States"
+        },
         "name": "Maxwell Frost",
         "email": "info@frostforcongress.com",
         "subject": "4 days left",
@@ -5872,7 +6108,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Steve Daines for Montana",
+        "committee": "Steve Daines for Senate",
         "name": "Steve Daines",
         "email": "info@justandfreegop.com",
         "subject": "These folks need our help",
@@ -6016,10 +6252,47 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Michael B. Moore for South Carolina",
+        "id": 1,
+        "type": "fundraising_email",
+        "recipient_name": "Peter",
+        "sender_name": "Michael B. Moore Campaign",
+        "subject": "URGENT: This could decide this election",
+        "content": {
+            "main_message": "The campaign has missed its critical month-end fundraising deadline by nearly $1,212 and needs urgent support to fund voter outreach efforts in the final days of the race.",
+            "ask_amount": 25,
+            "total_needed_from_supporters": 50,
+            "amount_per_supporter": 25,
+            "deadline_context": "Final 5 days of the campaign",
+            "key_issues": [
+                "Abortion rights",
+                "National security"
+            ],
+            "opponent": "Nancy Mace"
+        },
+        "call_to_action": {
+            "primary_button_text": "DONATE OTHER AMOUNT",
+            "secondary_button_text": "CONTRIBUTE MONTHLY"
+        },
+        "footer": {
+            "organization_name": "Michael B. Moore for South Carolina",
+            "address": "3022 South Morgans Point Road, Suite 295 Mount Pleasant, SC 29466 United States",
+            "contact_info": {
+                "website": "https://www.michaelbmoore.com/",
+                "social_media_links": [
+                    "https://www.twitter.com/michael_b_moore",
+                    "https://www.facebook.com/MichaelBMooreforCongress",
+                    "https://www.instagram.com/mbm_sc01/",
+                    "https://www.threads.net/@mbm_sc01"
+                ]
+            }
+        },
+        "metadata": {
+            "email_type": "emergency_fundraising",
+            "campaign_id": "SC-01_2023",
+            "tracking_code": "mbm-em-footer24"
+        },
         "name": "Team Moore",
         "email": "campaign@michaelbmoore.com",
-        "subject": "URGENT: This could decide this election",
         "date": "2024-11-01 18:29:42",
         "year": "2024",
         "month": "11",
@@ -6176,7 +6449,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "text": "This email from the Democratic Party of Georgia is soliciting donations to support their efforts in electing Democrats and defeating Donald Trump in 2024. They are offering free rides to polling locations for voters who need transportation assistance. The email includes links to donate, subscribe, or unsubscribe, as well as social media handles for the party.",
         "name": "Georgia HQ",
         "email": "feedback@georgiademocrat.org",
         "subject": "Georgia isn\u2019t just any state",
@@ -6256,7 +6529,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Foushee for Congress",
+        "committee": "Valerie Foushee for Congress",
         "name": "Valerie Foushee",
         "email": "info@valeriefoushee.com",
         "subject": "My career in public service",
@@ -6272,7 +6545,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "newsletter@newsletter.conservativedirect.com",
         "subject": "1 volunteer, 200 ballots chased",
@@ -6288,7 +6561,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Republican Party of Virginia",
+        "error": "Not a question",
         "name": "Ken Nunnenkamp",
         "email": "info@rpv.org",
         "subject": "President Trump is coming to Virginia!",
@@ -6400,7 +6673,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
+        "committee": "National Republican Senatorial Committee",
         "name": "Trump Majority Alert (via NRSC)",
         "email": "info@redconservatives.com",
         "subject": "Biden just called you GARBAGE",
@@ -6416,7 +6689,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "info@freedomtrainalert.com",
         "subject": "Every volunteer we train now\u2026",
@@ -6576,7 +6849,43 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Gabe Vasquez for Congress",
+        "blocks": [
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Gabe Vasquez won the most competitive Democratic seat in Congress in 2022. He's running to be a champion for working families and build an economy that benefits everyone.*\n\n*If you'd like to unsubscribe, click here:* [https://secure.ngpvan.com/p/lNYIdkhPikOBrh6RGc-KWg2?unsubscribedata=tlH5jugdC83jmVt6Kh2P8d%2BnP4jKeRg8cekHS1RN79Ab4LHjB4AzOmUv64JzFX6uMpb0tHtNA5Tm58iIZp4W%2BzIKoit2O7wP35H3IvXtC0qQphhGhaQ2uOOzmaEsxJrUYYinJgTRZ7sUF5Sl9VEtN2%2F3KItSjgghHPK9UEp59hMb5Tnnm8pDYSm0EKplnZGaWTHnAYLv2WX7DN02hqUdxrOOLpDE45ThvKUqfPoPsiwCxlzQya%2BsI1%2F8H2hbMfyjfbx2gFXNVnUG1TIazbkJjwKjLUnR4wrDsu7eNpVzaSG8a7WjmT%2FCQP6VmM3x2WJ0XIg6vc1AFqWBfbBbvpuO1F3t4ddr3D1xyf9YbSjfV1ciyRht%2FU2He2ZbtJhKqVwoE1cKb5v58I0OrWtruwxJzXIr1%2FBj1GXUWxgL%2BRd3elc%3D]"
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Saludos, amigos.*\n\n*Together, we flipped NM-02 in 2022. Now, Gabe is busy in Congress fighting for reproductive choice, economic opportunity, affordable healthcare, and the best interests of the people. Gabe won the most competitive Democratic seat in Congress in 2022, and is running to be a champion for working families and build an economy that benefits everyone.*"
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*If you would like to unsubscribe, click here:* [https://secure.ngpvan.com/p/lNYIdkhPikOBrh6RGc-KWg2?unsubscribedata=tlH5jugdC83jmVt6Kh2P8d%2BnP4jKeRg8cekHS1RN79Ab4LHjB4AzOmUv64JzFX6uMpb0tHtNA5Tm58iIZp4W%2BzIKoit2O7wP35H3IvXtC0qQphhGhaQ2uOOzmaEsxJrUYYinJgTRZ7sUF5Sl9VEtN2%2F3KItSjgghHPK9UEp59hMb5Tnnm8pDYSm0EKplnZGaWTHnAYLv2WX7DN02hqUdxrOOLpDE45ThvKUqfPoPsiwCxlzQya%2BsI1%2F8H2hbMfyjfbx2gFXNVnUG1TIazbkJjwKjLUnR4wrDsu7eNpVzaSG8a7WjmT%2FCQP6VmM3x2WJ0XIg6vc1AFqWBfbBbvpuO1F3t4ddr3D1xyf9YbSjfV1ciyRht%2FU2He2ZbtJhKqVwoE1cKb5v58I0OrWtruwxJzXIr1%2FBj1GXUWxgL%2BRd3elc%3D]"
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Follow Gabe on social media:*\n\n*Facebook:* [https://www.facebook.com/GabeVasquezforCongress](https://www.facebook.com/GabeVasquezforCongress)\n*X (Twitter):* [https://x.com/Gabe_NM?s=20](https://x.com/Gabe_NM?s=20)\n*Instagram:* [https://www.instagram.com/gabeforcongress?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==](https://www.instagram.com/gabeforcongress?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)"
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Paid for by the Gabe Vasquez Campaign Committee*\n\n*Gabe Vasquez Campaign Committee, P.O. Box 2345, Las Cruces, NM 88004*"
+                }
+            }
+        ],
         "name": "Gabe Vasquez",
         "email": "info@gabeforcongress.com",
         "subject": "Home stretch",
@@ -6640,7 +6949,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Republican Party of Wisconsin",
+        "text": "This appears to be a Republican Party of Wisconsin email newsletter listing various campaign events and election night watch parties across different counties in Wisconsin. The email includes dates, times, and locations for events from November 1-5, including GOTV (Get Out The Vote) activities, meet-and-greets with candidates like Eric Hovde, and Election Night Victory Parties. The email also contains social sharing links and unsubscribe information.",
         "name": "Team WisGOP",
         "email": "info@wisconsin-gop.com",
         "subject": "Campaign Homestretch Rundown",
@@ -6800,7 +7109,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Mullen For Secretary of State",
+        "committee": "Mullen For Secretary Of State",
         "name": "Jesse James Mullen",
         "email": "info@mullenformontana.com",
         "subject": "One final push",
@@ -6912,7 +7221,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "FRIENDS OF KRISTIN FOR WISCONSIN",
+        "committee": "Friends of Kristin for Wisconsin",
         "name": "Madeleine (via Kristin for Wisconsin)",
         "email": "info@kristinforwisconsin.com",
         "subject": "Why I\u2019m biting my fingernails right now",
@@ -7008,7 +7317,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYs List",
+        "committee": "EMILYSLIST",
         "name": "Elect Women HQ",
         "email": "information@emilyslist.org",
         "subject": "[SENATE RACES] Our final matchups:",
@@ -7024,7 +7333,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Turning Point Action",
+        "committee": "TURNING POINT ACTION",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "Make your 2X gift for 7 Days to Save America",
@@ -7280,7 +7589,41 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Jonathan Nez for Congress",
+        "items": [
+            {
+                "id": 1,
+                "title": "Email Content Analysis",
+                "description": "This appears to be a campaign email from Jonathan Nez for Congress, containing several key elements:",
+                "key_elements": [
+                    "Fundraising request with donation links",
+                    "Social media handles and website information",
+                    "Contact information (PO Box 1854 Flagstaff, AZ 86002)",
+                    "Unsubscribe option",
+                    "Paid disclaimer"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Campaign Message Highlights",
+                "description": "The email emphasizes:",
+                "highlights": [
+                    "A call for donations to counter opposition funding",
+                    "Gratitude message from Jonathan Nez with Navajo phrase 'Ah\u00e9hee' (Thank you)",
+                    "Emphasis on collective action ('Together, we're a force to be reckoned with')",
+                    "Focus on community support and involvement"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Technical Details",
+                "description": "The email contains:",
+                "details": [
+                    "Multiple tracked links for donations and social media",
+                    "A detailed unsubscribe link with specific parameters",
+                    "Standard campaign email formatting with headers and footers"
+                ]
+            }
+        ],
         "name": "Jonathan Nez",
         "email": "info@jonathannezforaz.com",
         "subject": "Don\u2019t let big money silence us",
@@ -7344,7 +7687,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "George Latimer for Congress",
+        "message": "This is a campaign fundraising email for George Latimer, who is running for Congress in New York's 16th District. The key points are:\n\n1. Election Day is 4 days away, and the campaign needs support for voter outreach efforts.\n2. The campaign is asking for donations of any amount to help fund their final push.\n3. George Latimer has a long history of progressive leadership in Westchester County.\n4. The email includes links to donate, learn more about the campaign, and unsubscribe from future communications.\n\nThe email also highlights Latimer's track record on various issues like civil rights, women's rights, gun control, and marriage equality.",
         "name": "George Latimer",
         "email": "info@latimerforny.com",
         "subject": "Before Tuesday",
@@ -7504,7 +7847,20 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "version": "1",
+        "content": "This appears to be a political fundraising email from the Democratic Party of Georgia. The email is requesting donations to support their efforts in electing Democrats and defeating Donald Trump in 2024. It also provides information about unsubscribing and contact details for the party.",
+        "email_metadata": {
+            "sender": "Democratic Party of Georgia",
+            "recipient": "dpwillis67@gmail.com",
+            "subject": "Support Georgia Democrats",
+            "date_sent": "Current Date"
+        },
+        "key_points": [
+            "Fundraising request",
+            "Electing Democrats in Georgia",
+            "Defeating Donald Trump in 2024",
+            "Unsubscribe option available"
+        ],
         "name": "Georgia HQ",
         "email": "feedback@georgiademocrat.org",
         "subject": "\ud83d\udea8bad news in Georgia [re: GOP voter suppression]",
@@ -7648,7 +8004,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Pennsylvania Democratic Party",
+        "committee": "The Pennsylvania Democratic Party",
         "name": "PA Democratic Party",
         "email": "info@padems.org",
         "subject": "PADEMS Monthly Newsletter \u2014 November 2024",
@@ -7696,7 +8052,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Bob Casey for Senate Inc.",
+        "committee": "BOB CASEY FOR SENATE INC.",
         "name": "Bob Casey",
         "email": "info@email.bobcasey.com",
         "subject": "60 seconds",
@@ -7728,7 +8084,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Celeste for Congress",
+        "committee": "CELESTE FOR CONGRESS",
         "name": "Team Celeste",
         "email": "celeste@forpublicoffice.ccsend.com",
         "subject": "Join Celeste on Election Night",
@@ -7856,7 +8212,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TIM SHEEHY FOR MONTANA",
+        "committee": "Tim Sheehy for Montana",
         "name": "Tim Sheehy",
         "email": "info@standingstrongamerica.com",
         "subject": "Total spending has reached $243 million",
@@ -7952,7 +8308,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Senate Conservatives Fund",
+        "committee": "SENATE CONSERVATIVES FUND",
         "name": "Senate Conservatives",
         "email": "email@updates.conservativeintel.com",
         "subject": "Four Neck-and-Neck Senate Races",
@@ -8080,7 +8436,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "STEVE GARVEY FOR U.S. SENATE",
+        "committee": "Steve Garvey for U.S. Senate",
         "name": "Steve Garvey",
         "email": "info@itsourgreatamerica.com",
         "subject": "The most important week",
@@ -8176,7 +8532,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "CHRIS DELUZIO FOR CONGRESS",
+        "committee": "Chris Deluzio for Congress",
         "name": "Montana Senate Update",
         "email": "info@chrisforpa.com",
         "subject": "Tim Sheehy lied about his military service.",
@@ -8272,7 +8628,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYs List",
+        "committee": "EMILYS LIST",
         "name": "EMILYs List",
         "email": "information@emilyslist.org",
         "subject": "Your first donation:",
@@ -8320,7 +8676,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Schiff for Senate",
+        "committee": "SCHIFF FOR SENATE",
         "name": "Colin Allred",
         "email": "reply@e.adamschiff.com",
         "subject": "Here are the numbers",
@@ -8416,7 +8772,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Bob Casey for Senate Inc.",
+        "committee": "BOB CASEY FOR SENATE INC.",
         "name": "Team Casey",
         "email": "info@email.bobcasey.com",
         "subject": "Join Bob Casey for Senate on Election Night in Scranton!",
@@ -8480,9 +8836,22 @@
         "disclaimer": "True"
     },
     {
-        "committee": "National Democratic Redistricting Committee",
-        "name": "Team NDRC",
         "email": "info@democraticredistricting.com",
+        "metadata": {
+            "organization": "National Democratic Redistricting Committee",
+            "address": "712 H St NE, Suite #25 Washington, DC 20002",
+            "social_media": {
+                "facebook": "https://www.facebook.com/DemRedistrict",
+                "instagram": "https://www.instagram.com/demredistrict/",
+                "threads": "https://www.threads.net/@demredistrict"
+            },
+            "contact_info": {
+                "phone": "Text MAPS to 36787",
+                "email": "[info@ndrc.org]"
+            },
+            "privacy_policy": "https://democraticredistricting.com/privacy-policy/"
+        },
+        "name": "Team NDRC",
         "subject": "As Attorney General Holder says\u2026",
         "date": "2024-11-01 22:35:22",
         "year": "2024",
@@ -8768,7 +9137,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "JUSTICE DEMOCRATS",
+        "committee": "Justice Democrats",
         "name": "Justice Democrats",
         "email": "us@list.justicedemocrats.com",
         "subject": "BREAKING: Squad members are putting pressure on Biden",
@@ -8832,7 +9201,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "BOB CASEY FOR SENATE INC.",
+        "committee": "Bob Casey for Senate Inc.",
         "name": "Bob Casey HQ",
         "email": "info@email.bobcasey.com",
         "subject": "The worst news yet",
@@ -8848,7 +9217,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Keith Ellison for Attorney General committee",
+        "committee": "Keith Ellison for Attorney General",
         "name": "Keith Ellison",
         "email": "campaign@keithellison.org",
         "subject": "If you\u2019re considering sitting out this election because of Gaza",
@@ -8864,7 +9233,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TRUTH TO POWER PAC",
+        "committee": "Truth to Power PAC",
         "name": "Katie Porter",
         "email": "info@katieporter.com",
         "subject": "What you can control",
@@ -9024,7 +9393,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "info@itsourgreatamerica.com",
         "subject": "Every volunteer we train now\u2026",
@@ -9440,10 +9809,47 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Friends of Janelle Stelson",
+        "type": "campaign_email",
+        "subject": "Fighting for PA-10, not Perry\u2019s extremist agenda",
+        "message": {
+            "body": "Election Day is fast approaching, and we need your help to elect a true leader for Central Pennsylvania. With your support, we can bring real progress to our district\u2014good-paying jobs, abortion rights, quality healthcare and education, and a representative who truly listens to us.",
+            "call_to_action": {
+                "primary": "Donate Now",
+                "url": "https://secure.actblue.com/donate/footer-js-23"
+            },
+            "recurring_donation": {
+                "text": "Contribute Monthly",
+                "url": "https://secure.actblue.com/donate/footer-js-23?recurring=true&amount=25"
+            }
+        },
+        "sender_info": {
+            "name": "Janelle Stelson",
+            "title": "Candidate for Congress, PA-10",
+            "bio": "Emmy-award winning journalist with 30+ years of service to Central Pennsylvania"
+        },
+        "campaign_details": {
+            "website": "https://janellestelson.com/",
+            "social_media": [
+                {
+                    "platform": "Facebook",
+                    "url": "https://www.facebook.com/janellestelson"
+                },
+                {
+                    "platform": "X (Twitter)",
+                    "url": "https://x.com/JanelleStelson?s=20"
+                },
+                {
+                    "platform": "Instagram",
+                    "url": "https://www.instagram.com/janellestelson/"
+                }
+            ]
+        },
+        "contact_info": {
+            "address": "P.O. Box 41, Lemoyne, PA 17043",
+            "unsubscribe_link": "https://secure.ngpvan.com/p/57CdP-wFgkuQm58EpOgxvQ2?unsubscribedata=1sdb..."
+        },
         "name": "Janelle Stelson",
         "email": "team@janellestelson.com",
-        "subject": "Fighting for PA-10, not Perry\u2019s extremist agenda",
         "date": "2024-11-02 00:04:54",
         "year": "2024",
         "month": "11",
@@ -9520,7 +9926,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYs List",
+        "committee": "EMILYS LIST",
         "name": "Ben Ray, EMILYs List",
         "email": "information@emilyslist.org",
         "subject": "This is the only way",
@@ -9696,7 +10102,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "LCV Victory Fund",
+        "response": "This is a fundraising email from the League of Conservation Voters Victory Fund (LCVVF). They are asking supporters to make donations that will be triple-matched. The email highlights their work in key states and mentions their goal of raising $50,000 before the election. It also provides contact information and links for updating email preferences or unsubscribing.",
         "name": "Erin Phillips, LCV Victory Fund",
         "email": "feedback@lcv.org",
         "subject": "Want to win in PA, MI, WI, NC, NV, and AZ? It takes organizers. And they STILL NEED you \u2014 please read this today.",
@@ -9744,7 +10150,21 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Judge Joe McGraw for Congress",
+        "data": {
+            "email_content": "Campaign email from Judge Joe McGraw for Congress",
+            "recipient_email": "dpwillis67@gmail.com",
+            "subject": "Thank you for everything you've helped us accomplish",
+            "key_elements": [
+                "campaign update",
+                "fundraising request",
+                "Election Day reminder"
+            ]
+        },
+        "metadata": {
+            "type": "political_campaign_email",
+            "sender_name": "Judge Joe McGraw",
+            "campaign_status": "final stretch before election"
+        },
         "name": "Judge Joe McGraw",
         "email": "contact@email.judgejoeforcongress.com",
         "subject": "As we head into this final stretch, I want to say thank you",
@@ -9824,7 +10244,9 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "version": "1.0",
+        "type": "text+html",
+        "content": "<p>This is a fundraising email from the Democratic Party of Georgia with several key elements:</p>\n\n<ol>\n<li><strong>Primary Goal</strong>: Raising funds for their \"Ride to Victory\" campaign to elect Democrats in Georgia.</li>\n<li><strong>Key Messages</strong>:\n<ul>\n<li>Georgia is a critical battleground state</li>\n<li>The party needs grassroots support to succeed</li>\n<li>They emphasize values like a strong middle class, integrity in government, and equality</li></ul>\n</li>\n<li><strong>Call-to-Action Options</strong>:\n<ul>\n<li>One-time donations</li>\n<li>Monthly recurring donations (highlighted as having the greatest impact)</li></ul>\n</li>\n<li><strong>Contact Information</strong>:\n<ul>\n<li>Email: dpwillis67@gmail.com</li>\n<li>Mailing Address: Democratic Party of Georgia, P.O. BOX 89202, Atlanta, GA 30312</li></ul>\n</li>\n</ol>\n\n<p>The email also includes social media links and an unsubscribe option.</p>",
         "name": "Georgia HQ",
         "email": "feedback@georgiademocrat.org",
         "subject": "please (need your help to offer free rides to the polls)",
@@ -9904,7 +10326,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Janelle Bynum For Congress",
+        "committee": "JANELLE BYNUM FOR CONGRESS",
         "name": "Bynum, Janelle",
         "email": "info@janellebynum.com",
         "subject": "Our game plan",
@@ -9920,7 +10342,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Kristin Lyerly for Congress",
+        "committee": "KRISTIN LYERLY FOR CONGRESS",
         "name": "Katrina Christiansen",
         "email": "info@kristinforwisconsin.com",
         "subject": "breaking poll just revealed:",
@@ -10240,7 +10662,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Yvette4Congress",
+        "committee": "YVETTE4CONGRESS",
         "name": "Yvette Herrell",
         "email": "yvette@yvetteherrell.com",
         "subject": "Proud to stand with President Trump",
@@ -10304,7 +10726,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Senate Conservatives Fund",
+        "committee": "SENATE CONSERVATIVES FUND",
         "name": "Senate Conservatives",
         "email": "info@makingamericathegreatest.com",
         "subject": "Five Candidates for Freedom",
@@ -10448,7 +10870,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "MAHA Alliance",
+        "committee": "MAHA ALLIANCE",
         "name": "MAHA Alliance",
         "email": "info@email.mahaalliance.com",
         "subject": "Here\u2019s what they DON\u2019T want you to know about Donald Trump",
@@ -10512,7 +10934,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC, Inc.",
+        "committee": "Trump National Committee JFC",
         "name": "President Trump",
         "email": "contact@support.donaldjtrump.com",
         "subject": "Please!",
@@ -10560,7 +10982,8 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "type": "error",
+        "message": "This email appears to be a fundraising request from the Democratic Party of Georgia. It contains multiple donation links and requests for financial support to elect Democrats in Georgia. I cannot assist with processing donations or engaging with political solicitation.",
         "name": "Georgia HQ",
         "email": "feedback@georgiademocrat.org",
         "subject": "TOMORROW: Kamala Harris \u2708\ufe0f Atlanta, Georgia",
@@ -10704,7 +11127,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "STEVE GARVEY FOR U.S. SENATE",
+        "committee": "Steve Garvey for U.S. Senate",
         "name": "#6 Steve Garvey",
         "email": "info@freedomfirstalert.com",
         "subject": "The most important week",
@@ -10976,7 +11399,9 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rubio Victory Committee",
+        "type": "image",
+        "width": 700,
+        "height": 400,
         "name": "Senator Marco Rubio",
         "email": "message@editor.conservativebroadcast.net",
         "subject": "Ohio, Montana, Pennsylvania, Nevada, Wisconsin, New Mexico, Virginia, Arizona, Michigan",
@@ -10992,7 +11417,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "editor@alert.restore-our-nation.com",
         "subject": "We can chase 200,000 more ballots \u2014 It all comes down to this",
@@ -11024,7 +11449,8 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rubio Victory Committee",
+        "text": "This appears to be a fundraising email from Marco Rubio's campaign, urging supporters to donate to ten conservative Senate candidates across different states. The email includes candidate photos and brief bios for each of the following:\n\n1. Bernie Moreno (R-OH)\n2. Tim Sheehy (R-MT)\n3. Dave McCormick (R-PA)\n4. Sam Brown (R-NV)\n5. Mike Rogers (R-MI)\n6. Nella Domenici (R-NM)\n7. Hung Cao (R-VA)\n8. Kari Lake (R-AZ)\n9. Eric Hovde (R-WI)\n\nThe email emphasizes the importance of winning these Senate races to \"restore the American Dream\" and includes various calls to action, such as donating money or endorsing the candidates. It also provides contact information for Marco Rubio's campaign team.",
+        "type": "summary",
         "name": "Senator Marco Rubio",
         "email": "message@alert.restore-our-nation.com",
         "subject": "Ohio, Montana, Pennsylvania, Nevada, Wisconsin, New Mexico, Virginia, Arizona, Michigan",
@@ -11040,7 +11466,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Turning Point Action",
+        "committee": "TURNING POINT ACTION",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "news@iesp.conservativelibertywire.com",
         "subject": "Hundreds more reach out every day",
@@ -11248,7 +11674,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
+        "committee": "National Republican Senatorial Committee",
         "name": "Crucial Battleground State Update",
         "email": "news@iesp.conservativelibertywire.com",
         "subject": "10x 10x 10x",
@@ -11424,7 +11850,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "news@iesp.fullmagnews.com",
         "subject": "With every extra volunteer\u2026",
@@ -11472,7 +11898,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Champion American Values",
+        "committee": "CHAMPION AMERICAN VALUES",
         "name": "=?utf-8?B?VFJVTVDigJlTIENJQSBESVJFQ1RPUiBBTkQgU0VDUkVUQVJZIE9GIFNU?= =?utf-8?B?QVRF?=",
         "email": "news@iesp.conservativelibertywire.com",
         "subject": "No bodyguards, just me and the most evil dictator in the world.",
@@ -11488,7 +11914,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRCC",
+        "committee": "National Republican Congressional Committee (NRCC)",
         "name": "House Republicans",
         "email": "news@iesp.conservativesgive.com",
         "subject": "We need to hit our goal before President Trump takes the stage",
@@ -11520,7 +11946,8 @@
         "disclaimer": "True"
     },
     {
-        "committee": "National Redistricting Action Fund",
+        "type": "text",
+        "text": "This is an email from All On The Line (AOTL), a grassroots advocacy campaign supported by the National Redistricting Action Fund. They're urging supporters to donate to help their efforts in fighting gerrymandering and promoting fair redistricting. The email highlights their recent achievements, including sending over 1 million texts and recruiting thousands of volunteers. It also emphasizes the importance of supporting fair redistricting processes in states like Pennsylvania, Michigan, and Ohio. AOTL is asking for financial contributions to continue their work. If you'd like more information or have questions about their campaign, you can reach out through their website or contact details provided at the end of the email.",
         "name": "Vic, All On The Line",
         "email": "allontheline@redistrictingaction.org",
         "subject": "Following up re: voter outreach",
@@ -11632,7 +12059,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Champion American Values",
+        "committee": "CHAMPION AMERICAN VALUES",
         "name": "=?utf-8?B?VFJVTVDigJlTIENJQSBESVJFQ1RPUiBBTkQgU0VDUkVUQVJZIE9GIFNU?= =?utf-8?B?QVRF?=",
         "email": "news@iesp.freedomnationtoday.com",
         "subject": "No bodyguards, just me and the most evil dictator in the world.",
@@ -11760,7 +12187,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Lucas Kunce for Missouri",
+        "text": "Hi Jon Tester,\n\nThanks for reaching out! I appreciate your passion for Montana and its issues. However, as an AI assistant, I can't make donations or support specific political campaigns. But I wish you all the best with your efforts to protect public lands, healthcare access, and voters' rights in Montana.\n\nBest regards,\nPeter",
         "name": "Jon Tester",
         "email": "team@lucasformo.com",
         "subject": "The Senate\u2019s only seven-fingered farmer",
@@ -11856,7 +12283,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC, Inc.",
+        "committee": "Trump National Committee JFC",
         "name": "Donald J. Trump",
         "email": "contact@support.donaldjtrump.com",
         "subject": "Not one, not two, but three huge rallies!",
@@ -11872,10 +12299,10 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "type": "email",
+        "subject": "before Kamala takes the stage in Atlanta:",
         "name": "Georgia HQ",
         "email": "feedback@georgiademocrat.org",
-        "subject": "before Kamala takes the stage in Atlanta:",
         "date": "2024-11-02 12:06:18",
         "year": "2024",
         "month": "11",
@@ -11968,7 +12395,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Royce White for Senate",
+        "committee": "Royce White For Senate",
         "name": "Tim, MAGA Election Day Deadline",
         "email": "info@roycewhiteformn.com",
         "subject": "One Donation to Win the White House and Senate",
@@ -12064,7 +12491,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Adam for Colorado",
+        "message": "Hello! I noticed you received an email about Dan Osborn's campaign in Nebraska. If you'd like to stop receiving these emails, you can click the unsubscribe link provided: https://secure.ngpvan.com/uB3EyayArUyKTBgRW_x--A2. This will remove your email address from their list and prevent any future communications about this campaign.",
         "name": "Dan Osborn",
         "email": "info@adamforcolorado.com",
         "subject": "this will not happen again",
@@ -12080,7 +12507,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "HMP",
+        "committee": "House Majority PAC",
         "name": "UNPRECEDENTED 900% MATCH (via HMP)",
         "email": "info@housemajoritypac.org",
         "subject": "re: Hillary Clinton\u2019s rally",
@@ -12112,7 +12539,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "editor@alert.oldglorytoday.com",
         "subject": "We can chase 200,000 more ballots \u2014 It all comes down to this",
@@ -12176,7 +12603,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Bohannan for Congress",
+        "committee": "Christina Bohannan for Congress",
         "name": "Jindalae Suh, Team Bohannan",
         "email": "info@bohannanforcongress.com",
         "subject": "This campaign is on fire! \ud83d\udd25\ud83d\udd25\ud83d\udd25",
@@ -12192,7 +12619,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "April McClain Delaney for Congress",
+        "committee": "APRIL MCCLAIN DELANEY FOR CONGRESS",
         "name": "April McClain Delaney",
         "email": "info@april4congress.com",
         "subject": "on the ground",
@@ -12320,7 +12747,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "End Citizens United Nonfederal",
+        "committee": "End Citizens United Non-federal",
         "name": "Adam Schiff",
         "email": "hello@fightforreform.org",
         "subject": "Is California getting away from us?",
@@ -12352,7 +12779,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "info@ourdefenseofamerica.com",
         "subject": "Your 2X gift to help CHASE THE VOTE and WIN",
@@ -12368,7 +12795,45 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Lucas Kunce for Missouri",
+        "email_metadata": {
+            "recipient": "dpwillis67@gmail.com",
+            "sender": "Lucas Kunce",
+            "subject": "3 Days to Flip This U.S. Senate Seat",
+            "sent_date": "2022-11-06"
+        },
+        "campaign_message": {
+            "candidate": "Lucas Kunce",
+            "opponent": "Josh Hawley",
+            "key_points": [
+                "Personal story about growing up in a working-class community",
+                "Criticism of opponent's record on working people",
+                "Request for $10 donation to counter opponent's attacks"
+            ],
+            "donation_options": {
+                "suggested_amounts": [
+                    "$10",
+                    "$25",
+                    "$30",
+                    "$50",
+                    "$100",
+                    "$250"
+                ],
+                "custom_option": true
+            }
+        },
+        "campaign_details": {
+            "election_deadline": "3 days",
+            "platform_focus": [
+                "Working people's rights",
+                "Economic reform",
+                "Anti-corporate PAC stance"
+            ]
+        },
+        "email_footer": {
+            "unsubscribe_link": "https://act.lucaskunce.com/unsubscribe/unsubscribe?t=1013&akid=8603.614464.p6dHnE",
+            "paid_notice": "Paid for by Lucas Kunce for Missouri",
+            "military_disclaimer": "Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense"
+        },
         "name": "Lucas Tyree Kunce",
         "email": "team@lucasformo.com",
         "subject": "One word: Community",
@@ -12432,7 +12897,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "LEADERS WE DESERVE",
+        "committee": "Leaders We Deserve",
         "name": "Leaders We Deserve",
         "email": "info@e.leaderswedeserve.com",
         "subject": "Urgent: Final Push for Our 13 Progressive Candidates!",
@@ -12784,7 +13249,8 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Goldstein for Congress",
+        "type": "text",
+        "content": "This appears to be a campaign email from Dr. Michael Goldstein, who is running for Congress in Connecticut. The email covers several key issues and calls for voter support on November 5th. Here are the main points:\n\n1. Economic Issues: Focuses on commercial property taxes and business growth.\n2. Infrastructure: Addresses I-95 congestion and transportation improvements.\n3. Israel Policy: Criticizes opponents' stance on Israel, mentioning AIPAC donations and diplomatic incidents.\n4. Education: Concerns about college campus protests and free speech issues.\n5. Voting Call-to-Action: Urges supporters to vote on November 5th and spread the word.\n\nThe email also includes campaign contact information and a link to the candidate's website.\n\nIs there anything specific from this email you'd like me to analyze or explain further?",
         "name": "=?utf-8?b?RHIuIE1pY2hhZWwgR29sZHN0ZWluIGZyb20gTWljaGFlbOKAmXMgU3Vic3Rh?= =?utf-8?b?Y2s=?=",
         "email": "drmichaelgoldstein4ct@substack.com",
         "subject": "Keeping it Local - We The People Need to Vote - I would be Honored by Your Support",
@@ -12832,7 +13298,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Chris Deluzio for Congress",
+        "committee": "CHRIS DELUZIO FOR CONGRESS",
         "name": "Chris Deluzio",
         "email": "info@chrisforpa.com",
         "subject": "quick message from the campaign trail",
@@ -12928,7 +13394,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYs List",
+        "committee": "EMILYS LIST",
         "name": "Tammy Baldwin",
         "email": "information@emilyslist.org",
         "subject": "49-48",
@@ -13104,7 +13570,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Tammy Baldwin for Senate",
+        "committee": "TAMMY BALDWIN FOR SENATE",
         "name": "James Carville",
         "email": "info@e.tammybaldwin.com",
         "subject": "GOP Senator and Trump Puppet Rick Scott can and MUST be defeated",
@@ -13600,10 +14066,45 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "recipient": "dpwillis67@gmail.com",
+        "subject": "most important email in your inbox [re: Georgia]",
+        "email_body": {
+            "greeting": "Dear Friend,",
+            "main_message": "We are reaching out because your support is crucial to helping elect Democrats in Georgia. The Democratic Party of Georgia works year-round to elect candidates who share our values of a strong middle class, integrity in government, and equality and justice for all Georgians.",
+            "call_to_action": {
+                "primary_button": {
+                    "text": "DONATE NOW",
+                    "link": "https://secure.actblue.com/donate/sbd_dpg_em_footer24"
+                },
+                "secondary_options": [
+                    {
+                        "text": "DONATE MONTHLY (GREATEST IMPACT)",
+                        "link": "https://secure.actblue.com/donate/sbd_dpg_em_footer24&recurring=true"
+                    }
+                ]
+            },
+            "closing_message": "Your support helps us build momentum to elect a wave of Democrats this November. Thank you for your dedication to creating positive change in Georgia.",
+            "footer_info": {
+                "organization_name": "Democratic Party of Georgia",
+                "address": "P.O. BOX 89202 Atlanta, GA 30312 United States"
+            },
+            "social_links": [
+                {
+                    "platform": "Twitter",
+                    "url": "https://twitter.com/GeorgiaDemocrat"
+                },
+                {
+                    "platform": "Facebook",
+                    "url": "https://www.facebook.com/pages/Democratic-Party-of-Georgia/105791402802932"
+                },
+                {
+                    "platform": "Instagram",
+                    "url": "https://www.instagram.com/georgiademocrat/"
+                }
+            ]
+        },
         "name": "Georgia HQ",
         "email": "feedback@georgiademocrat.org",
-        "subject": "most important email in your inbox [re: Georgia]",
         "date": "2024-11-02 15:15:51",
         "year": "2024",
         "month": "11",
@@ -13664,7 +14165,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "KEVIN LINCOLN FOR CONGRESS",
+        "committee": "Kevin Lincoln for Congress",
         "name": "Kevin Lincoln",
         "email": "info@itsourgreatamerica.com",
         "subject": "Worried about you",
@@ -13920,7 +14421,8 @@
         "disclaimer": "True"
     },
     {
-        "committee": "LCV Victory Fund",
+        "content": "This is a fundraising email from the League of Conservation Voters (LCV) Victory Fund addressed to Peter Willis. The email emphasizes the importance of supporting environmental causes and Democratic candidates in key states for the upcoming election. Here are the main points:\n\n1. Urgency: The email highlights that this is a critical moment for climate action and conservation efforts.\n\n2. Impact: LCV has knocked on 5 million doors, made 8 million calls, and sent 12 million texts to reach voters in key states.\n\n3. Request for Support: The organization asks Peter to contribute financially to help fund their voter outreach efforts.\n\n4. Matching Gift Opportunity: There is a mention of donations being tripled through a matching gift offer.\n\n5. Contact Information: The email includes links to update contact information, unsubscribe, or provide feedback.\n\n6. Organization Details: The LCV Victory Fund's address and contact information are provided at the end of the email.\n\nThe tone is urgent but appreciative, emphasizing the importance of individual contributions in supporting environmental protection and promoting climate-conscious candidates.",
+        "summary": "Fundraising email from LCV Victory Fund asking for donations to support environmental causes and voter outreach efforts.",
         "name": "Pete Maysmith, LCV Victory Fund",
         "email": "feedback@lcv.org",
         "subject": "GET OUT THE VOTE: LAST DAY TO PITCH IN",
@@ -14224,7 +14726,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Kean for Congress Inc",
+        "text": "This appears to be a political fundraising email from Tom Kean's congressional campaign. The key elements include: 1) Urgency - noting only three days until Election Day 2) Choice between two futures 3) Request for both volunteer help and financial contributions 4) Contact information and donation links 5) Standard campaign disclaimer with PO Box address in Edison, NJ",
         "name": "Tom Kean, Jr.",
         "email": "info@outreach.tomkean.com",
         "subject": "3\u20262\u20261\u2026",
@@ -14256,7 +14758,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "STEVE GARVEY FOR U.S. SENATE",
+        "committee": "Steve Garvey for U.S. Senate",
         "name": "Steve Garvey",
         "email": "info@justandfreegop.com",
         "subject": "Important message",
@@ -14304,7 +14806,11 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Maxwell Frost for Congress",
+        "donation": {
+            "amount": 5,
+            "payment_method": "credit_card",
+            "currency": "USD"
+        },
         "name": "Maxwell Frost",
         "email": "info@frostforcongress.com",
         "subject": "We\u2019re STILL not finished",
@@ -14320,7 +14826,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Michael B. Moore for South Carolina",
+        "email_content": "This appears to be a political fundraising email from Michael B. Moore's campaign for Congress in South Carolina's 1st district (SC-01). The email encourages donations to support his campaign against incumbent Nancy Mace and outlines his platform priorities, including building an economy that works for everyone, providing access to quality healthcare, championing women's reproductive rights, environmental protection, and rejecting divisive partisan politics. It includes links to donate, learn more about the campaign, and social media handles.",
         "name": "Team Moore",
         "email": "campaign@michaelbmoore.com",
         "subject": "Michael B. Moore or Nancy Mace?",
@@ -14336,7 +14842,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "THEIR FUTURE PAC",
+        "committee": "Their Future PAC",
         "name": "Annie & Renee",
         "email": "info@theirfutureourvote.org",
         "subject": "Everyone for Kamala: LARGEST. PHONE BANK. EVER.",
@@ -14464,7 +14970,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "ALEXANDRIA OCASIO-CORTEZ FOR CONGRESS",
+        "committee": "Alexandria Ocasio-Cortez for Congress",
         "name": "Team AOC",
         "email": "speak@ocasiocortez.com",
         "subject": "It\u2019s official:",
@@ -14496,7 +15002,16 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Judge Joe McGraw for Congress",
+        "metadata": {
+            "title": "Judge Joe McGraw Campaign Email",
+            "date": "2023-10-11"
+        },
+        "body": " \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f https://click.email.judgejoeforcongress.com/?qs=3af20fc48410762c4faf590f59b85473b1bb0e263836cea9404e1bfb7adceccaff157fefa05f5c33a84ba315ffe61df58e0cd8a02cdb39c1df5f35b120e8adfbPeter, It's Eric, Judge Joe's campaign manager. In just 3 days, this electionwill be over. Everything we've worked so hard for all leads up to this. Butwith just 72 hours remaining, it's essential we use these final momentswisely. We have to knock every door, make every phone call possible, and reachevery single voter to ensure they make it out to the polls and vote in thiselection.https://click.email.judgejoeforcongress.com/?qs=3af20fc48410762ca9044e52ae0d6c2e3939db5277450ddbe11edaaca9bffc5b2ee64b4dfc2c6e0d6a1d43466ed2988d25d22fb941ac9656ef4c28631d8eca1aIf you're able to chip in one more time to send an extra boost to Judge Joe'scampaign before Election Day, we would greatly appreciate it.https://click.email.judgejoeforcongress.com/?qs=3af20fc48410762ca9044e52ae0d6c2e3939db5277450ddbe11edaaca9bffc5b2ee64b4dfc2c6e0d6a1d43466ed2988d25d22fb941ac9656ef4c28631d8eca1aSUPPORT JUDGE JOE TODAY >> We've poured blood, sweat, and tears into thisrace. We knew from the start winning this race wouldn't be easy--but it ispossible. This is a race liberal Eric Sorensen won last time by just 4 points.This race will be close, and it could come down to a handful of votes. We mustdo everything we can to win. So with just 72 hours remaining until ElectionDay, I'm hoping we can count on you today. Thank you in advance for yourgenerous support. Thank you, Eric Campaign Manager Judge Joe McGraw forCongresshttps://click.email.judgejoeforcongress.com/?qs=3af20fc48410762ca9044e52ae0d6c2e3939db5277450ddbe11edaaca9bffc5b2ee64b4dfc2c6e0d6a1d43466ed2988d25d22fb941ac9656ef4c28631d8eca1aDONATE Paid for by Judge Joe McGraw for Congress You are receiving this emailat: dpwillis67@gmail.com You are receiving this email because you signed up asa member of Judge Joe McGraw for Congress's online community. To unsubscribe,gohttps://click.email.judgejoeforcongress.com/subscription_center.aspx?qs=7e1a00926899d9c10a309d7a695107b7393b829c3b8ae118e744377d1cb6e1c0d84bf60b44221338c6a07102738c599a214109ac9c0d64801f147869c0af62400ad2b55c33f2b816here. Judge Joe McGraw for Congress PO Box 1451 Rockford, IL 61105https://click.email.judgejoeforcongress.com/?qs=3af20fc48410762c167a7db28bf724284609a0ea909407dcfa83a5d77c3378e6163d2d902c83543c970e7c7ad4b828668c54b36ba3ae6265066428ce14ef4b58Privacy Policy",
+        "footer": {
+            "address": "PO Box 1451\nRockford, IL 61105",
+            "unsubscribe_link": "[https://click.email.judgejoeforcongress.com/unsubscribe](https://click.email.judgejoeforcongress.com/unsubscribe)",
+            "privacy_policy": "[Privacy Policy](https://click.email.judgejoeforcongress.com/privacypolicy)"
+        },
         "name": "Eric, Campaign Manager",
         "email": "contact@email.judgejoeforcongress.com",
         "subject": "The countdown is on: 3 days until Election Day",
@@ -14507,7 +15022,6 @@
         "hour": "17",
         "minute": "0",
         "domain": "email.judgejoeforcongress.com",
-        "body": " \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f  \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f https://click.email.judgejoeforcongress.com/?qs=3af20fc48410762c4faf590f59b85473b1bb0e263836cea9404e1bfb7adceccaff157fefa05f5c33a84ba315ffe61df58e0cd8a02cdb39c1df5f35b120e8adfbPeter, It's Eric, Judge Joe's campaign manager. In just 3 days, this electionwill be over. Everything we've worked so hard for all leads up to this. Butwith just 72 hours remaining, it's essential we use these final momentswisely. We have to knock every door, make every phone call possible, and reachevery single voter to ensure they make it out to the polls and vote in thiselection.https://click.email.judgejoeforcongress.com/?qs=3af20fc48410762ca9044e52ae0d6c2e3939db5277450ddbe11edaaca9bffc5b2ee64b4dfc2c6e0d6a1d43466ed2988d25d22fb941ac9656ef4c28631d8eca1aIf you're able to chip in one more time to send an extra boost to Judge Joe'scampaign before Election Day, we would greatly appreciate it.https://click.email.judgejoeforcongress.com/?qs=3af20fc48410762ca9044e52ae0d6c2e3939db5277450ddbe11edaaca9bffc5b2ee64b4dfc2c6e0d6a1d43466ed2988d25d22fb941ac9656ef4c28631d8eca1aSUPPORT JUDGE JOE TODAY >> We've poured blood, sweat, and tears into thisrace. We knew from the start winning this race wouldn't be easy--but it ispossible. This is a race liberal Eric Sorensen won last time by just 4 points.This race will be close, and it could come down to a handful of votes. We mustdo everything we can to win. So with just 72 hours remaining until ElectionDay, I'm hoping we can count on you today. Thank you in advance for yourgenerous support. Thank you, Eric Campaign Manager Judge Joe McGraw forCongresshttps://click.email.judgejoeforcongress.com/?qs=3af20fc48410762ca9044e52ae0d6c2e3939db5277450ddbe11edaaca9bffc5b2ee64b4dfc2c6e0d6a1d43466ed2988d25d22fb941ac9656ef4c28631d8eca1aDONATE Paid for by Judge Joe McGraw for Congress You are receiving this emailat: dpwillis67@gmail.com You are receiving this email because you signed up asa member of Judge Joe McGraw for Congress's online community. To unsubscribe,gohttps://click.email.judgejoeforcongress.com/subscription_center.aspx?qs=7e1a00926899d9c10a309d7a695107b7393b829c3b8ae118e744377d1cb6e1c0d84bf60b44221338c6a07102738c599a214109ac9c0d64801f147869c0af62400ad2b55c33f2b816here. Judge Joe McGraw for Congress PO Box 1451 Rockford, IL 61105https://click.email.judgejoeforcongress.com/?qs=3af20fc48410762c167a7db28bf724284609a0ea909407dcfa83a5d77c3378e6163d2d902c83543c970e7c7ad4b828668c54b36ba3ae6265066428ce14ef4b58Privacy Policy",
         "party": "",
         "disclaimer": "True"
     },
@@ -14560,10 +15074,13 @@
         "disclaimer": "True"
     },
     {
-        "committee": "National Democratic Redistricting Committee",
+        "action": {
+            "type": "email"
+        },
+        "subject": "Kamala Harris is right \u2192",
+        "body": "Our rights are on the ballot this fall. Rush a $30 donation to the NDRC tohelp elect Democracy Defenders who will protect our freedoms >>[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] DONATE[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] Peter, did you seewhat Kamala Harris had to say about the state of reproductive health in Texas?\u201c\u2026Texas has a law now that offers a cash bounty for turning in someone whomerely helps a friend or a family member get the care they need. In Texas, thelaw provides prison for life, for healthcare providers, for doing what theybelieve is in the best interest of their patient. In some counties in Texas,they have passed travel bans to prevent women from going to other states toreceive care. These are the stakes \u2014 and we know how we got here. \u201d She\u2019sright \u2014 we do know how we got here: In 2021, Texas completely banned abortionwith very limited exceptions. Then, the Texas Supreme Court then ruled that awoman did not qualify for an abortion under the state\u2019s medical exceptiondespite the fact that her doctor determined she needed the procedure to saveher life. That decision forced a pregnant woman to travel out of state toreceive the care she needed to save her life. The justices doubled down onthat extreme decision this year, ruling against 20 women who said they weredenied the ability to receive medically necessary abortions as a result of thestate\u2019s extreme abortion ban. This is unconscionable, Peter \u2014 and we won\u2019t siton the sidelines while elected state supreme court justices rip away people\u2019srights. The NDRC is proud to have endorsed Judge DaSean Jones, Judge ChristineWeems, and Judge Bonnie Lee Goldstein for the Texas Supreme Court because oftheir commitment to be fair-minded, conduct an independent evaluation of thelaw, ensuring rights and protecting freedoms. But we need your help to pushthese Democracy Defenders \u2014 and so many like them across the country \u2014 tovictory. Will you rush a $30 donation today to make sure our DemocracyDefenders have the resources they need to sprint through the finish line?[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] If you've savedyour payment information with ActBlue Express, your donation will go throughimmediately: Donate $5 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=5]Donate $15 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=15]Donate $30 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=30]Donate $50 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=50]Donate $100 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=100]Another amount [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true] \u2014NDRCState Watch DONATE [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=]https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] Since 2017, theNDRC has executed a comprehensive redistricting strategy that shifts theredistricting power, creating fair districts where Democrats can compete. Ourvictories have been made possible by our strong community of grassrootssupporters. MAKE A DONATION [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] If you want toreceive periodic updates from the NDRC on our fight for fair maps, text MAPSto 36787. Text HELP for help, STOP to end. Msg & Data rates may apply. PrivacyPolicy. [https://democraticredistricting.com/privacy-policy/] We know we senda lot of emails, but we think it's important to keep you updated with thelatest information on Republican gerrymandering and voter suppression and howwe're fighting back -- regardless of whether you choose to donate. Click here[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] to make a donation.Every dollar you give will go toward our fight to end gerrymandering and votersuppression. Paid for by the National Democratic Redistricting Committee, JohnBisognano, President. Threads: https://www.threads.net/@demredistrictFacebook: https://www.facebook.com/DemRedistrict Instagram:https://www.instagram.com/demredistrict/ National Democratic RedistrictingCommittee 712 H St NE, Suite #25 Washington, DC 20002 United States Click hereif you'd like to receive fewer emails from the NDRC:https://act.democraticredistricting.com/a/receive-fewer-emails-from-the-ndrcunsubscribe:https://act.democraticredistricting.com/p/tODkm7Bg2ESfami6kMtZxQ2?unsubscribedata=wMvznlr%2FmloY2PRcqpZCX%2FQ3d%2Bf0P3TGoPUaGGmdhif0vgSuAV%2BW1ngmYvSoz8wo6O%2FdXriAix5R2BW8923MJO51LhZBY%2FQE5YP1WMvSqS%2BUgBWw8eeDaurj%2FbYMCYuQAIIIwH97gmyp9hlFCuRTBvKXhEGs7071d1ip41oXLwVwpS6MBBPoMs9qn1g6qgZbShz8%2F6NfMrFbNjOg1QJy1bxlz3lhZSJZ6Snuu7Cp0Mg%2F%2BSprm5U%2Fk3YhFICckQLLbrk0IizVwFWAzR9day1YitPcLYLpSe%2BvknLBNwdwSP0G7sojlHNIfp%2B9GYbZbS2NFPeU5ohuIHqDH2LMoF7S6unhS%2FZDqeBL93SmYWCC4NLwXg3xr1bSfky6vCQPjXPXC5wMdHegD%2BUOq6w%2Bg8%2Fv%2BcFKObU%2FlasAeBpgzLtiI4c%3D",
         "name": "NDRC State Watch",
         "email": "info@democraticredistricting.com",
-        "subject": "Kamala Harris is right \u2192",
         "date": "2024-11-02 17:02:29",
         "year": "2024",
         "month": "11",
@@ -14571,7 +15088,6 @@
         "hour": "17",
         "minute": "2",
         "domain": "democraticredistricting.com",
-        "body": "Our rights are on the ballot this fall. Rush a $30 donation to the NDRC tohelp elect Democracy Defenders who will protect our freedoms >>[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] DONATE[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] Peter, did you seewhat Kamala Harris had to say about the state of reproductive health in Texas?\u201c\u2026Texas has a law now that offers a cash bounty for turning in someone whomerely helps a friend or a family member get the care they need. In Texas, thelaw provides prison for life, for healthcare providers, for doing what theybelieve is in the best interest of their patient. In some counties in Texas,they have passed travel bans to prevent women from going to other states toreceive care. These are the stakes \u2014 and we know how we got here. \u201d She\u2019sright \u2014 we do know how we got here: In 2021, Texas completely banned abortionwith very limited exceptions. Then, the Texas Supreme Court then ruled that awoman did not qualify for an abortion under the state\u2019s medical exceptiondespite the fact that her doctor determined she needed the procedure to saveher life. That decision forced a pregnant woman to travel out of state toreceive the care she needed to save her life. The justices doubled down onthat extreme decision this year, ruling against 20 women who said they weredenied the ability to receive medically necessary abortions as a result of thestate\u2019s extreme abortion ban. This is unconscionable, Peter \u2014 and we won\u2019t siton the sidelines while elected state supreme court justices rip away people\u2019srights. The NDRC is proud to have endorsed Judge DaSean Jones, Judge ChristineWeems, and Judge Bonnie Lee Goldstein for the Texas Supreme Court because oftheir commitment to be fair-minded, conduct an independent evaluation of thelaw, ensuring rights and protecting freedoms. But we need your help to pushthese Democracy Defenders \u2014 and so many like them across the country \u2014 tovictory. Will you rush a $30 donation today to make sure our DemocracyDefenders have the resources they need to sprint through the finish line?[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] If you've savedyour payment information with ActBlue Express, your donation will go throughimmediately: Donate $5 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=5]Donate $15 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=15]Donate $30 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=30]Donate $50 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=50]Donate $100 [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true&amount;=100]Another amount [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&express;_lane=true] \u2014NDRCState Watch DONATE [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=]https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] Since 2017, theNDRC has executed a comprehensive redistricting strategy that shifts theredistricting power, creating fair districts where Democrats can compete. Ourvictories have been made possible by our strong community of grassrootssupporters. MAKE A DONATION [https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] If you want toreceive periodic updates from the NDRC on our fight for fair maps, text MAPSto 36787. Text HELP for help, STOP to end. Msg & Data rates may apply. PrivacyPolicy. [https://democraticredistricting.com/privacy-policy/] We know we senda lot of emails, but we think it's important to keep you updated with thelatest information on Republican gerrymandering and voter suppression and howwe're fighting back -- regardless of whether you choose to donate. Click here[https://secure.actblue.com/donate/ndrc-em-nov24?refcode=don_ndrc_tier1_email_TexasAbortion_email_20241102-NDRC-Tier1-TexasAbortion_&utm;_source=email&utm;_medium=email&utm;_term=don&utm;_content=20241102-NDRC-Tier1-TexasAbortion_&utm;_campaign=TexasAbortion&amount;=] to make a donation.Every dollar you give will go toward our fight to end gerrymandering and votersuppression. Paid for by the National Democratic Redistricting Committee, JohnBisognano, President. Threads: https://www.threads.net/@demredistrictFacebook: https://www.facebook.com/DemRedistrict Instagram:https://www.instagram.com/demredistrict/ National Democratic RedistrictingCommittee 712 H St NE, Suite #25 Washington, DC 20002 United States Click hereif you'd like to receive fewer emails from the NDRC:https://act.democraticredistricting.com/a/receive-fewer-emails-from-the-ndrcunsubscribe:https://act.democraticredistricting.com/p/tODkm7Bg2ESfami6kMtZxQ2?unsubscribedata=wMvznlr%2FmloY2PRcqpZCX%2FQ3d%2Bf0P3TGoPUaGGmdhif0vgSuAV%2BW1ngmYvSoz8wo6O%2FdXriAix5R2BW8923MJO51LhZBY%2FQE5YP1WMvSqS%2BUgBWw8eeDaurj%2FbYMCYuQAIIIwH97gmyp9hlFCuRTBvKXhEGs7071d1ip41oXLwVwpS6MBBPoMs9qn1g6qgZbShz8%2F6NfMrFbNjOg1QJy1bxlz3lhZSJZ6Snuu7Cp0Mg%2F%2BSprm5U%2Fk3YhFICckQLLbrk0IizVwFWAzR9day1YitPcLYLpSe%2BvknLBNwdwSP0G7sojlHNIfp%2B9GYbZbS2NFPeU5ohuIHqDH2LMoF7S6unhS%2FZDqeBL93SmYWCC4NLwXg3xr1bSfky6vCQPjXPXC5wMdHegD%2BUOq6w%2Bg8%2Fv%2BcFKObU%2FlasAeBpgzLtiI4c%3D",
         "party": "D",
         "disclaimer": "True"
     },
@@ -14608,7 +15124,39 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Tad Jude for Congress",
+        "metadata": {
+            "author_name": "Tad Jude",
+            "email_type": "Campaign Email"
+        },
+        "content": [
+            {
+                "title": "Historical Voting Facts",
+                "content": "Before ballots were standardized, voters would physically show up at polling places to declare their votes publicly. This practice was eventually replaced with the secret ballot system we use today."
+            },
+            {
+                "title": "Voting Education",
+                "subpoints": [
+                    "Standardized voting procedures are essential for fair elections.",
+                    "The secret ballot protects voters' privacy and reduces coercion."
+                ]
+            }
+        ],
+        "call_to_action": {
+            "text": "Get Involved with Tad Jude's Campaign",
+            "actions": [
+                "Visit tadjude.com to learn more about the campaign.",
+                "Follow us on social media for updates and information."
+            ]
+        },
+        "signature": {
+            "name": "Tad Jude",
+            "position": "Congressional Candidate",
+            "closing_message": "Thank you, Minnesota, for entrusting me with the opportunity to serve you.",
+            "contact_info": "Paid for by Tad Jude for Congress PO Box 1881, Maple Grove, MN 55311"
+        },
+        "footer": {
+            "unsubscribe_link": "To unsubscribe from future emails, click here."
+        },
         "name": "Jude for Congress",
         "email": "tad@tadjude.com",
         "subject": "\u2734\ufe0fMake Voting Fun Again!",
@@ -14688,7 +15236,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Leslie Mehta for Congress",
+        "message": "Here's the key information from the campaign email:\n\n1. Candidate: Leslie Mehta, running for Virginia's 1st Congressional District\n2. Key Background: Civil rights attorney and former Legal Director of ACLU of Virginia\n3. Campaign Goals: Flipping Virginia's 1st Congressional District, focusing on constitutional rights and family advocacy\n4. Ways to Engage:\n   - Donate: https://secure.actblue.com/donate/lm-em-footer-2024\n   - Volunteer/Get Involved: Through her website or email signup\n5. Social Media Links:\n   - Facebook: https://www.facebook.com/leslie4congress\n   - Instagram: https://www.instagram.com/leslie4congress/\n   - Twitter: https://twitter.com/lesliemehtava\n6. Contact Information:\n   - Mailing Address: PO Box 31404, Henrico, VA 23294\n7. Unsubscribe Link: Provided at the bottom of the email if you wish to stop receiving updates.\n8. Campaign Slogan: 'With great power comes great responsibility' (referencing her commitment to using her law degree for public service)\n9. Current Focus: Urging supporters to donate and get involved in the final push before Election Day\n10. Campaign Values: Constitutional rights protection, family advocacy, and democratic representation",
         "name": "Team Mehta",
         "email": "campaign@lesliemehta.com",
         "subject": "Fueling our GOTV campaign",
@@ -14720,7 +15268,16 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Gabe Vasquez for Congress",
+        "reasons": [
+            "1\ufe0f\u20e3 Gabe\u2019s up against a MAGA extremist who has proudly called for a TOTAL abortion ban.",
+            "2\ufe0f\u20e3 In 2022, Gabe won NM-02 by just 1,350 votes. In 2024, as one of the MOST competitive races in the country, it could be even closer. (That means your support will make the biggest difference in this race.)",
+            "3\ufe0f\u20e3 Let's just be real: Gabe is busy in Congress fighting for reproductive choice, economic opportunity, affordable healthcare, and the best interests of the people."
+        ],
+        "donate": [
+            "$3 NOW",
+            "$5 NOW",
+            "$10 NOW"
+        ],
         "name": "Vasquez HQ",
         "email": "info@gabeforcongress.com",
         "subject": "Can we have just 3 minutes of your time?",
@@ -14864,7 +15421,10 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Adam for Colorado",
+        "action": {
+            "type": "unsubscribe",
+            "link": "https://secure.ngpvan.com/p/Uv6ihFy0UkOXP2-vh91pzA2?unsubscribedata=MLv8%2Bk%2FRXrNNezwLlpkBnM12j3V13KabrRBvdKn%2FrWiWYEcX6YYX9ZfdeYNvF6e%2BT0%2BBWcOiXVJXNttIc0CnJisTpmJzIx%2B8PvitaKp%2FspHJ%2BlAebsKBIIK8F%2BYAwWIhrccmf2Aqe3q3q4z50oDONqok3JrqwyqxGM1HQh6rcoY4sj%2FmW%2BxJOT%2BqkrlRf4C4ngg9p1M9gVlvWzXxiHmvB7JI35UYkjhf349TgPbG3YPXkUWi56SlcJJTc3k2b7Ym%2BujzmGMGRj%2Fs2NYb8cl96cWqVfvAtxron3YIylguJZnGzpr8peJlRt3YZ03pbA%2Bj0L9odF1k9BYBgk9hJ3ww5pisuictQY5UonLtneOv3E5pePH0vgSmR1dcExAk%2FKFdrqzFk7ekGl%2BxT3LtipYb%2BKoV%2FjrtrX2u2IvBqa0LOIt%2B3B1CYOBZjmY1ZognRih6"
+        },
         "name": "Dan Osborn",
         "email": "info@adamforcolorado.com",
         "subject": "the last time ever",
@@ -14944,7 +15504,28 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Michelle Vallejo for Congress",
+        "email_content": "This is a campaign fundraising email from Michelle Vallejo, who is running for Congress in Texas's 15th district (TX-15). The key points are: \n\n1. Election Day is three days away.\n2. Three reasons why this race is important:\n   - DNC made a historic investment in the Texas race\n   - House Majority PAC invested $1.3 million in TV ads for Vallejo\n   - Latest poll shows Vallejo only 3 points behind her opponent\n\n3. The email requests donations, specifically asking for $3 to help fund last-minute voter outreach efforts.\n4. There's a fundraising goal of $15k mentioned.\n\nThe email includes multiple donation links and options for recurring contributions.",
+        "campaign": {
+            "candidate": "Michelle Vallejo",
+            "office": "U.S. House of Representatives (TX-15)",
+            "party_affiliation": "Democrat"
+        },
+        "fundraising_details": {
+            "goal_amount": "$15,000",
+            "suggested_donation": "$3",
+            "urgency_factors": [
+                "Election Day is near",
+                "Poll shows close race"
+            ]
+        },
+        "contact_info": {
+            "mailing_address": "PO Box 1265 Mission, TX 78573",
+            "social_media": {
+                "twitter": "@MichelleVforTX",
+                "facebook": "/michellevfortx",
+                "instagram": "/michellevfortx"
+            }
+        },
         "name": "Team Vallejo HQ",
         "email": "info@michellefortx15.com",
         "subject": "We\u2019re THREE days out",
@@ -14992,7 +15573,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Troy Downing for Congress",
+        "text": "This appears to be a campaign email from Troy Downing, a Republican candidate running for Congress in Montana. The email includes:",
         "name": "Troy Downing",
         "email": "info@updates.troydowning.com",
         "subject": "From the scrapbooks (8 photos)",
@@ -15104,7 +15685,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Janelle Bynum for Congress",
+        "committee": "Janelle Bynum For Congress",
         "name": "Bynum HQ",
         "email": "info@janellebynum.com",
         "subject": "Toss of a coin",
@@ -15168,10 +15749,10 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Friends of Janelle Stelson",
+        "subject": "We know we\u2019ve asked time and time again",
+        "body": "\u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034fJanelle Stelson has spenther career advocating for truth and integrity, and now she's running to unseatextremist Scott Perry and represent Pennsylvania's 10th District in Congress.If you\u2019d like to unsubscribe, click here. [https://secure.ngpvan.com/p/57CdP-wFgkuQm58EpOgxvQ2?unsubscribedata=sTQY51g2XPq6ex%2BHCmHhRPCdz3%2BLzl%2FEZjAUb4bkcgc8K4f8MUV893aLS5mNjYR%2FhBSAz322svsIjhxtSefez1Ue7vBpjk%2BEisdz8fTj7DL3HyhR8is%2BNCULwA1FK0pKgZxSJpu49LtP0NhPuySaPDtgcD6SYU%2F%2Btk0vHkD2Jvb%2B2h1dn03SNDofJx7FuPACIT1FcGH5bSuqXEek113MUV%2BiZz6U%2FG7otb2ZYwXAsvbD9ddhQ8rl1pMdMOUvJup3lueD2B085ORvfCNbF61ha9%2Frm%2BZ1hO%2Fy4zSn%2BzpACRrVdtFQozdV5oJ0l%2B8dDovxysNsO4oMmnEdPfrHJQLmHokPNqs0HLyt%2FW7puO5RMonSxUOMSfvTGaIOuzqPf%2FGVdVxjrMIDiChvcUDECbamZt7vT7pYd91OICwCqR8jh73DGsZ96vq1ZGfbdwm0MMoL]# [#] Team, it\u2019s the FINAL get out the vote weekend before Election Day. Canyou help us keep our momentum going in the homestretch by rushing $ right now?[https://secure.actblue.com/donate/js-em-fr-nov24?amount=] RUSH $[https://secure.actblue.com/donate/js-em-fr-nov24?amount=] FIRST: The CookPolitical Report moved our race to a TOSS-UP, thanks to the movement we\u2019vebuilt here in PA-10! We know we can defeat MAGA insurrectionist Scott Perry inTHREE days. \ud83d\udd25 THEN: A Republican super PAC rushed nearly $1 MILLION into PA-10to smear Janelle with attack ads ahead of Election Day.https://secure.actblue.com/donate/js-em-fr-nov24[https://secure.actblue.com/donate/js-em-fr-nov24] The GOP is scrambling toprotect the ONLY vulnerable House Freedom Caucus member. NOW: We have to raise$20,000 grassroots dollars EVERY DAY to combat the flood of GOP dark moneyinto our battleground district. We\u2019ve gotten this far thanks to supporterslike you. We know we\u2019ve asked before, but we cannot afford to fall short aheadof Election Day. We still have work to do! So, can we count on you to chip in$ or any amount you can before midnight? We\u2019re behind on our daily goal, andthere\u2019s too much at stake to sit on the sidelines.[https://secure.actblue.com/donate/js-em-fr-nov24?amount=] If you've storedyour payment information with ActBlue Express, your donation will process now.DONATE $ \u00bb [https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true] DONATE $ \u00bb[https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true]DONATE $ \u00bb [https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true] DONATE $ \u00bb[https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true]DONATE $ \u00bb [https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true] OTHER AMOUNT \u00bb[https://secure.actblue.com/donate/js-em-fr-nov24] Let\u2019s cross the finish linetogether. Team Stelson HQ https://www.facebook.com/janellestelson[https://www.facebook.com/janellestelson] https://x.com/JanelleStelson?s=20[https://x.com/JanelleStelson?s=20] https://www.instagram.com/janellestelson/[https://www.instagram.com/janellestelson/]https://secure.actblue.com/donate/footer-js-23[https://secure.actblue.com/donate/footer-js-23] Janelle Stelson has beenspeaking directly to the people of Central Pennsylvania for more than threedecades as an Emmy-award-winning journalist. Now, Janelle is taking on ScottPerry and fighting for what we deserve \u2014 good-paying jobs to support ourfamilies, abortion rights, the highest quality healthcare and education, andsomeone we know we can trust. Janelle needs your support to unseat MAGAextremist Scott Perry and flip Pennsylvania's 10th District blue.[https://secure.actblue.com/donate/footer-js-23] CONTRIBUTE \u00bb[https://secure.actblue.com/donate/footer-js-23][https://secure.actblue.com/donate/footer-js-23?recurring=true&amount;=25]CONTRIBUTE MONTHLY \u00bb [https://secure.actblue.com/donate/footer-js-23?recurring=true&amount;=25] [https://janellestelson.com/] LEARN MORE \u00bb[https://janellestelson.com/] Paid for by Friends of Janelle Stelson Friendsof Janelle Stelson P.O. Box 41 Lemoyne, PA 17043 United States If you wouldlike to unsubscribe, click here: unsubscribe:https://secure.ngpvan.com/p/57CdP-wFgkuQm58EpOgxvQ2?unsubscribedata=sTQY51g2XPq6ex%2BHCmHhRPCdz3%2BLzl%2FEZjAUb4bkcgc8K4f8MUV893aLS5mNjYR%2FhBSAz322svsIjhxtSefez1Ue7vBpjk%2BEisdz8fTj7DL3HyhR8is%2BNCULwA1FK0pKgZxSJpu49LtP0NhPuySaPDtgcD6SYU%2F%2Btk0vHkD2Jvb%2B2h1dn03SNDofJx7FuPACIT1FcGH5bSuqXEek113MUV%2BiZz6U%2FG7otb2ZYwXAsvbD9ddhQ8rl1pMdMOUvJup3lueD2B085ORvfCNbF61ha9%2Frm%2BZ1hO%2Fy4zSn%2BzpACRrVdtFQozdV5oJ0l%2B8dDovxysNsO4oMmnEdPfrHJQLmHokPNqs0HLyt%2FW7puO5RMonSxUOMSfvTGaIOuzqPf%2FGVdVxjrMIDiChvcUDECbamZt7vT7pYd91OICwCqR8jh73DGsZ96vq1ZGfbdwm0MMoLTo receive less email from Janelle Stelson for Congress, click here[https://secure.ngpvan.com/nAuZHymGL06n0FZIhtQNFQ2] . You can also click hereto donate [https://secure.actblue.com/donate/footer-js-23] .",
         "name": "Team Stelson HQ",
         "email": "team@janellestelson.com",
-        "subject": "We know we\u2019ve asked time and time again",
         "date": "2024-11-02 18:01:41",
         "year": "2024",
         "month": "11",
@@ -15179,7 +15760,6 @@
         "hour": "18",
         "minute": "1",
         "domain": "janellestelson.com",
-        "body": "\u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034fJanelle Stelson has spenther career advocating for truth and integrity, and now she's running to unseatextremist Scott Perry and represent Pennsylvania's 10th District in Congress.If you\u2019d like to unsubscribe, click here. [https://secure.ngpvan.com/p/57CdP-wFgkuQm58EpOgxvQ2?unsubscribedata=sTQY51g2XPq6ex%2BHCmHhRPCdz3%2BLzl%2FEZjAUb4bkcgc8K4f8MUV893aLS5mNjYR%2FhBSAz322svsIjhxtSefez1Ue7vBpjk%2BEisdz8fTj7DL3HyhR8is%2BNCULwA1FK0pKgZxSJpu49LtP0NhPuySaPDtgcD6SYU%2F%2Btk0vHkD2Jvb%2B2h1dn03SNDofJx7FuPACIT1FcGH5bSuqXEek113MUV%2BiZz6U%2FG7otb2ZYwXAsvbD9ddhQ8rl1pMdMOUvJup3lueD2B085ORvfCNbF61ha9%2Frm%2BZ1hO%2Fy4zSn%2BzpACRrVdtFQozdV5oJ0l%2B8dDovxysNsO4oMmnEdPfrHJQLmHokPNqs0HLyt%2FW7puO5RMonSxUOMSfvTGaIOuzqPf%2FGVdVxjrMIDiChvcUDECbamZt7vT7pYd91OICwCqR8jh73DGsZ96vq1ZGfbdwm0MMoL]# [#] Team, it\u2019s the FINAL get out the vote weekend before Election Day. Canyou help us keep our momentum going in the homestretch by rushing $ right now?[https://secure.actblue.com/donate/js-em-fr-nov24?amount=] RUSH $[https://secure.actblue.com/donate/js-em-fr-nov24?amount=] FIRST: The CookPolitical Report moved our race to a TOSS-UP, thanks to the movement we\u2019vebuilt here in PA-10! We know we can defeat MAGA insurrectionist Scott Perry inTHREE days. \ud83d\udd25 THEN: A Republican super PAC rushed nearly $1 MILLION into PA-10to smear Janelle with attack ads ahead of Election Day.https://secure.actblue.com/donate/js-em-fr-nov24[https://secure.actblue.com/donate/js-em-fr-nov24] The GOP is scrambling toprotect the ONLY vulnerable House Freedom Caucus member. NOW: We have to raise$20,000 grassroots dollars EVERY DAY to combat the flood of GOP dark moneyinto our battleground district. We\u2019ve gotten this far thanks to supporterslike you. We know we\u2019ve asked before, but we cannot afford to fall short aheadof Election Day. We still have work to do! So, can we count on you to chip in$ or any amount you can before midnight? We\u2019re behind on our daily goal, andthere\u2019s too much at stake to sit on the sidelines.[https://secure.actblue.com/donate/js-em-fr-nov24?amount=] If you've storedyour payment information with ActBlue Express, your donation will process now.DONATE $ \u00bb [https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true] DONATE $ \u00bb[https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true]DONATE $ \u00bb [https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true] DONATE $ \u00bb[https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true]DONATE $ \u00bb [https://secure.actblue.com/donate/js-em-fr-nov24?amount=&express;_lane=true] OTHER AMOUNT \u00bb[https://secure.actblue.com/donate/js-em-fr-nov24] Let\u2019s cross the finish linetogether. Team Stelson HQ https://www.facebook.com/janellestelson[https://www.facebook.com/janellestelson] https://x.com/JanelleStelson?s=20[https://x.com/JanelleStelson?s=20] https://www.instagram.com/janellestelson/[https://www.instagram.com/janellestelson/]https://secure.actblue.com/donate/footer-js-23[https://secure.actblue.com/donate/footer-js-23] Janelle Stelson has beenspeaking directly to the people of Central Pennsylvania for more than threedecades as an Emmy-award-winning journalist. Now, Janelle is taking on ScottPerry and fighting for what we deserve \u2014 good-paying jobs to support ourfamilies, abortion rights, the highest quality healthcare and education, andsomeone we know we can trust. Janelle needs your support to unseat MAGAextremist Scott Perry and flip Pennsylvania's 10th District blue.[https://secure.actblue.com/donate/footer-js-23] CONTRIBUTE \u00bb[https://secure.actblue.com/donate/footer-js-23][https://secure.actblue.com/donate/footer-js-23?recurring=true&amount;=25]CONTRIBUTE MONTHLY \u00bb [https://secure.actblue.com/donate/footer-js-23?recurring=true&amount;=25] [https://janellestelson.com/] LEARN MORE \u00bb[https://janellestelson.com/] Paid for by Friends of Janelle Stelson Friendsof Janelle Stelson P.O. Box 41 Lemoyne, PA 17043 United States If you wouldlike to unsubscribe, click here: unsubscribe:https://secure.ngpvan.com/p/57CdP-wFgkuQm58EpOgxvQ2?unsubscribedata=sTQY51g2XPq6ex%2BHCmHhRPCdz3%2BLzl%2FEZjAUb4bkcgc8K4f8MUV893aLS5mNjYR%2FhBSAz322svsIjhxtSefez1Ue7vBpjk%2BEisdz8fTj7DL3HyhR8is%2BNCULwA1FK0pKgZxSJpu49LtP0NhPuySaPDtgcD6SYU%2F%2Btk0vHkD2Jvb%2B2h1dn03SNDofJx7FuPACIT1FcGH5bSuqXEek113MUV%2BiZz6U%2FG7otb2ZYwXAsvbD9ddhQ8rl1pMdMOUvJup3lueD2B085ORvfCNbF61ha9%2Frm%2BZ1hO%2Fy4zSn%2BzpACRrVdtFQozdV5oJ0l%2B8dDovxysNsO4oMmnEdPfrHJQLmHokPNqs0HLyt%2FW7puO5RMonSxUOMSfvTGaIOuzqPf%2FGVdVxjrMIDiChvcUDECbamZt7vT7pYd91OICwCqR8jh73DGsZ96vq1ZGfbdwm0MMoLTo receive less email from Janelle Stelson for Congress, click here[https://secure.ngpvan.com/nAuZHymGL06n0FZIhtQNFQ2] . You can also click hereto donate [https://secure.actblue.com/donate/footer-js-23] .",
         "party": "D",
         "disclaimer": "True"
     },
@@ -15248,7 +15828,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Schiff for Senate",
+        "committee": "SCHIFF FOR SENATE",
         "name": "Adam Schiff",
         "email": "reply@e.adamschiff.com",
         "subject": "$3",
@@ -15264,7 +15844,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NEW YORK YOUNG REPUBLICAN CLUB",
+        "committee": "New York Young Republican Club",
         "name": "Gavin M. Wax, NYYRC President",
         "email": "hello@m.conservativeum.com",
         "subject": "Do NOT believe the Kamala bump (here\u2019s why >>)",
@@ -15440,7 +16020,27 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Dr. Raul Ruiz for Congress Committee",
+        "emailSubject": "Help Dr. Raul Ruiz Fight For Our Values - Donate Today",
+        "previewText": "Time is running out to flip the House blue and re-elect a champion for working families.",
+        "body": "\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034fWhile Washington remains gridlocked, Dr.Raul Ruiz is committed to serving and helping constituents with the problemsthey have with the federal government and cutting red tape. If you\u2019d like tounsubscribe, click here.[https://secure.ngpvan.com/p/dAfRehWDrkq5GdVTndjWgA2?unsubscribedata=kKG%2FCi1Za4C3HyadNn0TkPEFrH%2FwTWtG7P6QUcdLJ%2BdE1Et4A3wUlDC7GEGOEcBQl9SFbX5p2TGUaxq8fkfLiM42LOgYPV%2FbuPSVaVaasTkusvlHiL6mZOxy8oiigrgGAclUMJO%2FZ%2BhEJOJ0LqTK5RGsxy%2FdCBKiI8LV57K7oJ5LUzkp2CpdE80nNjSXQQhWNUFkFIg7u2WiRnMyRDyrHmlNpzbDi2yXSbDEFj4QJ3SLgl6BLY%2Fu26gxzTPnuGpRxkVRTRWhOCojHJ27WR5xoNw3jvSOXi%2Bzr77tIN%2B%2FN%2Ffq9%2BbvB%2B26GFdgR5gJ9uEugpMi7TW4JUuGth8x64L%2F8fgvtQveREpSDz0eOuVKm4IpPnp9zr0aY9i8U%2B3xQUXV%2FyR4rFR6qf7GghUbNwnYEq1Hs68YCk1B8izcwkA6VQwyFwjIRqSmyM3T2Fj4klAF]# [#] https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=] 72 hours \u2014 that\u2019show long we have. We need your RAPID support to ensure Dr. Ruiz and our crewof volunteers have all the resources we need to get out the vote, send ourMAGA opponent packing, and take back the House majority. Will you step up witha donation of $ today? >> [https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=] DONATE TODAY [https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=] What we do in these final moments will decide the future of thefamilies and businesses in California\u2019s 25th for years to come, and with somuch on the line, there\u2019s no room to fall short. From reproductive freedom toan economy that supports working people, Dr. Ruiz has been a staunch advocatefor our shared values, but Donald Trump and our extremist opponent arefighting tooth and nail to do the exact opposite. The clock is ticking, andwe\u2019re counting on you to push us to victory with a donation of $ or any amountyou can spare. Consider chipping in today >>[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=] If you've storedyour payment information with ActBlue Express, your donation will processimmediately. DONATE $ NOW \u00bb [https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] DONATE $ NOW \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] DONATE $ NOW \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] DONATE $ NOW \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] DONATE $ NOW \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] ANOTHER AMOUNT \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24] \u2014 Ruiz HQhttps://www.facebook.com/DrRaulRuiz/ [https://www.facebook.com/DrRaulRuiz/]https://www.instagram.com/doctorraulruiz[https://www.instagram.com/doctorraulruiz] https://twitter.com/Dr_RaulRuiz[https://twitter.com/Dr_RaulRuiz] https://secure.actblue.com/donate/ruiz-em-fr-footer [https://secure.actblue.com/donate/ruiz-em-fr-footer] The son ofhardworking farmworkers, Dr. Ruiz grew up in Coachella, CA and learned at anearly age that the key to attaining the American Dream is hard work and agreat education. In the summer of 1990, Raul walked in the desert heat frombusiness to business in the Coachella Valley asking them to invest in theircommunity by contributing to his education. With each investment for college,he made a promise to come back home and serve his community as a physician. In2012, he decided to take his service to the community to the next level byrunning for Congress. Dr. Ruiz needs our help to continue fighting for us inCongress and to flip the House blue this November.[https://secure.actblue.com/donate/ruiz-em-fr-footer] CONTRIBUTE \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-footer][https://secure.actblue.com/donate/ruiz-em-fr-footer?recurring=true&amount;=25] CONTRIBUTE MONTHLY \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-footer?recurring=true&amount;=25] [https://drraulruiz.com/] LEARN MORE \u00bb[https://drraulruiz.com/] PAID FOR BY DR. RAUL RUIZ FOR CONGRESS COMMITTEE Ifyou would like to unsubscribe, click here: unsubscribe:https://secure.ngpvan.com/p/dAfRehWDrkq5GdVTndjWgA2?unsubscribedata=kKG%2FCi1Za4C3HyadNn0TkPEFrH%2FwTWtG7P6QUcdLJ%2BdE1Et4A3wUlDC7GEGOEcBQl9SFbX5p2TGUaxq8fkfLiM42LOgYPV%2FbuPSVaVaasTkusvlHiL6mZOxy8oiigrgGAclUMJO%2FZ%2BhEJOJ0LqTK5RGsxy%2FdCBKiI8LV57K7oJ5LUzkp2CpdE80nNjSXQQhWNUFkFIg7u2WiRnMyRDyrHmlNpzbDi2yXSbDEFj4QJ3SLgl6BLY%2Fu26gxzTPnuGpRxkVRTRWhOCojHJ27WR5xoNw3jvSOXi%2Bzr77tIN%2B%2FN%2Ffq9%2BbvB%2B26GFdgR5gJ9uEugpMi7TW4JUuGth8x64L%2F8fgvtQveREpSDz0eOuVKm4IpPnp9zr0aY9i8U%2B3xQUXV%2FyR4rFR6qf7GghUbNwnYEq1Hs68YCk1B8izcwkA6VQwyFwjIRqSmyM3T2Fj4klAFYou can also click here to donate [https://secure.actblue.com/donate/ruiz-em-fr-footer] . Dr. Raul Ruiz for Congress Committee P.O. Box 1566 Indio, CA92202 United States",
+        "footer": {
+            "unsubscribeLink": "https://secure.ngpvan.com/p/dAfRehWDrkq5GdVTndjWgA2?unsubscribedata=kKG%2FCi1Za4C3HyadNn0TkPEFrH%2FwTWtG7P6QUcdLJ%2BdE1Et4A3wUlDC7GEGOEcBQl9SFbX5p2TGUaxq8fkfLiM42LOgYPV%2FbuPSVaVaasTkusvlHiL6mZOxy8oiigrgGAclUMJO%2FZ%2BhEJOJ0LqTK5RGsxy%2FdCBKiI8LV57K7oJ5LUzkp2CpdE80nNjSXQQhWNUFkFIg7u2WiRnMyRDyrHmlNpzbDi2yXSbDEFj4QJ3SLgl6BLY%2Fu26gxzTPnuGpRxkVRTRWhOCojHJ27WR5xoNw3jvSOXi%2Bzr77tIN%2B%2FN%2Ffq9%2BbvB%2B26GFdgR5gJ9uEugpMi7TW4JUuGth8x64L%2F8fgvtQveREpSDz0eOuVKm4IpPnp9zr0aY9i8U%2B3xQUXV%2FyR4rFR6qf7GghUbNwnYEq1Hs68YCk1B8izcwkA6VQwyFwjIRqSmyM3T2Fj4klAF",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "url": "https://www.facebook.com/DrRaulRuiz/"
+                },
+                {
+                    "name": "Instagram",
+                    "url": "https://www.instagram.com/doctorraulruiz"
+                },
+                {
+                    "name": "Twitter",
+                    "url": "https://twitter.com/Dr_RaulRuiz"
+                }
+            ],
+            "address": "Dr. Raul Ruiz for Congress Committee\nP.O. Box 1566\nIndio, CA 92202\nUnited States"
+        },
         "name": "Ruiz HQ",
         "email": "info@drraulruiz.com",
         "subject": "The countdown is on:",
@@ -15451,7 +16051,6 @@
         "hour": "18",
         "minute": "25",
         "domain": "drraulruiz.com",
-        "body": "\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f\u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034f \u034fWhile Washington remains gridlocked, Dr.Raul Ruiz is committed to serving and helping constituents with the problemsthey have with the federal government and cutting red tape. If you\u2019d like tounsubscribe, click here.[https://secure.ngpvan.com/p/dAfRehWDrkq5GdVTndjWgA2?unsubscribedata=kKG%2FCi1Za4C3HyadNn0TkPEFrH%2FwTWtG7P6QUcdLJ%2BdE1Et4A3wUlDC7GEGOEcBQl9SFbX5p2TGUaxq8fkfLiM42LOgYPV%2FbuPSVaVaasTkusvlHiL6mZOxy8oiigrgGAclUMJO%2FZ%2BhEJOJ0LqTK5RGsxy%2FdCBKiI8LV57K7oJ5LUzkp2CpdE80nNjSXQQhWNUFkFIg7u2WiRnMyRDyrHmlNpzbDi2yXSbDEFj4QJ3SLgl6BLY%2Fu26gxzTPnuGpRxkVRTRWhOCojHJ27WR5xoNw3jvSOXi%2Bzr77tIN%2B%2FN%2Ffq9%2BbvB%2B26GFdgR5gJ9uEugpMi7TW4JUuGth8x64L%2F8fgvtQveREpSDz0eOuVKm4IpPnp9zr0aY9i8U%2B3xQUXV%2FyR4rFR6qf7GghUbNwnYEq1Hs68YCk1B8izcwkA6VQwyFwjIRqSmyM3T2Fj4klAF]# [#] https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=] 72 hours \u2014 that\u2019show long we have. We need your RAPID support to ensure Dr. Ruiz and our crewof volunteers have all the resources we need to get out the vote, send ourMAGA opponent packing, and take back the House majority. Will you step up witha donation of $ today? >> [https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=] DONATE TODAY [https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=] What we do in these final moments will decide the future of thefamilies and businesses in California\u2019s 25th for years to come, and with somuch on the line, there\u2019s no room to fall short. From reproductive freedom toan economy that supports working people, Dr. Ruiz has been a staunch advocatefor our shared values, but Donald Trump and our extremist opponent arefighting tooth and nail to do the exact opposite. The clock is ticking, andwe\u2019re counting on you to push us to victory with a donation of $ or any amountyou can spare. Consider chipping in today >>[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=] If you've storedyour payment information with ActBlue Express, your donation will processimmediately. DONATE $ NOW \u00bb [https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] DONATE $ NOW \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] DONATE $ NOW \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] DONATE $ NOW \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] DONATE $ NOW \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24?amount=&express;_lane=true] ANOTHER AMOUNT \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-nov24] \u2014 Ruiz HQhttps://www.facebook.com/DrRaulRuiz/ [https://www.facebook.com/DrRaulRuiz/]https://www.instagram.com/doctorraulruiz[https://www.instagram.com/doctorraulruiz] https://twitter.com/Dr_RaulRuiz[https://twitter.com/Dr_RaulRuiz] https://secure.actblue.com/donate/ruiz-em-fr-footer [https://secure.actblue.com/donate/ruiz-em-fr-footer] The son ofhardworking farmworkers, Dr. Ruiz grew up in Coachella, CA and learned at anearly age that the key to attaining the American Dream is hard work and agreat education. In the summer of 1990, Raul walked in the desert heat frombusiness to business in the Coachella Valley asking them to invest in theircommunity by contributing to his education. With each investment for college,he made a promise to come back home and serve his community as a physician. In2012, he decided to take his service to the community to the next level byrunning for Congress. Dr. Ruiz needs our help to continue fighting for us inCongress and to flip the House blue this November.[https://secure.actblue.com/donate/ruiz-em-fr-footer] CONTRIBUTE \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-footer][https://secure.actblue.com/donate/ruiz-em-fr-footer?recurring=true&amount;=25] CONTRIBUTE MONTHLY \u00bb[https://secure.actblue.com/donate/ruiz-em-fr-footer?recurring=true&amount;=25] [https://drraulruiz.com/] LEARN MORE \u00bb[https://drraulruiz.com/] PAID FOR BY DR. RAUL RUIZ FOR CONGRESS COMMITTEE Ifyou would like to unsubscribe, click here: unsubscribe:https://secure.ngpvan.com/p/dAfRehWDrkq5GdVTndjWgA2?unsubscribedata=kKG%2FCi1Za4C3HyadNn0TkPEFrH%2FwTWtG7P6QUcdLJ%2BdE1Et4A3wUlDC7GEGOEcBQl9SFbX5p2TGUaxq8fkfLiM42LOgYPV%2FbuPSVaVaasTkusvlHiL6mZOxy8oiigrgGAclUMJO%2FZ%2BhEJOJ0LqTK5RGsxy%2FdCBKiI8LV57K7oJ5LUzkp2CpdE80nNjSXQQhWNUFkFIg7u2WiRnMyRDyrHmlNpzbDi2yXSbDEFj4QJ3SLgl6BLY%2Fu26gxzTPnuGpRxkVRTRWhOCojHJ27WR5xoNw3jvSOXi%2Bzr77tIN%2B%2FN%2Ffq9%2BbvB%2B26GFdgR5gJ9uEugpMi7TW4JUuGth8x64L%2F8fgvtQveREpSDz0eOuVKm4IpPnp9zr0aY9i8U%2B3xQUXV%2FyR4rFR6qf7GghUbNwnYEq1Hs68YCk1B8izcwkA6VQwyFwjIRqSmyM3T2Fj4klAFYou can also click here to donate [https://secure.actblue.com/donate/ruiz-em-fr-footer] . Dr. Raul Ruiz for Congress Committee P.O. Box 1566 Indio, CA92202 United States",
         "party": "D",
         "disclaimer": "True"
     },
@@ -15504,9 +16103,9 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Friends of Kristin for Wisconsin",
-        "name": "Suzan DelBene",
         "email": "info@kristinforwisconsin.com",
+        "body": "Friend, I know you\u2019re getting a lot of emails right now. But I\u2019d greatlyappreciate it if you could take the time to read this one. I\u2019m the Chairwomanof the Democratic Congressional Campaign Committee (DCCC) \u2013 the committeeresponsible with our efforts to win the House, a pro-choice woman with abackground in STEM like many of the candidates 314 Action is supporting, and aproud mom and grandma who wants to leave our kids a better country and planetthan we found it. That means flipping the House to secure a majority that willprotect their rights and their medical autonomy, act on climate, get weaponsof war off the streets, slash child poverty, safeguard our democracy, and keepthe American Dream within their grasp. Democrats are just 4 seats away fromflipping the House blue. But we\u2019re facing a record level of spending by theGOP in this final stretch and polling couldn\u2019t be tighter in the handful ofraces that will decide control of Congress. Your support today is what willmake these races break in our favor. That\u2019s why I\u2019m personally asking if youwill donate directly to 6 Democrats running in 6 toss-up Red-to-Blue Houseraces ahead of their deadlines tonight. If Christina Bohannan (IA-1), Dr.Amish Shah (AZ-1), Janelle Bynum (OR-5), George Whitesides (CA-27), JohnMannion (NY-22), and Tony Vargas (NE-2) win we have the numbers to flip theHouse blue. https://secure.actblue.com/donate/kl-email-241018-314?refcode=KL_ATA_EM_FR_314_241025_T1_2_b Christina Bohannan (IA-1) \u2013 Christina is anenvironmental engineer and law professor who defeated a 20-year incumbent tosecure a seat in the Iowa State Legislature. In 2020, Republicans flipped thisseat from blue to red by the slimmest margin of any House race in nearly anentire century \u2013 a margin of just 6 votes (0.01% of the vote). And pollingconfirms it could be just as competitive this November. Normington, Petts &Associates Poll: Bohannan 47% \u2013 Miller-Meeks 47% Dr. Amish Shah (AZ-1) \u2013 Amishis an Emergency Room physician at the Mayo Clinic of Arizona and StateRepresentative who had the most bills signed into law of any Arizona Democratof the past decade. In 2022, Republicans barely defended this seat by a marginof just 3,195 votes (which was less than 1% of the vote). It could be evencloser this time around. In 2020, Joe Biden won this district by 1.5%. ImpactResearch Poll: Shah 48% \u2013 Schweikert 48% Janelle Bynum (OR-5) \u2013 Janelle is anelectrical engineer, small business owner, and former State Representative whohas defeated Republican Lori Chavez-DeRemer (who she is now running against)not once but twice at the state level. In 2022, Republicans flipped this seatfrom blue to red by a razor-thin margin of just 2.1% of the vote. In 2020, JoeBiden won this district by 8.8% of the vote \u2013 one of the largest margins ofany House seat actively held by a Republican. Noble Predictive Insights Poll:Bynum 43% \u2013 Chavez-DeRemer 42% George Whitesides (CA-27) \u2013 George is anaerospace expert who served as the Chief of Staff for NASA under PresidentBarack Obama, served as CEO of the spaceflight company Virgin Galactic, andco-founded a group to address wildfire disasters. In 2020, Republicans flippedthis seat from blue to red by a razor-thin margin \u2013 just 333 votes (a marginof 0.1% of the vote). In 2020, Joe Biden won this district by a massive marginof 12.4% of the vote \u2013 more than almost any other House district currentlyrepresented by a Republican. University of Southern California Poll:Whitesides 48% \u2013 Garcia 46% John Mannion (NY-22) \u2013 John is a former scienceteacher who won a highly competitive State Senate seat on Republican turf byjust 10 votes to win a seat in the New York State Legislature. In 2022,Republicans barely defended this House seat by a razor-thin margin of just2,631 votes (which is less than 1% of the vote!). In 2020, Joe Biden won thisdistrict by a margin of 7.4% of the vote \u2013 which is part of the reason theNational Journal labeled this as the best red-to-blue pickup opportunity inthe United States! Tony Vargas (NE-2) \u2013 Tony is a former science teacher andschool board member who currently serves in the Nebraska State Senate. In2022, Tony fell just 5,856 votes (a margin of just 2.6% of the vote) offlipping this seat from red to blue. In 2020, Joe Biden won this district by amargin of 6.4% of the vote and it's only grown more Democratic since. The NewYork Times Poll: Vargas 49% \u2013 Bacon 46% If you've saved your paymentinformation with ActBlue Express, your donation will be automatically splitbetween Christina Bohannan, Dr. Amish Shah, Janelle Bynum, George Whitesides,John Mannion, Tony Vargas, 314 Action Fund, and Kristin Lyerly: EXPRESS DONATE$ https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE $https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE $https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE $https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE $https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE OTHERhttps://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&refcode;= KL_ATA_EM_FR_314_241025_T1_2_bThank you, Suzan Contribute https://secure.actblue.com/donate/kl-email-241018-314?refcode= KL_ATA_EM_FR_314_241025_T1_2_b PAID FOR BY FRIENDSOF KRISTIN FOR WISCONSIN If you'd like to unsubscribe you can click here.[https://secure.ngpvan.com/p/z34FQfwYfUy93tutIJ7IUw2?unsubscribedata=DWk9uAMoQI3ULVwKhpkl6QNl3%2BvHASAp6FOOx6JSRm2MICjBI3xmq87aWJSJEoSW9o1cr9glKfTFG03woFE6%2Bx%2FN%2FoZaHF9M6Ikz1QUCvynfP5zOgmvbgA2yI%2B5OnGWquTFJS4Ub9kRuYajBn%2BBwWebr6udz2xZaNbw0F0mJhyCh4hUDeSDArkbA8i3brMCU1Pj07XtC%2BqK1LosKu2Xmcx6mY1rDGlkaefzQQtmnNfYOOT630RHaxY%2BpIV9clto0M6rCTihl08%2FbT8WSgOxJx%2FpNzhBsOj%2B1xnZEfuca612cr%2BwTO9o14Ga5d65zmOzqxsBYBJLHoJ7aJLm%2F4i05YnT004T%2ByOZRuuW5CS7o6AajMWl1b32QUNv%2FcfmT2%2BFBiT0FOSUl%2BT%2BQhzOAh9i928Qj2bfxsj6urHTzn5P%2FxaZSpi0JCZHxi3BbCJ4L5MRX]",
+        "name": "Suzan DelBene",
         "subject": "If you want to know where your support has the biggest impact read this",
         "date": "2024-11-02 18:30:56",
         "year": "2024",
@@ -15515,12 +16114,14 @@
         "hour": "18",
         "minute": "30",
         "domain": "kristinforwisconsin.com",
-        "body": "Friend, I know you\u2019re getting a lot of emails right now. But I\u2019d greatlyappreciate it if you could take the time to read this one. I\u2019m the Chairwomanof the Democratic Congressional Campaign Committee (DCCC) \u2013 the committeeresponsible with our efforts to win the House, a pro-choice woman with abackground in STEM like many of the candidates 314 Action is supporting, and aproud mom and grandma who wants to leave our kids a better country and planetthan we found it. That means flipping the House to secure a majority that willprotect their rights and their medical autonomy, act on climate, get weaponsof war off the streets, slash child poverty, safeguard our democracy, and keepthe American Dream within their grasp. Democrats are just 4 seats away fromflipping the House blue. But we\u2019re facing a record level of spending by theGOP in this final stretch and polling couldn\u2019t be tighter in the handful ofraces that will decide control of Congress. Your support today is what willmake these races break in our favor. That\u2019s why I\u2019m personally asking if youwill donate directly to 6 Democrats running in 6 toss-up Red-to-Blue Houseraces ahead of their deadlines tonight. If Christina Bohannan (IA-1), Dr.Amish Shah (AZ-1), Janelle Bynum (OR-5), George Whitesides (CA-27), JohnMannion (NY-22), and Tony Vargas (NE-2) win we have the numbers to flip theHouse blue. https://secure.actblue.com/donate/kl-email-241018-314?refcode=KL_ATA_EM_FR_314_241025_T1_2_b Christina Bohannan (IA-1) \u2013 Christina is anenvironmental engineer and law professor who defeated a 20-year incumbent tosecure a seat in the Iowa State Legislature. In 2020, Republicans flipped thisseat from blue to red by the slimmest margin of any House race in nearly anentire century \u2013 a margin of just 6 votes (0.01% of the vote). And pollingconfirms it could be just as competitive this November. Normington, Petts &Associates Poll: Bohannan 47% \u2013 Miller-Meeks 47% Dr. Amish Shah (AZ-1) \u2013 Amishis an Emergency Room physician at the Mayo Clinic of Arizona and StateRepresentative who had the most bills signed into law of any Arizona Democratof the past decade. In 2022, Republicans barely defended this seat by a marginof just 3,195 votes (which was less than 1% of the vote). It could be evencloser this time around. In 2020, Joe Biden won this district by 1.5%. ImpactResearch Poll: Shah 48% \u2013 Schweikert 48% Janelle Bynum (OR-5) \u2013 Janelle is anelectrical engineer, small business owner, and former State Representative whohas defeated Republican Lori Chavez-DeRemer (who she is now running against)not once but twice at the state level. In 2022, Republicans flipped this seatfrom blue to red by a razor-thin margin of just 2.1% of the vote. In 2020, JoeBiden won this district by 8.8% of the vote \u2013 one of the largest margins ofany House seat actively held by a Republican. Noble Predictive Insights Poll:Bynum 43% \u2013 Chavez-DeRemer 42% George Whitesides (CA-27) \u2013 George is anaerospace expert who served as the Chief of Staff for NASA under PresidentBarack Obama, served as CEO of the spaceflight company Virgin Galactic, andco-founded a group to address wildfire disasters. In 2020, Republicans flippedthis seat from blue to red by a razor-thin margin \u2013 just 333 votes (a marginof 0.1% of the vote). In 2020, Joe Biden won this district by a massive marginof 12.4% of the vote \u2013 more than almost any other House district currentlyrepresented by a Republican. University of Southern California Poll:Whitesides 48% \u2013 Garcia 46% John Mannion (NY-22) \u2013 John is a former scienceteacher who won a highly competitive State Senate seat on Republican turf byjust 10 votes to win a seat in the New York State Legislature. In 2022,Republicans barely defended this House seat by a razor-thin margin of just2,631 votes (which is less than 1% of the vote!). In 2020, Joe Biden won thisdistrict by a margin of 7.4% of the vote \u2013 which is part of the reason theNational Journal labeled this as the best red-to-blue pickup opportunity inthe United States! Tony Vargas (NE-2) \u2013 Tony is a former science teacher andschool board member who currently serves in the Nebraska State Senate. In2022, Tony fell just 5,856 votes (a margin of just 2.6% of the vote) offlipping this seat from red to blue. In 2020, Joe Biden won this district by amargin of 6.4% of the vote and it's only grown more Democratic since. The NewYork Times Poll: Vargas 49% \u2013 Bacon 46% If you've saved your paymentinformation with ActBlue Express, your donation will be automatically splitbetween Christina Bohannan, Dr. Amish Shah, Janelle Bynum, George Whitesides,John Mannion, Tony Vargas, 314 Action Fund, and Kristin Lyerly: EXPRESS DONATE$ https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE $https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE $https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE $https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE $https://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&amount;=&refcode;=KL_ATA_EM_FR_314_241025_T1_2_b EXPRESS DONATE OTHERhttps://secure.actblue.com/donate/kl-email-241018-314?express_lane=true&refcode;= KL_ATA_EM_FR_314_241025_T1_2_bThank you, Suzan Contribute https://secure.actblue.com/donate/kl-email-241018-314?refcode= KL_ATA_EM_FR_314_241025_T1_2_b PAID FOR BY FRIENDSOF KRISTIN FOR WISCONSIN If you'd like to unsubscribe you can click here.[https://secure.ngpvan.com/p/z34FQfwYfUy93tutIJ7IUw2?unsubscribedata=DWk9uAMoQI3ULVwKhpkl6QNl3%2BvHASAp6FOOx6JSRm2MICjBI3xmq87aWJSJEoSW9o1cr9glKfTFG03woFE6%2Bx%2FN%2FoZaHF9M6Ikz1QUCvynfP5zOgmvbgA2yI%2B5OnGWquTFJS4Ub9kRuYajBn%2BBwWebr6udz2xZaNbw0F0mJhyCh4hUDeSDArkbA8i3brMCU1Pj07XtC%2BqK1LosKu2Xmcx6mY1rDGlkaefzQQtmnNfYOOT630RHaxY%2BpIV9clto0M6rCTihl08%2FbT8WSgOxJx%2FpNzhBsOj%2B1xnZEfuca612cr%2BwTO9o14Ga5d65zmOzqxsBYBJLHoJ7aJLm%2F4i05YnT004T%2ByOZRuuW5CS7o6AajMWl1b32QUNv%2FcfmT2%2BFBiT0FOSUl%2BT%2BQhzOAh9i928Qj2bfxsj6urHTzn5P%2FxaZSpi0JCZHxi3BbCJ4L5MRX]",
         "party": "D",
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Party of Georgia",
+        "email_response": {
+            "type": "fundraising_email",
+            "summary": "This is a fundraising email from Rep. Nikema Williams on behalf of the Democratic Party of Georgia. The main message urges supporters to donate to help elect Democrats in Georgia for the 2024 elections, emphasizing the state's battleground status and the importance of grassroots support."
+        },
         "name": "Rep. Nikema Williams",
         "email": "feedback@georgiademocrat.org",
         "subject": "no second chances",
@@ -15600,7 +16201,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Jane Fonda ClimatePAC",
+        "committee": "Jane Fonda Climate PAC",
         "name": "Team JanePAC",
         "email": "info@janepac.com",
         "subject": "NYT: Zero climate progress over the past year.",
@@ -15616,7 +16217,43 @@
         "disclaimer": "True"
     },
     {
-        "committee": "George Latimer for Congress",
+        "blocks": [
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*George Latimer for Congress*\n\n*3 Reasons to Support George in the Final Stretch:*\n1. NY-16 needs a Congressman committed to real change who will support progressive leaders like Kamala Harris and Tim Walz.\n2. George has over three decades of experience delivering results, not rhetoric, for New York State residents.\n3. We need grassroots support to stay competitive and elect someone focused on helping our community rather than partisan politics."
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*George's Track Record:*\n\u2022 Successfully cut regressive taxes\n\u2022 Fought for civil rights and racial equality\n\u2022 Defended women's reproductive rights\n\u2022 Stood up to the NRA for gun safety measures\n\u2022 Championed marriage equality"
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Join Team Latimer:*\n\ud83d\udc49 [Donate Now](https://secure.actblue.com/donate/latimer-em-footer-23)\n\ud83d\udc49 [Monthly Contribution](https://secure.actblue.com/donate/latimer-em-recurring-23?recurring=true&amount=25)\n\ud83d\udc49 [Learn More About George](https://latimerforny.com/)"
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Connect With Us:*\n[Facebook](https://www.facebook.com/LatimerforNY) | [Twitter](https://twitter.com/LatimerforNY)"
+                }
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*George Latimer for Congress*\nPO Box 789, White Plains, NY 10602\n[Unsubscribe](https://secure.ngpvan.com/p/-Phg2RhDIEGJVPbb5vK87g2?unsubscribedata=EsbwEF%2BBrws%2FEx0m5LgtceqQZ8yV56%2BLnmHLRHltgzn27D76G%2FXITOBQ4IrTzp1NFr8zcI%2BsXPrxc0roBBsm1XBtbl%2BroHrMwnyn3fOPJPD9LV5QWKtaPhwj2i3LGtpYhLOqsKee5HFDouXHiXCel69bM3KPU6gcUtAcWVOZqPa30XWCinCfU7Gmr89%2Bb4ayyR7O58O9bQnosH4f3KB7KPDxgsn0NMRa1B4G8Eo0Ed4EIvCpffiFZyP%2BjV3Ay8OuS3yczv5HFf5%2Bdsr3xJOOncrOIG2I9X%2BCzsTupldOFhwjOsPH4GAiiS7xTpjui6gQFFOYkAHDWdi8F3xy1IdDRJfJKxJj7K13eZe4gtj9bw0QTNpRg8Q3vOW5d7x%2BPiMljLxRpSnZfRizcHhDjf%2B1BdQDQtF3UIWhJtYB3r597MgsE6j6elvX%2FX56geOEJef9)"
+                }
+            }
+        ],
         "name": "Team Latimer",
         "email": "info@latimerforny.com",
         "subject": "3 reasons we need your support",
@@ -15664,7 +16301,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "STEVE GARVEY FOR U.S. SENATE",
+        "committee": "Steve Garvey for U.S. Senate",
         "name": "#6 Steve Garvey",
         "email": "info@conservativesfordjt.com",
         "subject": "We need every dollar possible to fight",
@@ -15776,7 +16413,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TRUTH TO POWER PAC",
+        "committee": "Truth to Power PAC",
         "name": "Katie Porter",
         "email": "info@katieporter.com",
         "subject": "This is what your donations funded:",
@@ -15824,7 +16461,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Upset The Setup PAC",
+        "committee": "Upset The SetupPAC",
         "name": "Team UTS",
         "email": "info@upsetthesetup.org",
         "subject": "Rick Scott has GOT TO GO!",
