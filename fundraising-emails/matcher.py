@@ -5,7 +5,7 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 
 # Load the CSV file
-csv_file = "training.csv"
+csv_file = "fundraising_emails/training.csv"
 df_csv = pd.read_csv(csv_file)
 
 # Directory containing JSON files
