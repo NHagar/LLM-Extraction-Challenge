@@ -25,7 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas
+        pip install pandas scikit-learn
 
     - name: Run matcher script
       run: python fundraising-emails/matcher.py
