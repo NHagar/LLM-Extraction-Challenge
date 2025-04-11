@@ -1,4 +1,4 @@
-Classification report for Model claude35_haiku_november_2024_prompt2.json
+Classification report for model claude35_haiku_november_2024_prompt2.json
 
                                                     precision    recall  f1-score   support
 
