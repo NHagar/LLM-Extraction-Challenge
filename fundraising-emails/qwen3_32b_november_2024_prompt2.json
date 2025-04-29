@@ -1,6 +1,5 @@
 [
     {
-        "committee": "Heritage Action for America",
         "name": "Ryan Walker",
         "email": "newsletter@newsletter.conservativedirect.com",
         "subject": "\u201cGarbage\u201d That\u2019s what Joe Biden just called MILLIONS of Americans.",
@@ -16,10 +15,9 @@
         "disclaimer": "True"
     },
     {
-        "text": "Hello,I am emailing to ask you to give $5 to my campaign against Lauren Boebert.Here\u2019s why: I am the Democratic nominee against Lauren Boebert, and a brand-new poll shows Boebert is still incredibly vulnerable! In 2022, Adam Frischnearly defeated Lauren Boebert. He lost by just 546 votes. That scared LaurenBoebert so much that she came running to my district. I\u2019m now running to continue his mission and take on Boebert, who has consistently failed our community. Our team has made great progress, but we still need your help to reach more voters and make sure we win this critical race. If you\u2019re able, please consider donating $5 or more to support our campaign. Every dollar helps us get closer to victory. Thank you for your support, [Your Name] Paid for by [Your Campaign Name]. [Your Address] [City, State, ZIP Code] United States Contributions or gifts to [Your Campaign Name] are not tax deductible. This email was sent to [email@example.com].",
-        "subject": "$5 to defeat Boebert",
         "name": "Trisha Calvarese",
         "email": "info@adamforcolorado.com",
+        "subject": "$5 to defeat Boebert",
         "date": "2024-11-01 00:02:14",
         "year": "2024",
         "month": "11",
@@ -80,7 +78,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "SENATE CONSERVATIVES FUND",
         "name": "Senate Conservatives",
         "email": "info@freedomfirstalert.com",
         "subject": "Five Races Too Close to Call",
@@ -176,7 +173,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "The Pennsylvania Democratic Party",
         "name": "Jalen Nix, Deputy Executive Director, PA Dems",
         "email": "info@padems.com",
         "subject": "PA will decide who wins in 5 days",
@@ -208,7 +204,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "VOTE BOLICK",
         "name": "Shawnna Bolick",
         "email": "info@bolickforarizona.com",
         "subject": "Fake Ads",
@@ -224,6 +219,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Cooke for Congress",
         "name": "rebecca cooke (personal)",
         "email": "info@cookeforwisconsin.com",
         "subject": "getting out the vote in WI-03:",
@@ -287,6 +283,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "BOB CASEY FOR SENATE INC.",
         "name": "Team Casey",
         "email": "info@email.bobcasey.com",
         "subject": "Not what you want to see",
@@ -302,6 +299,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Derek Tran for Congress",
         "name": "President Bill Clinton",
         "email": "info@derektranforcongress.com",
         "subject": "Derek Tran",
@@ -349,6 +347,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "LOFGREN FOR CONGRESS",
         "name": "zoe (personal)",
         "email": "info@zoelofgren.com",
         "subject": "the last time",
@@ -380,6 +379,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Eric Sorensen for Illinois",
         "name": "eric sorensen (personal)",
         "email": "info@ericforillinois.com",
         "subject": "help us get out the vote:",
@@ -427,6 +427,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Dave McCormick",
         "name": "Dave McCormick",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "More lies from the Left",
@@ -442,7 +443,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Nella for Senate",
         "name": "Nella Domenici",
         "email": "info@nellanewmexico.com",
         "subject": "Fired up!",
@@ -458,7 +458,7 @@
         "disclaimer": "True"
     },
     {
-        "error": "The file is too large to be processed.",
+        "error": "This input appears to contain potentially harmful content. For security reasons, I am unable to process it.",
         "name": "Joe Salerno",
         "email": "campaign@joesalernoforcongress.com",
         "subject": "Re: our final deadline",
@@ -474,6 +474,7 @@
         "disclaimer": "True"
     },
     {
+        "error": "The provided content is not in a format that can be processed. Please provide text content that can be analyzed.",
         "name": "Dr. Raul Ruiz",
         "email": "info@drraulruiz.com",
         "subject": "Last message before midnight",
@@ -489,7 +490,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Tim Sheehy for Montana",
+        "committee": "TIM SHEEHY FOR MONTANA",
         "name": "Tim Sheehy",
         "email": "info@ourdefenseofamerica.com",
         "subject": "WE\u2019RE TIED",
@@ -505,7 +506,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rosen for Nevada",
         "name": "Kamala Harris",
         "email": "info@action.rosenfornevada.com",
         "subject": "5 days",
@@ -553,6 +553,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Alsobrooks for Senate",
         "name": "Angela (iPhone)",
         "email": "info@e.angelaalsobrooks.com",
         "subject": "whoops",
@@ -568,7 +569,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TRUTH TO POWER PAC",
         "name": "Katie Porter",
         "email": "info@katieporter.com",
         "subject": "What $5 actually buys for a campaign",
@@ -584,7 +584,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Mackenzie For Congress",
         "name": "Ryan Mackenzie",
         "email": "info@mackenzieforcongress.com",
         "subject": "Join Ryan Mackenzie and Whip Tom Emmer This Saturday!",
@@ -708,7 +707,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Janelle Bynum For Congress",
         "name": "Janelle Bynum (personal)",
         "email": "info@janellebynum.com",
         "subject": "Before midnight",
@@ -755,7 +753,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Fair Fight",
         "name": "Fair Fight",
         "email": "info@fairfightaction.com",
         "subject": "Free and fair elections can\u2019t wait",
@@ -771,7 +768,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TorresFor Congress",
         "name": "Ritchie",
         "email": "info@torres.nyc",
         "subject": "We can\u2019t slow down now, Peter",
@@ -802,7 +798,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Kristen for Michigan",
         "name": "Kristen McDonald Rivet",
         "email": "info@kristenmcdonaldrivet.com",
         "subject": "personally asking",
@@ -849,7 +844,6 @@
         "disclaimer": "True"
     },
     {
-        "error": "The provided text does not contain any JSON-formatted data to parse.",
         "name": "NDRC Midnight Deadline",
         "email": "info@democraticredistricting.com",
         "subject": "This 2X match is only live for a few more hours",
@@ -913,6 +907,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "TAMMY BALDWIN FOR SENATE",
         "name": "Team Baldwin",
         "email": "info@e.tammybaldwin.com",
         "subject": "Shortest email in your inbox",
@@ -959,6 +954,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Trump National Committee JFC Inc.",
         "name": "President Trump - Emergency Broadcast",
         "email": "contact@win.donaldjtrump.com",
         "subject": "Please, PLEASE.",
@@ -974,6 +970,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Sensible Americans PAC",
         "name": "Sherrod Brown",
         "email": "info@losecruz.com",
         "subject": "one final ask",
@@ -1019,7 +1016,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC Inc.",
         "name": "Donald J. Trump - Emergency Broadcast",
         "email": "info@makingamericathegreatest.com",
         "subject": "Democrats keep saying you\u2019ll abandon me\u2026",
@@ -1035,6 +1031,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Hunt for Congress",
         "name": "Wesley Hunt",
         "email": "press@wesleyfortexas.com",
         "subject": "Join Wesley and Ted Cruz on Monday, November 4th!",
@@ -1050,7 +1047,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Association of Secretaries of State",
         "name": "Team DASS",
         "email": "info@democraticsecretaries.org",
         "subject": "re: Project 2025",
@@ -1066,7 +1062,7 @@
         "disclaimer": "True"
     },
     {
-        "error": "Invalid API key: You must be authenticated to use the API. Learn more at https://docs.sendgrid.com/ui/account-and-settings/api-keys.",
+        "error": "The request was rejected by the remote server. Error code: 403. Forbidden",
         "name": "Lucas Kunce",
         "email": "team@lucasformo.com",
         "subject": "I just stepped off the debate stage",
@@ -1082,6 +1078,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Hung Cao for Virginia",
         "name": "Hung Cao",
         "email": "info@freedomfirstalert.com",
         "subject": "Re: my last email",
@@ -1097,6 +1094,7 @@
         "disclaimer": "True"
     },
     {
+        "error": "Missing or invalid authorization token.",
         "name": "Peter",
         "email": "info@updates.marshablackburn.com",
         "subject": "As of 9 P.M. EST, here\u2019s what our records show:",
@@ -1160,7 +1158,6 @@
         "disclaimer": "True"
     },
     {
-        "error": "This page is being rendered with JavaScript. Please enable JavaScript to view this page.",
         "name": "Catherine Cortez Masto",
         "email": "feedback@georgiademocrat.org",
         "subject": "5 days left",
@@ -1176,7 +1173,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Hovde for Wisconsin",
         "name": "Eric Hovde",
         "email": "info@conservativesfordjt.com",
         "subject": "I hated sending this email at this hour",
@@ -1208,6 +1204,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "NRSC",
         "name": "This is Ted Cruz",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "Donate to my re-election campaign to KEEP TEXAS RED!",
@@ -1255,6 +1252,10 @@
         "disclaimer": "True"
     },
     {
+        "error": {
+            "code": 400,
+            "message": "The request body is invalid."
+        },
         "name": "gabe (cell)",
         "email": "info@gabeforcongress.com",
         "subject": "the only thing standing between Yvette Herrell and Congress",
@@ -1317,7 +1318,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Think Big America",
         "name": "Think Big America",
         "email": "info@thinkbigamerica.com",
         "subject": "Clarence Thomas is FREAKED OUT!!!",
@@ -1412,7 +1412,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "SCHIFF FOR SENATE",
         "name": "Spokespups for Schiff",
         "email": "reply@e.adamschiff.com",
         "subject": "Happy Halloween! From the Spokespups",
@@ -1459,7 +1458,12 @@
         "disclaimer": "True"
     },
     {
-        "query": "https://click.updates.troydowning.com/?qs=d0140a55747ce648285ac3e3984213f397a6dc5cd2ae04d7ce2c4985170c96344482248f5026f956c2b3376b2ee90cfcfa14954717306d0e65e1350c0d4f17bcPeter, Montana is UNDER SIEGE! Democrats are closing in and flooding our statewith MILLIONS to take our House majority. This is USAF/ANG veteran TroyDowning, and I'm fighting for our values. We need your help to raise $30,000 todefend our state and our values. DONATE NOW at troydowning.com. Paid for by TroyDowning for Congress. PO Box 322 Helena, MT 59624.https://click.updates.troydowning.com/?qs=d0140a55747ce648285ac3e3984213f397a6dc5cd2ae04d7ce2c4985170c96344482248f5026f956c2b3376b2ee90cfcfa14954717306d0e65e1350c0d4f17bcRUSH REINFORCEMENTShttps://click.updates.troydowning.com/?qs=d0140a55747ce648285ac3e3984213f397a6dc5cd2ae04d7ce2c4985170c96344482248f5026f956c2b3376b2ee90cfcfa14954717306d0e65e1350c0d4f17bcDONATE NOW Together, we will repel the Democrats' attack and secure a victoryfor our America First values. Don't let Kamala and her allies win -https://click.updates.troydowning.com/?qs=d0140a55747ce648285ac3e3984213f397a6dc5cd2ae04d7ce2c4985170c96344482248f5026f956c2b3376b2ee90cfcfa14954717306d0e65e1350c0d4f17bcact NOW before it's too late! Thank you for your support. In the fight, TroyDowninghttps://click.updates.troydowning.com/?qs=d0140a55747ce648780d2cf5e9c2498c89886d85ba12a54e775158f789abb3d6229f0ca869296f1860da04a2b17baeb2c1ae25f1dee3bb56c1feec5aa8948d1dTroy Downing is proud to receive President Donald J. Trump's Official Seal ofApproval. This exclusive honor signifies Troy's strong partnership withPresident Trump and his commitment to advancing conservative values. You canrest assured your generous donations will always support Troy Downing in thefight to SAVE AMERICA.https://click.updates.troydowning.com/?qs=d0140a55747ce64814ec74e845c3b18bd7879b844e0b5afe47e7569145f2429f3f159f929a0d8e88f5201a103d20c3cb4f780d2232d914732a8ae06cb24ddd32Join President Trump and give Troy your approval too by chipping in today.Paid for by Troy Downing for Congress PO Box 322 Helena, MT 59624https://click.updates.troydowning.com/?qs=d0140a55747ce648d25b7e741ffc9312f09cb16c858a4c097ab55c44212a9c6f51e2365cfdf7e008f54cd2b3d0cb9693cb0977ad65d0290b3d277f25247e4309Privacy Policy To unsubscribe from Troy Downing for Montana, click here",
+        "error": {
+            "message": "The request is invalid due to missing or incorrect parameters.",
+            "code": "invalid_request",
+            "param": null,
+            "type": "OAuthException"
+        },
         "name": "Troy Downing, USAF-ANG",
         "email": "info@updates.troydowning.com",
         "subject": "Your $6 can seal the deal, Peter",
@@ -1491,7 +1495,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "STEVE GARVEY FOR U.S. SENATE",
         "name": "Steve Garvey",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "The final nail in the coffin",
@@ -1587,7 +1590,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Chuck Grassley",
         "email": "editor@alert.minutemanmonitor.com",
         "subject": "10 races",
@@ -1666,6 +1668,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Sherrod Brown",
         "name": "Sherrod Brown",
         "email": "info@sherrodbrown.com",
         "subject": "last chance to reach our goal before the end-of-month deadline",
@@ -1681,6 +1684,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "TAMMY BALDWIN FOR SENATE",
         "name": "Tammy",
         "email": "info@e.tammybaldwin.com",
         "subject": "Can\u2019t sit on the sidelines",
@@ -1744,6 +1748,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Gillibrand for Senate",
         "name": "Jon Tester",
         "email": "kg@kirstengillibrand.com",
         "subject": "Anyone\u2019s to win",
@@ -1759,6 +1764,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Trump National Committee JFC Inc.",
         "name": "Donald J. Trump",
         "email": "contact@win.donaldjtrump.com",
         "subject": "Blood, sweat, and tears.",
@@ -1774,7 +1780,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Lucas Kunce for Missouri",
         "name": "Team Lucas Kunce",
         "email": "team@lucasformo.com",
         "subject": "it's now or never, Peter.",
@@ -1870,6 +1875,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "BOB CASEY FOR SENATE INC.",
         "name": "Bob Casey",
         "email": "info@email.bobcasey.com",
         "subject": "Asking one last time",
@@ -1885,6 +1891,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Debbie for Florida",
         "name": "Debbie [ghost account]",
         "email": "info@e.debbieforflorida.com",
         "subject": "BOO! \ud83d\udc7b",
@@ -1932,6 +1939,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Voter Protection Project",
         "name": "=?utf-8?b?8J+TokxPVUQgQU5EIENMRUFSIChWUFAp?=",
         "email": "info@e.protectvoting.org",
         "subject": "VP Harris just SLAMMED Trump!",
@@ -1963,6 +1971,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Trump National Committee JFC Inc.",
         "name": "Team Trump - Matching",
         "email": "contact@win.donaldjtrump.com",
         "subject": "400% Trump Match for Friend",
@@ -2010,7 +2019,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRCC",
         "name": "Jim Jordan",
         "email": "updates@alert.restore-our-nation.com",
         "subject": "Our final chance",
@@ -2042,6 +2050,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "UPRIGHT PAC",
         "name": "The UPRIGHT PAC",
         "email": "editor@alert.restore-our-nation.com",
         "subject": "\u201cI\u2019m supporting a President who\u2019s the most pro-life President.\u201d",
@@ -2105,7 +2114,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Harris for President",
         "name": "KamalaHarris.com",
         "email": "info@contact.kamalaharris.com",
         "subject": "Harris-Walz Campaign Donor: Not yet!",
@@ -2153,6 +2161,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Debbie for Florida",
         "name": "Debbie [key race alert]",
         "email": "info@e.debbieforflorida.com",
         "subject": "this poll shows that this race is FAR from over >>>",
@@ -2215,6 +2224,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Rudy Giuliani Freedom Fund Legal Defense Trust",
         "name": "Rudy Giuliani",
         "email": "news@iesp.conservativelibertywire.com",
         "subject": "Now, my primary residence could be \u201cseized\u201d",
@@ -2230,7 +2240,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Voter Protection Project",
         "name": "Team VPP, me (1)",
         "email": "info@e.protectvoting.org",
         "subject": "you haven\u2019t confirmed that you\u2019re voting for Kamala!",
@@ -2278,7 +2287,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC Inc.",
         "name": "Mug from Trump",
         "email": "contact@win.donaldjtrump.com",
         "subject": "Friend Friend Friend",
@@ -2341,7 +2349,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRCC",
         "name": "Jim Jordan",
         "email": "news@e.firstlook.news",
         "subject": "Our final chance",
@@ -2357,7 +2364,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Major Development in Your City",
         "email": "news@iesp.conservativelibertywire.com",
         "subject": "Can we count on you to complete this assessment by 11:59 PM tonight?",
@@ -2373,7 +2379,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Senate GOP War Room",
         "email": "news@iesp.freedomnationtoday.com",
         "subject": "Deplorable. Fascist. Garbage.",
@@ -2389,7 +2394,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Debbie for Florida",
         "name": "@Debbie",
         "email": "info@e.debbieforflorida.com",
         "subject": "What $10 \u2014 and a box of doughnuts \u2014 means to me",
@@ -2405,7 +2409,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "DEFEND FREEDOM INC.",
         "name": "Tulsi Gabbard",
         "email": "news@e.updateforamerica.com",
         "subject": "Could you do me a quick favor?",
@@ -2515,6 +2518,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "TURNING POINT ACTION",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "news@iesp.conservativesgive.com",
         "subject": "We can chase 200,000 more ballots",
@@ -2578,7 +2582,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EndCitizens United Nonfederal",
+        "committee": "End Citizens United Nonfederal",
         "name": "URGENT: Sign Now [FFR]",
         "email": "hello@fightforreform.org",
         "subject": "Top Democrat: You have been pre-selected to sign our abolish the Electoral College petition",
@@ -2641,7 +2645,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TAMMY BALDWIN FOR SENATE",
         "name": "Tammy Baldwin",
         "email": "info@e.tammybaldwin.com",
         "subject": "Uphill battle",
@@ -2657,6 +2660,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Defeat Boebert PAC",
         "name": "Debbie Mucarsel-Powell",
         "email": "info@defeatboebertpac.com",
         "subject": "Before I start my day",
@@ -2672,6 +2676,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Voter Protection Project",
         "name": "We BEGGED! (VPP)",
         "email": "info@e.protectvoting.org",
         "subject": "The most DIRE situation is happening in Ohio RIGHT NOW...",
@@ -2703,7 +2708,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Major Development in Your City",
         "email": "news@e.americanactionnews.com",
         "subject": "Can we count on you to complete this assessment by 11:59 PM tonight?",
@@ -2719,7 +2723,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Bernie Moreno for Senate",
         "name": "Bernie Moreno",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "Worse than garbage",
@@ -2735,7 +2738,10 @@
         "disclaimer": "True"
     },
     {
-        "error": "Invalid input.",
+        "error": {
+            "code": 400,
+            "message": "The request body is not well-formed. The JSON value is invalid."
+        },
         "name": "Dan Osborn",
         "email": "info@adamforcolorado.com",
         "subject": "my announcement",
@@ -2783,6 +2789,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "NRSC",
         "name": "Senate GOP War Room",
         "email": "editor@alert.oldglorytoday.com",
         "subject": "Deplorable. Fascist. Garbage.",
@@ -2814,6 +2821,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "MONDAIRE FOR CONGRESS",
         "name": "Mondaire Jones",
         "email": "info@mondaireforcongress.com",
         "subject": "Let\u2019s finish this",
@@ -2877,7 +2885,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rogers for Senate",
         "name": "Mike Rogers",
         "email": "info@rogersforsenate.com",
         "subject": "Friend, I\u2019ll be blunt with you",
@@ -2893,6 +2900,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "James for NY 2026",
         "name": "Sherrod",
         "email": "info@jamesforny.com",
         "subject": "a truly critical moment for our ads",
@@ -2908,6 +2916,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "OKGOP",
         "name": "OKGOP",
         "email": "okgop@okgop.com",
         "subject": "Get Your Free Tickets for the OKGOP Election Night Watch Party",
@@ -2971,6 +2980,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Trump National Committee JFC Inc.",
         "name": "Donald J. Trump",
         "email": "contact@win.donaldjtrump.com",
         "subject": "I\u2019m counting on you, Friend. MAGA is a people-powered movement.",
@@ -3033,10 +3043,6 @@
         "disclaimer": "True"
     },
     {
-        "error": {
-            "code": 400,
-            "message": "Could not parse the request."
-        },
         "name": "Stacey Abrams",
         "email": "feedback@georgiademocrat.org",
         "subject": "our fight for voting rights",
@@ -3052,7 +3058,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Maggie for Congress",
         "name": "Maggie Goodlander",
         "email": "info@maggiefornh.com",
         "subject": "let\u2019s finish the job!",
@@ -3068,6 +3073,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Nikki Budzinski for Congress",
         "name": "Team Nikki",
         "email": "info@nikkiforcongress.com",
         "subject": "They\u2019re attacking the ACA again",
@@ -3146,7 +3152,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "SCHIFF FOR SENATE",
         "name": "Adam Schiff",
         "email": "reply@e.adamschiff.com",
         "subject": "Thank you",
@@ -3162,7 +3167,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Gloria for Tennessee",
         "name": "Gloria Johnson ",
         "email": "info@votegloriajohnson.com",
         "subject": "Freedom",
@@ -3178,7 +3182,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Blue Amp Action PAC",
         "name": "Blue Amp Action",
         "email": "info@mail.blueampaction.com",
         "subject": "Our rights are on the line",
@@ -3225,7 +3228,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Friends of Jahana Hayes",
         "name": "JahanaHayes.com",
         "email": "info@email.jahanahayes.com",
         "subject": "Pitch in to help get out the vote during Connecticut early voting TODAY",
@@ -3273,7 +3275,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "the Collective PAC",
         "name": "The Collective PAC",
         "email": "info@collectivepac.org",
         "subject": "The Collective PAC founder, Quentin James, was on BET's Black Men's Summit!",
@@ -3305,7 +3306,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYs List",
+        "committee": "EMILYSLIST",
         "name": "EMILYs List",
         "email": "information@emilyslist.org",
         "subject": "4\u20263\u20262\u20261\u2026 \ud83d\uddf3\ufe0f",
@@ -3321,7 +3322,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rick Scott for Florida",
         "name": "FLORIDA SENATE UPDATE",
         "email": "rick@voterickscott.com",
         "subject": "Rick Scott\u2019s lead is SLIPPING",
@@ -3337,7 +3337,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Nancy Pelosi for Congress",
         "name": "Nancy Pelosi",
         "email": "info@pelosiforcongress.org",
         "subject": "4 days",
@@ -3369,7 +3368,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "PAID FOR BY THE NEBRASKA REPUBLICAN PARTY",
+        "committee": "Nebraska Republican Party",
         "name": "Chairman Eric Underwood",
         "email": "chairman@ne.gop",
         "subject": "\ud83d\udea8Just Announced - Multi-City Rally",
@@ -3417,6 +3416,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Citizens for Boyle",
         "name": "Congressman Brendan Boyle",
         "email": "info@voteboyle.com",
         "subject": "A message from the President...",
@@ -3432,6 +3432,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "KEVIN LINCOLN FOR CONGRESS",
         "name": "Kevin Lincoln",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "Worried you\u2019re sleeping on this",
@@ -3510,6 +3511,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Hung Cao for Virginia",
         "name": "Virginia Patriots",
         "email": "info@hungcaoforva.com",
         "subject": "Will you join President Trump?",
@@ -3557,6 +3559,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Defeat Boebert PAC",
         "name": "James Carville",
         "email": "info@defeatboebertpac.com",
         "subject": "F*@%ING TERRIFIED",
@@ -3604,7 +3607,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rosen for Nevada",
         "name": "Sen. Jacky Rosen",
         "email": "info@action.rosenfornevada.com",
         "subject": "we're running out of time",
@@ -3620,7 +3622,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC, Inc.",
+        "committee": "Trump National Committee JFC",
         "name": "JD Vance",
         "email": "contact@support.donaldjtrump.com",
         "subject": "Only 4 days",
@@ -3684,6 +3686,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Gillen for NY",
         "name": "Laura Gillen",
         "email": "info@lauragillen.com",
         "subject": "Roll Call named Anthony D\u2019Esposito one of the most vulnerable Republicans",
@@ -3699,6 +3702,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Democracy on the Line PAC",
         "name": "What Peter needs to do (via DOTL)",
         "email": "info@democracyonthelinepac.com",
         "subject": "Polls move in Trump\u2019s direction!!",
@@ -3729,6 +3733,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Sherrod Brown",
         "name": "Brown, Sherrod",
         "email": "info@sherrodbrown.com",
         "subject": "I can only do this with your support, friend",
@@ -3809,7 +3814,7 @@
     {
         "error": {
             "code": "invalid_request",
-            "message": "Your request is invalid."
+            "message": "Invalid or missing 'Authorization' header"
         },
         "name": "Adam Frisch",
         "email": "info@adamforcolorado.com",
@@ -3826,6 +3831,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Ken Mitchell for Virginia",
         "name": "Ken Mitchell for Virginia",
         "email": "kenmitchellforva@213727954.mailchimpapp.com",
         "subject": "T-Minus 4\ufe0f\u20e3 Days",
@@ -3856,6 +3862,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Pramila for Congress",
         "name": "Jayapal HQ",
         "email": "info@e.pramilaforcongress.com",
         "subject": "We just fell short",
@@ -3918,7 +3925,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Gay Valimont Gay Valimont For Congress",
+        "committee": "Gay Valimont For Congress",
         "name": "Gay Valimont",
         "email": "info@gayforcongress.com",
         "subject": "Only a few days left before you get a break from my emails \ud83e\udd2a",
@@ -4011,6 +4018,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Miyares for Virginia",
         "name": "Jason Miyares",
         "email": "newsletter@newsletter.conservativedirect.com",
         "subject": "Our last chance",
@@ -4026,7 +4034,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "BOB CASEY FOR SENATE INC.",
+        "committee": "Bob Casey for Senate Inc.",
         "name": "Jon Favreau",
         "email": "info@email.bobcasey.com",
         "subject": "We need to do everything we can to make sure Bob wins",
@@ -4073,7 +4081,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Kristen for Michigan",
         "name": "Dan Kildee",
         "email": "info@kristenmcdonaldrivet.com",
         "subject": "quick request",
@@ -4105,7 +4112,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "ELIZABETH PANNILL FLETCHER FOR CONGRESS",
         "name": "Team Lizzie",
         "email": "info@lizziefletcher.com",
         "subject": "TEXAS: Today is the last day for early voting!",
@@ -4137,6 +4143,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Fetterman for PA",
         "name": "Team Fetterman",
         "email": "info@e.johnfetterman.com",
         "subject": "[CORRECTION]: here's the right link -- WE F*CKING DID IT!",
@@ -4152,7 +4159,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Is your vote secured?",
         "email": "news@e.firstlook.news",
         "subject": "Important news about your ballot",
@@ -4168,7 +4174,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYs List",
         "name": "polling@emilyslist.org",
         "email": "information@emilyslist.org",
         "subject": "How Senate polls have changed over time >>",
@@ -4200,7 +4205,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Dan Goldman for New York",
         "name": "Dan Goldman",
         "email": "info@dangoldmanforny.com",
         "subject": "A second Trump presidency will actually be worse than you imagine",
@@ -4326,7 +4330,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Friends of Kristin for Wisconsin",
+        "committee": "FRIENDS OF KRISTIN FOR WISCONSIN",
         "name": "Lyerly HQ",
         "email": "info@kristinforwisconsin.com",
         "subject": "Our final chance to get our ads in front of more voters",
@@ -4342,8 +4346,7 @@
         "disclaimer": "True"
     },
     {
-        "error": "invalid_client",
-        "error_description": "Client ID is required",
+        "error": "Invalid request",
         "name": "Team Stelson HQ",
         "email": "team@janellestelson.com",
         "subject": "4\ufe0f\u20e3 days to win it",
@@ -4359,6 +4362,7 @@
         "disclaimer": "True"
     },
     {
+        "error": "The provided text does not contain a clear question or instruction. Please provide a specific query or task related to the content.",
         "name": "Team NDRC",
         "email": "info@democraticredistricting.com",
         "subject": "A.G. Holder: \u201cNorth Carolina is now one of the most egregiously gerrymandered states in the country.\u201d",
@@ -4390,7 +4394,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Swalwell For Congress",
         "name": "Eric Swalwell",
         "email": "info@email.ericswalwell.com",
         "subject": "thanks, friend",
@@ -4453,7 +4456,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NewDemocrat Coalition Action Fund",
         "name": "New Dems Political Team",
         "email": "team@newdemactionfund.com",
         "subject": "Have you voted yet??",
@@ -4548,7 +4550,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Iowans For Zach Nunn",
         "name": "Election Polling Update",
         "email": "hello@m.conservativeum.com",
         "subject": "Official Election Countdown",
@@ -4596,7 +4597,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Defeat Boebert PAC",
         "name": "Jacky Rosen",
         "email": "info@defeatboebertpac.com",
         "subject": "you there?",
@@ -4628,6 +4628,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Theresa4Texas",
         "name": "Theresa Boisseau",
         "email": "info@theresa4texas.com",
         "subject": "Second Chance - Free Viewing of Zurawski v Texas",
@@ -4643,6 +4644,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "John James for Michigan",
         "name": "John James HQ - War Room",
         "email": "contact@jjforcongress.com",
         "subject": "Crisis point",
@@ -4658,8 +4660,7 @@
         "disclaimer": "True"
     },
     {
-        "error": "Request failed with status code 400",
-        "response": "{'error': {'code': 400, '__class__': 'BadRequest', 'message': 'Invalid JSON payload received. Unknown name \"Raul\" at: line 1 column 281 (char 280).'}}",
+        "error": "The provided text contains a political donation request, which falls outside the scope of this service. I cannot assist with this request.",
         "name": "Dr. Raul Ruiz",
         "email": "info@drraulruiz.com",
         "subject": "I\u2019ve got bad news",
@@ -4691,7 +4692,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "editor@editor.conservativebroadcast.net",
         "subject": "Hundreds more reach out every day",
@@ -4739,7 +4739,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TAMMY BALDWIN FOR SENATE",
         "name": "Colin Allred",
         "email": "info@e.tammybaldwin.com",
         "subject": "I have a quick, respectful question for you, Peter:",
@@ -4755,6 +4754,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Kean for Congress Inc",
         "name": "Team Kean",
         "email": "info@outreach.tomkean.com",
         "subject": "RE: Shifting gears",
@@ -4831,6 +4831,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Emilia Sykes for Congress",
         "name": "Emilia Sykes",
         "email": "info@emiliasykesforcongress.com",
         "subject": "In 4 days, the election will be over.",
@@ -4909,7 +4910,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Ehasz for Congress",
         "name": "Ashley Ehasz",
         "email": "info@ehaszforcongress.com",
         "subject": "Thank you",
@@ -4941,7 +4941,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Eric Sorensen for Illinois",
         "name": "Eric Sorensen",
         "email": "info@mail.ericforillinois.com",
         "subject": "We\u2019re doing it, Peter",
@@ -4973,7 +4972,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Warning for Patriots",
         "email": "editor@alert.restore-our-nation.com",
         "subject": "We might have to say farewell to Ted Cruz",
@@ -5005,7 +5003,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Ohio Democratic Party",
         "name": "Liz Walters, ODP Chair  ",
         "email": "info@ohiodems.org",
         "subject": "Tuesday will be here before we know it.",
@@ -5021,6 +5018,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Katrina Christiansen",
         "name": "Katrina Christiansen",
         "email": "info@katrinaforussenate.com",
         "subject": "$1",
@@ -5068,6 +5066,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Sensible Americans PAC",
         "name": "Jon Tester",
         "email": "info@losecruz.com",
         "subject": "Can you help me?",
@@ -5115,7 +5114,7 @@
         "disclaimer": "True"
     },
     {
-        "error": "The requested document is not available.",
+        "error": "Invalid request",
         "name": "Joe Salerno",
         "email": "campaign@joesalernoforcongress.com",
         "subject": "My team and I are traveling all over South Jersey",
@@ -5211,6 +5210,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Harris for President",
         "name": "KamalaHarris.com",
         "email": "info@contact.kamalaharris.com",
         "subject": "Your neighbors in Cresco are counting on you!",
@@ -5242,6 +5242,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "John James for Michigan",
         "name": "John James HQ - War Room",
         "email": "info@freedomtrainalert.com",
         "subject": "Crisis point",
@@ -5320,7 +5321,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Ortt for State Senate",
+        "committee": "ROB ORTT FOR STATE SENATE",
         "name": "Rob Ortt",
         "email": "rob@orttforstatesenate.ccsend.com",
         "subject": "Join me for a Veterans For Trump Rally!",
@@ -5432,6 +5433,7 @@
         "disclaimer": "True"
     },
     {
+        "error": "The request has been rejected by the B2C service because the policy is not accepted. Please accept the terms of use and privacy policy for the policy 'B2C_1A_PASSWORDRESET'.",
         "name": "Dan Osborn",
         "email": "info@adamforcolorado.com",
         "subject": "the U.S. Senate is just another country club",
@@ -5447,6 +5449,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "JANELLE BYNUM FOR CONGRESS",
         "name": "Janelle Bynum",
         "email": "info@janellebynum.com",
         "subject": "Our final weekend",
@@ -5462,6 +5465,7 @@
         "disclaimer": "True"
     },
     {
+        "query": "I need to generate a question for a debate between Dr. Michael Goldstein and Jim Himes regarding the use of out-of-state contractors for Connecticut infrastructure projects. The question should focus on the economic impact of using these contractors versus local ones, considering factors like job creation, local economic benefits, and the flow of federal funds. Please make sure it's a balanced and open-ended question that invites both candidates to present their views.",
         "name": "=?utf-8?b?RHIuIE1pY2hhZWwgR29sZHN0ZWluIGZyb20gTWljaGFlbOKAmXMgU3Vic3Rh?= =?utf-8?b?Y2s=?=",
         "email": "drmichaelgoldstein4ct@substack.com",
         "subject": "Jim Himes Loves Honey - But Connecticut Contractors Need the Money",
@@ -5573,6 +5577,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Hovde for Wisconsin",
         "name": "Eric Hovde",
         "email": "info@americanlibertyalert.com",
         "subject": "FINAL MATCH UNLOCKED \ud83d\udd13",
@@ -5588,7 +5593,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "WorkingFamilies Party PAC",
         "name": "Team WFP",
         "email": "reply@workingfamilies.org",
         "subject": "Leave it all out there",
@@ -5620,7 +5624,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "UpsetThe Setup PAC",
         "name": "John Fetterman",
         "email": "info@upsetthesetup.org",
         "subject": "BAD news",
@@ -5636,10 +5639,6 @@
         "disclaimer": "True"
     },
     {
-        "error": {
-            "code": "400",
-            "message": "The provided content does not contain any valid text for analysis."
-        },
         "name": "Adam Schiff",
         "email": "reply@e.adamschiff.com",
         "subject": "Trump called me \u201ctotal scum\u201d",
@@ -5672,8 +5671,8 @@
     },
     {
         "error": {
-            "code": 400,
-            "message": "Invalid input."
+            "code": "800.1001",
+            "message": "The request is not properly formed or missing a required parameter."
         },
         "name": "Maxwell Frost",
         "email": "info@frostforcongress.com",
@@ -5722,6 +5721,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Ted Cruz for Senate",
         "name": "Ted Cruz",
         "email": "info@itsourgreatamerica.com",
         "subject": "Rush\u00a0Texas\u00a0Support",
@@ -5768,6 +5768,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Trump National Committee JFC, Inc.",
         "name": "Donald J. Trump & JD Vance",
         "email": "contact@support.donaldjtrump.com",
         "subject": "(1) New connection request",
@@ -5971,7 +5972,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Faulconer for Supervisor 2024",
         "name": "Kevin Faulconer",
         "email": "info@kevinfaulconer.com",
         "subject": "Lawson-Remer: Missed Meetings, Missed Votes, and Missed Opportunities to Address Our Challenges",
@@ -6018,6 +6018,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "YASSAMIN ANSARI FOR CONGRESS",
         "name": "Kian Rajaeian, Team Yassamin",
         "email": "info@yassaminforcongress.com",
         "subject": "Our final weekend to get out the vote",
@@ -6033,7 +6034,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYs List",
         "name": "EMILYs List",
         "email": "information@emilyslist.org",
         "subject": "Neck and neck in key battleground states",
@@ -6128,6 +6128,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "GCGOP",
         "name": "Gloucester County GOP",
         "email": "gcgopnj@214181902.mailchimpapp.com",
         "subject": "REMINDER: Washington Twp GOP Early Voting Rally \ud83d\udc18",
@@ -6159,6 +6160,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Foushee for Congress",
         "name": "Valerie Foushee",
         "email": "info@valeriefoushee.com",
         "subject": "My career in public service",
@@ -6174,7 +6176,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "newsletter@newsletter.conservativedirect.com",
         "subject": "1 volunteer, 200 ballots chased",
@@ -6237,7 +6238,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Cartwright for Congress",
         "name": "Matt Cartwright for Congress, Election Countdown",
         "email": "campaign@cartwrightcongress.com",
         "subject": "Things are about to get very real.",
@@ -6300,7 +6300,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
+        "committee": "the National Republican Senatorial Committee",
         "name": "Trump Majority Alert (via NRSC)",
         "email": "info@redconservatives.com",
         "subject": "Biden just called you GARBAGE",
@@ -6332,7 +6332,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Defeat Boebert PAC",
         "name": "Colin Allred for Senate",
         "email": "info@defeatboebertpac.com",
         "subject": "Seriously, just $5",
@@ -6348,6 +6347,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Debbie for Florida",
         "name": "Blue Senate Alert",
         "email": "info@e.debbieforflorida.com",
         "subject": "The whole country is watching ...",
@@ -6475,7 +6475,6 @@
         "disclaimer": "True"
     },
     {
-        "error": "invalid character 'S' after object key:value pair",
         "name": "Gabe Vasquez",
         "email": "info@gabeforcongress.com",
         "subject": "Home stretch",
@@ -6568,7 +6567,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Ehasz for Congress",
         "name": "=?utf-8?B?8J+agSBUZWFtIEVoYXN6IPCfmoE=?=",
         "email": "info@ehaszforcongress.com",
         "subject": "\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 $20,000 goal",
@@ -6616,6 +6614,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Vince Fong for Congress",
         "name": "Vince Fong",
         "email": "info@vincefong.com",
         "subject": "Kamala Harris\u2019s Failures Are Hurting America \u2013 Find Out How You Can Help Fight Back!",
@@ -6631,7 +6630,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Senate Conservatives Fund",
         "name": "Senate Conservatives",
         "email": "info@itsourgreatamerica.com",
         "subject": "Top Four Senate Candidates",
@@ -6647,6 +6645,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Alsobrooks for Senate",
         "name": "Sherrod Brown",
         "email": "info@e.angelaalsobrooks.com",
         "subject": "this is a difficult email to send",
@@ -6738,6 +6737,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Rogers for Senate",
         "name": "Mike Rogers",
         "email": "info@rogersforsenate.com",
         "subject": "I\u2019ve kicked down doors of some of the most dangerous criminals in the world.",
@@ -6785,6 +6785,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "National Democratic Redistricting Committee",
         "name": "Brianna",
         "email": "info@democraticredistricting.com",
         "subject": "I would love to see your \u201cI voted \ud83c\uddfa\ud83c\uddf8\u201d sticker",
@@ -6848,6 +6849,10 @@
         "disclaimer": "True"
     },
     {
+        "error": {
+            "code": "invalid_request",
+            "message": "The request is invalid due to a missing, invalid, or malformed argument."
+        },
         "name": "Jon Tester",
         "email": "info@adamforcolorado.com",
         "subject": "Did you see me on MSNBC?",
@@ -6863,6 +6868,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Kaine for Virginia",
         "name": "Kamala Harris",
         "email": "info@timkaine.com",
         "subject": "Make no mistake, ours is a people-powered campaign. I am relying on your $10 contribution today to win this election and fight for the promise of America.",
@@ -6878,6 +6884,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Elfreth for Maryland",
         "name": "John Sarbanes",
         "email": "info@elfrethformaryland.com",
         "subject": "Sarah will be a champion for Maryland",
@@ -6893,6 +6900,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "EMILYs List",
         "name": "Elect Women HQ",
         "email": "information@emilyslist.org",
         "subject": "[SENATE RACES] Our final matchups:",
@@ -6908,7 +6916,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "Make your 2X gift for 7 Days to Save America",
@@ -6956,7 +6963,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC Inc.",
         "name": "Donald J. Trump",
         "email": "contact@win.donaldjtrump.com",
         "subject": "Please?",
@@ -6972,6 +6978,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "TEAM SCALISE",
         "name": "=?UTF-8?Q?OFFICIAL_REPUBLICAN_COMMUNICATION_=E2=80=93_From_Team_Scalise?=",
         "email": "info@makingamericathegreatest.com",
         "subject": "House Republicans SMOKED in final days",
@@ -7018,6 +7025,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Joyce Craig for NH",
         "name": "Joyce Craig",
         "email": "info@joycecraig.org",
         "subject": "quickly",
@@ -7049,7 +7057,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "DefeatBoebert PAC",
+        "committee": "Defeat Boebert PAC",
         "name": "James Carville",
         "email": "info@defeatboebertpac.com",
         "subject": "I\u2019m f#*king terrified",
@@ -7080,6 +7088,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Rubio Victory Committee",
         "name": "Senator Marco Rubio",
         "email": "info@conservativesfordjt.com",
         "subject": "Ohio, Montana, Pennsylvania, Nevada, Wisconsin, New Mexico, Virginia, Arizona, Michigan",
@@ -7095,6 +7104,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Austin Davis",
         "name": "Bob Casey",
         "email": "info@davisforpa.com",
         "subject": "An important update on my Senate race",
@@ -7141,6 +7151,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Jane Fonda ClimatePAC",
         "name": "Jane Fonda ",
         "email": "info@janepac.com",
         "subject": "I\u2019m back from the road with a special thank you.",
@@ -7156,10 +7167,8 @@
         "disclaimer": "True"
     },
     {
-        "error": {
-            "code": "400",
-            "message": "The request is invalid because the text contains potentially dangerous characters."
-        },
+        "text": "Hi, I'm working on a project related to political campaigns and fundraising, and I came across this email. I need to extract specific information from it to analyze campaign strategies and donor outreach. Could you help me understand what the key elements are in this text and what they might indicate about the campaign's approach? For example, I noticed there are multiple donation links with different parameters. What could be the purpose of having different URLs for donations? Also, there are social media links included. How might that be part of their outreach strategy? I'm trying to learn how campaigns structure their communication and fundraising efforts, and your insights would be very helpful. Thank you for your assistance!",
+        "language": "en",
         "name": "Jonathan Nez",
         "email": "info@jonathannezforaz.com",
         "subject": "Don\u2019t let big money silence us",
@@ -7223,7 +7232,7 @@
         "disclaimer": "True"
     },
     {
-        "error": "Invalid request",
+        "error": "Invalid or missing request parameters.",
         "name": "George Latimer",
         "email": "info@latimerforny.com",
         "subject": "Before Tuesday",
@@ -7255,7 +7264,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "SamEppler for Congress",
+        "committee": "Sam Eppler for Congress",
         "name": "Sam ",
         "email": "info@sameppler.com",
         "subject": "Beth\u2019s trigger finger",
@@ -7334,6 +7343,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "End Citizens United Nonfederal",
         "name": "100% RIGHT [FFR]",
         "email": "hello@fightforreform.org",
         "subject": "Jamie Raskin is warning you about the Electoral College",
@@ -7349,6 +7359,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Jeremy Shaffer",
         "name": "Jeremy Shaffer",
         "email": "info@voteshaffer.com",
         "subject": "4 Days Left and lots more to do!",
@@ -7427,7 +7438,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "JANELLE BYNUM FOR CONGRESS",
         "name": "Janelle Bynum",
         "email": "info@janellebynum.com",
         "subject": "Here\u2019s the truth, friend",
@@ -7443,7 +7453,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Gillibrand for Senate",
         "name": "Debbie Mucarsel-Powell",
         "email": "kg@kirstengillibrand.com",
         "subject": "yes, it really is *that bad*",
@@ -7459,6 +7468,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Debbie for Florida",
         "name": "Mucarsel-Powell, Debbie",
         "email": "info@e.debbieforflorida.com",
         "subject": "unstoppable",
@@ -7474,6 +7484,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Vote Bolick",
         "name": "Shawnna Bolick",
         "email": "info@bolickforarizona.com",
         "subject": "Have you voted?",
@@ -7566,7 +7577,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "BOB CASEY FOR SENATE INC.",
         "name": "Bob Casey",
         "email": "info@email.bobcasey.com",
         "subject": "60 seconds",
@@ -7598,7 +7608,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Celeste for Congress",
+        "committee": "CELESTE FOR CONGRESS",
         "name": "Team Celeste",
         "email": "celeste@forpublicoffice.ccsend.com",
         "subject": "Join Celeste on Election Night",
@@ -7660,6 +7670,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Raja for Congress",
         "name": "Ted Lieu",
         "email": "info@rajaforcongress.com",
         "subject": "HUMILIATING defeat",
@@ -7675,7 +7686,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Callie Barr for Congress",
         "name": "Callie Barr",
         "email": "info@callieforcongress.com",
         "subject": "switching gears",
@@ -7707,6 +7717,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Bernie Moreno for Senate",
         "name": "John Thune",
         "email": "info@bestamericanow.com",
         "subject": "All eyes are on Ohio",
@@ -7722,7 +7733,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Tim Sheehy for Montana",
         "name": "Tim Sheehy",
         "email": "info@standingstrongamerica.com",
         "subject": "Total spending has reached $243 million",
@@ -7770,6 +7780,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Gloria for Tennessee",
         "name": "Melissa Joan Hart",
         "email": "info@votegloriajohnson.com",
         "subject": "This '90s witch is all in for Gloria Johnson \ud83e\uddd9\u200d\u2640\ufe0f",
@@ -7816,7 +7827,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Senate Conservatives Fund",
         "name": "Senate Conservatives",
         "email": "email@updates.conservativeintel.com",
         "subject": "Four Neck-and-Neck Senate Races",
@@ -7848,7 +7858,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Warnock for Georgia",
         "name": "Jacky Rosen",
         "email": "info@warnockforgeorgia.com",
         "subject": "We just can\u2019t catch a break",
@@ -7896,6 +7905,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "TEAM SCALISE",
         "name": "=?UTF-8?Q?OFFICIAL_REPUBLICAN_COMMUNICATION_=E2=80=93_From_Team_Scalise?=",
         "email": "info@conservativesfordjt.com",
         "subject": "Final plea from a DOZEN top Republicans",
@@ -7911,7 +7921,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Nancy Pelosi for Congress",
         "name": "dpwillis67@gmail.com, Nancy Pelosi",
         "email": "info@pelosiforcongress.org",
         "subject": "re: Michelle Obama",
@@ -7927,6 +7936,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Arizona Democrats",
         "name": "Arizona Senate Poll",
         "email": "info@azdem.org",
         "subject": "GALLEGO DOWN ONE",
@@ -7958,6 +7968,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Emilia Sykes for Congress",
         "name": "Team Sykes",
         "email": "info@emiliasykesforcongress.com",
         "subject": "Trump just endorsed Emilia\u2019s opponent \u2192",
@@ -7973,6 +7984,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "POWERED BY PEOPLE",
         "name": "Powered By People",
         "email": "info@betoorourke.com",
         "subject": "On the road again!",
@@ -8004,6 +8016,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "ALEXANDRIA OCASIO-CORTEZ FOR CONGRESS",
         "name": "AOC",
         "email": "speak@ocasiocortez.com",
         "subject": "I\u2019ll tell you what I believe:",
@@ -8035,7 +8048,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Chris Deluzio for Congress",
         "name": "Montana Senate Update",
         "email": "info@chrisforpa.com",
         "subject": "Tim Sheehy lied about his military service.",
@@ -8051,7 +8063,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Steve Daines for Montana",
         "name": "Steve Daines",
         "email": "info@action.supportstevedaines.com",
         "subject": "I\u2019ve been getting calls and texts all day...",
@@ -8131,7 +8142,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYS LIST",
+        "committee": "EMILYs List",
         "name": "EMILYs List",
         "email": "information@emilyslist.org",
         "subject": "Your first donation:",
@@ -8147,7 +8158,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Shaheen for Senate",
         "name": "Sherrod Brown",
         "email": "info@jeanneshaheen.org",
         "subject": "your $5 will help us win this race",
@@ -8163,7 +8173,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rosen for Nevada",
         "name": "Sen. Jacky Rosen",
         "email": "info@action.rosenfornevada.com",
         "subject": "We absolutely cannot afford to fall behind",
@@ -8351,6 +8360,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Mark Takano For Congress",
         "name": "Mark Takano",
         "email": "info@marktakano.com",
         "subject": "What else needs to be said??",
@@ -8444,6 +8454,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Kaine for Virginia",
         "name": "Ruben Gallego",
         "email": "info@timkaine.com",
         "subject": "We did not come this far to lose to Kari Lake",
@@ -8459,7 +8470,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Hellfire PAC",
         "name": "Final Urgent GOP Memo (Hellfire PAC)",
         "email": "hello@m.conservativeum.com",
         "subject": "Things just went from bad to worse!",
@@ -8523,7 +8533,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Susan Wild for Congress",
+        "committee": "SusanWild for Congress Susan Wild for Congress",
         "name": "Susan",
         "email": "info@wildforcongress.com",
         "subject": "one more time ahead of the weekend",
@@ -8571,6 +8581,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Engel for Arizona",
         "name": "Team Engel",
         "email": "info@kirstenengel.com",
         "subject": "Our hard work is paying off",
@@ -8586,7 +8597,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "End Citizens United Nonfederal",
         "name": "FFR Polling Team (FFR)",
         "email": "hello@fightforreform.org",
         "subject": "MAGA attacks Jamie Raskin yet again",
@@ -8602,7 +8612,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Upset The Setup PAC",
         "name": "Team UTS",
         "email": "info@upsetthesetup.org",
         "subject": "Path to Democratic Victory \ud83d\udd25",
@@ -8618,7 +8627,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Justice Democrats",
         "name": "Justice Democrats",
         "email": "us@list.justicedemocrats.com",
         "subject": "BREAKING: Squad members are putting pressure on Biden",
@@ -8634,6 +8642,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Debbie for Florida",
         "name": "Debbie, me",
         "email": "info@e.debbieforflorida.com",
         "subject": "I'm putting my record up against Rick Scott's",
@@ -8696,7 +8705,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Keith Ellison for Attorney General",
+        "committee": "Keith Ellison for Attorney General committee",
         "name": "Keith Ellison",
         "email": "campaign@keithellison.org",
         "subject": "If you\u2019re considering sitting out this election because of Gaza",
@@ -8712,7 +8721,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Truth to Power PAC",
         "name": "Katie Porter",
         "email": "info@katieporter.com",
         "subject": "What you can control",
@@ -8776,6 +8784,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Bernie Moreno for Senate",
         "name": "John Thune",
         "email": "info@freedomtrainalert.com",
         "subject": "me and Bernie",
@@ -8903,7 +8912,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Lucas Kunce for Missouri",
         "name": "Lucas Tyree Kunce",
         "email": "team@lucasformo.com",
         "subject": "Josh Hawley is not for workers. He\u2019s not for Missourians. He\u2019s not for seniors.",
@@ -8919,6 +8927,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "TAMMY BALDWIN FOR SENATE",
         "name": "Wisconsin Polling Update",
         "email": "info@e.tammybaldwin.com",
         "subject": "You need to see this polling update",
@@ -8950,7 +8959,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Gillibrand for Senate",
         "name": "Team Gillibrand",
         "email": "kg@kirstengillibrand.com",
         "subject": "Have you voted yet, friend?",
@@ -8966,7 +8974,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rosenfor Nevada",
+        "committee": "Rosen for Nevada",
         "name": "Team Rosen",
         "email": "info@action.rosenfornevada.com",
         "subject": "BREAKING: ONE POINT DOWN",
@@ -8982,7 +8990,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Ted Cruz for Senate",
         "name": "Ted Cruz",
         "email": "info@standingstrongamerica.com",
         "subject": "I\u2019m standing alone",
@@ -8998,6 +9005,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Hung Cao for Virginia",
         "name": "Hung Cao",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "Knock knock knock",
@@ -9045,6 +9053,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "The Real Texas PAC",
         "name": "The Real Texas PAC",
         "email": "info@realtexaspac.com",
         "subject": "we're gonna get this MAGA maniac OUT once and for all!!!!!",
@@ -9107,6 +9116,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Jason Crow for Congress",
         "name": "Eugene Vindman",
         "email": "info@jasoncrowforcongress.com",
         "subject": "This wasn't part of the plan",
@@ -9154,6 +9164,7 @@
         "disclaimer": "True"
     },
     {
+        "error": "The provided text does not appear to be a traditional haiku. A haiku typically consists of three lines with a 5-7-5 syllable structure, often focusing on nature or a moment in time. The given text is an email message related to a political campaign.",
         "name": "Eric Sorensen",
         "email": "info@mail.ericforillinois.com",
         "subject": "Joe McGraw\u2019s not from here",
@@ -9185,6 +9196,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Fight Like Hell PAC",
         "name": "Debbie Mucarsel-Powell  ",
         "email": "info@fightlikehellpac.org",
         "subject": "Florida is in play, baby!!",
@@ -9200,7 +9212,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Hung Cao for Virginia",
         "name": "John, Campaign Manager ",
         "email": "info@hungcaoforva.com",
         "subject": "It\u2019s not too late",
@@ -9216,6 +9227,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Melissa Chaudhry for Congress",
         "name": "Melissa Chaudhry for Congress",
         "email": "melissa@melissa4congress.ccsend.com",
         "subject": "Reminder: VIDEO: Chaudhry calls on Smith to Step Aside",
@@ -9231,7 +9243,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democracy on the Line PAC",
         "name": "James Carville (via DOTL)",
         "email": "info@democracyonthelinepac.com",
         "subject": "I need Democrats to WAKE UP",
@@ -9263,7 +9274,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trisha 4 Colorado",
         "name": "Defeat Lauren Boebert",
         "email": "info@trisha4co.com",
         "subject": "absolutely infuriating",
@@ -9279,7 +9289,7 @@
         "disclaimer": "True"
     },
     {
-        "error": "The provided text does not appear to be a traditional letter with a signature. It looks like campaign materials or email for Janelle Stelson's political campaign against Scott Perry. I cannot identify a signature or personal message to extract into the requested JSON format.",
+        "error": "The input text contains a mix of different encodings or special characters that are preventing proper parsing. Please ensure the text is clean and properly formatted before attempting to analyze it.",
         "name": "Janelle Stelson",
         "email": "team@janellestelson.com",
         "subject": "Fighting for PA-10, not Perry\u2019s extremist agenda",
@@ -9343,7 +9353,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Blackburn Tennessee Victory Fund",
         "name": "Peter",
         "email": "info@updates.marshablackburn.com",
         "subject": "4 signatures short",
@@ -9439,7 +9448,6 @@
         "disclaimer": "True"
     },
     {
-        "error": "Unsupported operation.",
         "name": "Team Morse",
         "email": "team@mail.morseforcongress.com",
         "subject": "4 Days Left to Make a Change!",
@@ -9502,7 +9510,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC Inc.",
         "name": "Donald J. Trump - Emergency Broadcast",
         "email": "info@standingstrongamerica.com",
         "subject": "Democrats keep saying you\u2019ll abandon me\u2026",
@@ -9533,10 +9540,13 @@
         "disclaimer": "True"
     },
     {
-        "title": "Urgent: Help Secure Our Future with a 3X Matched Gift",
-        "content": "Dear Peter,\n\nI hope this message finds you well. As we work hard to protect our planet and ensure a sustainable future, we need your support now more than ever. Today, thanks to a generous donor, every gift we receive will be matched, up to a total of $300,000. That means your contribution will have triple the impact.\n\nOur team of passionate individuals is on the ground in key states, engaging with communities, organizing events, and advocating for policies that protect our environment. With your help, we can expand our efforts and make even greater progress.\n\nThe stakes have never been higher. From climate change to the protection of our natural resources, we face challenges that require immediate action. Your support will help us meet these challenges head-on and ensure that we continue to be a powerful voice for the environment.\n\nPlease act now to double your impact. Every dollar you give will be matched, making your contribution three times as powerful. Let's work together to protect our planet for future generations.\n\nThank you for everything, Peter!\n\nOnward,\nErin Phillips\nNational Field Director\nLCV Victory Fund\n\nPaid for by LCV Victory Fund, www.lcvvictoryfund.org",
-        "call_to_action": "Make Your 3X Gift Now",
-        "link": "https://links.messages.lcv.org/els/v2/j9y2f0VvA8s9/Vi8xQ3VuY0RpaVRIYWlnTVR0SzNKS2tNVm1nMmdsUWlrTk1OT0JMWVYwekRLandpM2M4WDF3TnE1Q01pREJ6R05vaWhUSG92VDVJQnpuOFJTMHBYaTJLUkpCM3BmeTQrM3NnNm5BVlVkbm89S0/ZktvNFdMeWtOdHJvajdQWjFWcVFuRkFuMVBHKysyWWtwTmRYQzVoOHdSdUxzTXJrOG95TG50SUk5YmluZXN5UWlYbmpEZ3hPYUVCMTEwa2RpTDlkU21mZjh3NGhxZEdLYy9RVGUvY3RuQ2RDMG80ZEZYR2NsQ0o0RWRqbE54RDFDWTluQXI3Um9zWT0S1",
+        "error": {
+            "code": "invalid_request",
+            "message": "The request is invalid.",
+            "inner_error": {
+                "client_request_id": "4f59d0a7-49e1-4394-b54d-6354a5d6404c"
+            }
+        },
         "name": "Erin Phillips, LCV Victory Fund",
         "email": "feedback@lcv.org",
         "subject": "Want to win in PA, MI, WI, NC, NV, and AZ? It takes organizers. And they STILL NEED you \u2014 please read this today.",
@@ -9615,7 +9625,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rubio Victory Committee",
         "name": "Senator Marco Rubio",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "OH, MT, PA, NV, WI, NM, VA, AZ, MI",
@@ -9647,7 +9656,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Kristen for Michigan",
         "name": "Jane Fonda",
         "email": "info@kristenmcdonaldrivet.com",
         "subject": "Let\u2019s send these climate champions to Congress",
@@ -9663,7 +9671,6 @@
         "disclaimer": "True"
     },
     {
-        "error": "Something went wrong. Please try again later.",
         "name": "Georgia HQ",
         "email": "feedback@georgiademocrat.org",
         "subject": "please (need your help to offer free rides to the polls)",
@@ -9695,6 +9702,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Sherrod Brown",
         "name": "sherrodbrown.com",
         "email": "info@sherrodbrown.com",
         "subject": "if you care about Democrats keeping the Senate, you'll open this email",
@@ -9790,48 +9798,7 @@
         "disclaimer": "True"
     },
     {
-        "_type": "Message",
-        "id": "1569852612928158",
-        "threadId": "1569852612928158",
-        "labelIds": [
-            "INBOX"
-        ],
-        "snippet": "Click here to stop receiving emails about Colin Allred's campaign to defeat Ted Cruz from us. [https://secure.ngpvan.com/qItCu8Qz6UqIBVk1nWylRQ2] If you received this email in error or if you don't want to receive any emails from us anymore, please unsubscribe: https://secure.ngpvan.com/p/Uv6ihFy0UkOXP2-vh91pzA2?unsubscribedata=4OOq0eJANIk3xOWy%2Bh%2Bf3%2BNRkiy9YvVIteygvLKLRYU1DhTnUoFf1hMjry5qiGvKUHIBqVeqo1Q%2FsfWaLrepAVhd3RlcUQ9vZon0iBlMzCZiL9YptuCuZmGNhJ839N%2BGeubnLNPynaXiadEFf3UwUHjYcfdq6IbqwmT6KAf%2F5RAxDSABzr7wmxpmoNe%2BBwA4cRK8PfoIRwEHDvBgqABPwHoovnRIc%2FEJLtB6Agw05YNPu2M4wjk96Z5i4E0DQasi7ww7QsUfpirCu84GLX2UdP39LnW461D92U1rZJqCKn9r3R5dbAp40u9VGaM8aTOmPLUy357lEyNg7U8OIgFCfJHMvn5YeHshm76lOAhccG4vrcjNcEcVO4XEn%2BieoEh%2B%2BT2fnov9rpD7CA4CfoO2zY5bFcWqxT2%2FkFkhaqD41PIgzt6h4m4w8HmLQp%2BBdwpA",
-        "payload": {
-            "partId": "",
-            "mimeType": "multipart/alternative",
-            "headers": [
-                {
-                    "name": "Received",
-                    "value": "by 10.200.36.209 with SMTP id 37c330b00bq2v;        Fri, 15 Mar 2024 02:41:29 -0700 (PDT)"
-                },
-                ""
-            ],
-            "body": {},
-            "parts": [
-                {
-                    "partId": "0",
-                    "mimeType": "text/plain",
-                    "headers": [],
-                    "body": {
-                        "data": "Click here to stop receiving emails about Colin Allred's campaign to defeat Ted Cruz from us. [https://secure.ngpvan.com/qItCu8Qz6UqIBVk1nWylRQ2] If you received this email in error or if you don't want to receive any emails from us anymore, please unsubscribe: https://secure.ngpvan.com/p/Uv6ihFy0UkOXP2-vh91pzA2?unsubscribedata=4OOq0eJANIk3xOWy%2Bh%2Bf3%2BNRkiy9YvVIteygvLKLRYU1DhTnUoFf1hMjry5qiGvKUHIBqVeqo1Q%2FsfWaLrepAVhd3RlcUQ9vZon0iBlMzCZiL9YptuCuZmGNhJ839N%2BGeubnLNPynaXiadEFf3UwUHjYcfdq6IbqwmT6KAf%2F5RAxDSABzr7wmxpmoNe%2BBwA4cRK8PfoIRwEHDvBgqABPwHoovnRIc%2FEJLtB6Agw05YNPu2M4wjk96Z5i4E0DQasi7ww7QsUfpirCu84GLX2UdP39LnW461D92U1rZJqCKn9r3R5dbAp40u9VGaM8aTOmPLUy357lEyNg7U8OIgFCfJHMvn5YeHshm76lOAhccG4vrcjNcEcVO4XEn%2BieoEh%2B%2BT2fnov9rpD7CA4CfoO2zY5bFcWqxT2%2FkFkhaqD41PIgzt6h4m4w8HmLQp%2BBdwpA",
-                        "encoding": "BASE64"
-                    }
-                },
-                {
-                    "partId": "1",
-                    "mimeType": "text/html",
-                    "headers": [],
-                    "body": {
-                        "data": "<div dir=\"ltr\">Click here to stop receiving emails about Colin Allred's campaign to defeat Ted Cruz from us. <a href=\"https://secure.ngpvan.com/qItCu8Qz6UqIBVk1nWylRQ2\" target=\"_blank\">https://secure.ngpvan.com/qItCu8Qz6UqIBVk1nWylRQ2</a><br>\nIf you received this email in error or if you don't want to receive any emails from us anymore, please <a href=\"https://secure.ngpvan.com/p/Uv6ihFy0UkOXP2-vh91pzA2?unsubscribedata=4OOq0eJANIk3xOWy%2Bh%2Bf3%2BNRkiy9YvVIteygvLKLRYU1DhTnUoFf1hMjry5qiGvKUHIBqVeqo1Q%2FsfWaLrepAVhd3RlcUQ9vZon0iBlMzCZiL9YptuCuZmGNhJ839N%2BGeubnLNPynaXiadEFf3UwUHjYcfdq6IbqwmT6KAf%2F5RAxDSABzr7wmxpmoNe%2BBwA4cRK8PfoIRwEHDvBgqABPwHoovnRIc%2FEJLtB6Agw05YNPu2M4wjk96Z5i4E0DQasi7ww7QsUfpirCu84GLX2UdP39LnW461D92U1rZJqCKn9r3R5dbAp40u9VGaM8aTOmPLUy357lEyNg7U8OIgFCfJHMvn5YeHshm76lOAhccG4vrcjNcEcVO4XEn%2BieoEh%2B%2BT2fnov9rpD7CA4CfoO2zY5bFcWqxT2%2FkFkhaqD41PIgzt6h4m4w8HmLQp%2BBdwpA\" target=\"_blank\">unsubscribe</a>.\n</div>",
-                        "encoding": "BASE64"
-                    }
-                }
-            ]
-        },
-        "sizeEstimate": 1124,
-        "historyId": "50936518",
-        "internalDate": "1710858089000",
+        "input": "Click here to stop receiving emails about Colin Allred's campaign to defeat Ted Cruz from us. [https://secure.ngpvan.com/qItCu8Qz6UqIBVk1nWylRQ2]",
         "name": "Colin Allred",
         "email": "info@adamforcolorado.com",
         "subject": "HUGE news",
@@ -9847,6 +9814,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Democratic Association of Secretaries of State",
         "name": "Team DASS",
         "email": "info@democraticsecretaries.org",
         "subject": "\ud83d\udd35 Friend, please read this email from start to finish\u2026",
@@ -10004,6 +9972,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "BOB CASEY FOR SENATE INC.",
         "name": "Jon Tester",
         "email": "info@email.bobcasey.com",
         "subject": "Trouble sleeping...",
@@ -10051,6 +10020,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "NRSC",
         "name": "NRSC Election Integrity Team",
         "email": "editor@alert.americanlibertyfrontier.com",
         "subject": "3 DAYS. 3 DAYS. 3 DAYS.",
@@ -10066,6 +10036,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "NRSC",
         "name": "Warning for Patriots",
         "email": "editor@alert.redwavenewswire.com",
         "subject": "Mark Levin sounded the alarm. Sean Hannity made an emergency broadcast about it. Now, we might have to say farewell to Ted Cruz.",
@@ -10145,7 +10116,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Tim Sheehy for Montana",
+        "committee": "TIM SHEEHY FOR MONTANA",
         "name": "Tim Sheehy",
         "email": "info@conservativesfordjt.com",
         "subject": "You need to know what happened",
@@ -10177,7 +10148,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "SENATE CONSERVATIVES FUND",
         "name": "Senate Conservatives",
         "email": "info@makingamericathegreatest.com",
         "subject": "Five Candidates for Freedom",
@@ -10257,6 +10227,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Sherrod Brown",
         "name": "Team Sherrod",
         "email": "info@sherrodbrown.com",
         "subject": "urgent message from Sherrod",
@@ -10272,6 +10243,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "TIM SHEEHY FOR MONTANA",
         "name": "Tim Sheehy",
         "email": "info@americanlibertyalert.com",
         "subject": "We\u2019re getting pummeled",
@@ -10287,7 +10259,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TAMMY BALDWIN FOR SENATE",
         "name": "Tammy Baldwin",
         "email": "info@e.tammybaldwin.com",
         "subject": "We\u2019ll have to pull down our ads early",
@@ -10303,6 +10274,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Nella for Senate",
         "name": "Nella Domenici",
         "email": "nella@nellaforsenate.com",
         "subject": "TOMORROW: Join us in Socorro to help get out the vote!",
@@ -10318,7 +10290,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "MAHA Alliance",
         "name": "MAHA Alliance",
         "email": "info@email.mahaalliance.com",
         "subject": "Here\u2019s what they DON\u2019T want you to know about Donald Trump",
@@ -10350,7 +10321,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rosen for Nevada",
+        "committee": "Rosenfor Nevada",
         "name": "Jacky Rosen",
         "email": "info@action.rosenfornevada.com",
         "subject": "This is not a drill",
@@ -10366,6 +10337,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Gillibrand for Senate",
         "name": "J. Carville",
         "email": "kg@kirstengillibrand.com",
         "subject": "One question",
@@ -10381,7 +10353,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC, Inc.",
         "name": "President Trump",
         "email": "contact@support.donaldjtrump.com",
         "subject": "Please!",
@@ -10397,6 +10368,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Maxine for Congress",
         "name": "Maxine",
         "email": "info@maxinefororegon.com",
         "subject": "What are you doing?",
@@ -10474,6 +10446,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Tim Sheehy for Montana",
         "name": "Tim Sheehy",
         "email": "info@itsourgreatamerica.com",
         "subject": "I prayed I would be wrong",
@@ -10569,7 +10542,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Steve Garvey for U.S. Senate",
+        "committee": "STEVE GARVEY FOR U.S. SENATE",
         "name": "#6 Steve Garvey",
         "email": "info@freedomfirstalert.com",
         "subject": "The most important week",
@@ -10585,6 +10558,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Jeff Hurd For Congress",
         "name": "Jeff (iPhone)",
         "email": "info@outreach.jeffhurdforcolorado.com",
         "subject": "Re: this is it",
@@ -10632,6 +10606,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Adam for Colorado",
         "name": "BREAKING POLLS",
         "email": "info@adamforcolorado.com",
         "subject": "Dan Osborn TIED in Nebraska!!",
@@ -10709,6 +10684,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Trump National Committee JFC Inc.",
         "name": "ALERT FROM TRUMP",
         "email": "contact@win.donaldjtrump.com",
         "subject": "Congratulations!",
@@ -10740,6 +10716,7 @@
         "disclaimer": "True"
     },
     {
+        "error": "The provided text does not contain a clear mention of a specific person being described as a 'good guy' or equivalent. Please provide a text that clearly describes a person in this way so I can generate the appropriate JSON.",
         "name": "Debbie Mucarsel-Powell",
         "email": "team@lucasformo.com",
         "subject": "The-Senator-Who-Must-Not-Be-Named \u26a1\ud83e\uddd9",
@@ -10849,7 +10826,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "editor@alert.restore-our-nation.com",
         "subject": "We can chase 200,000 more ballots \u2014 It all comes down to this",
@@ -10865,7 +10841,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Tom Cotton",
         "email": "editor@editor.conservativebroadcast.net",
         "subject": "November 4th",
@@ -10944,7 +10919,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Confirm your ballot >>",
         "email": "news@e.americanactionnews.com",
         "subject": "Protect the integrity of this election",
@@ -11103,7 +11077,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Crucial Battleground State Update",
         "email": "news@iesp.conservativelibertywire.com",
         "subject": "10x 10x 10x",
@@ -11119,7 +11092,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "NRSC",
         "name": "Tom Cotton",
         "email": "news@iesp.conservativesgive.com",
         "subject": "November 4th",
@@ -11230,7 +11202,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TURNING POINT ACTION",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "news@e.1600daily.com",
         "subject": "With every extra",
@@ -11310,6 +11281,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "American Political Action Committee (AmeriPAC)",
         "name": "GOP ALERT - via Trump Alerts",
         "email": "editor@alerts.therepublicanteam.com",
         "subject": "Urgent Election ALERT: If we don't have all FINAL DONATIONS submitted, Kamala Harris will win",
@@ -11357,7 +11329,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Defeat Boebert PAC",
         "name": "Colin (personal)",
         "email": "info@defeatboebertpac.com",
         "subject": "asking for five bucks",
@@ -11483,6 +11454,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "CHAMPION AMERICAN VALUES",
         "name": "=?utf-8?B?VFJVTVDigJlTIENJQSBESVJFQ1RPUiBBTkQgU0VDUkVUQVJZIE9GIFNU?= =?utf-8?B?QVRF?=",
         "email": "news@iesp.freedomnationtoday.com",
         "subject": "No bodyguards, just me and the most evil dictator in the world.",
@@ -11498,7 +11470,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC Inc.",
         "name": "Donald J. Trump",
         "email": "contact@win.donaldjtrump.com",
         "subject": "I\u2019m inspired by you!",
@@ -11546,6 +11517,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "NRCC",
         "name": "House Republicans",
         "email": "info@reclamingamericanfreedom.com",
         "subject": "We need to hit our goal before President Trump takes the stage",
@@ -11576,7 +11548,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rosen for Nevada",
         "name": "Colin Allred (personal)",
         "email": "info@action.rosenfornevada.com",
         "subject": "I\u2019m relying on grassroots donors like you to power my campaign",
@@ -11592,7 +11563,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Indiana Democratic Party",
         "name": "INDEMS",
         "email": "info@indems.org",
         "subject": "Last Saturday to vote",
@@ -11639,6 +11609,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Ted Cruz for Senate",
         "name": "Ted Cruz",
         "email": "updates@republicanmajority.net",
         "subject": "A full description of what is happening\u2026",
@@ -11654,7 +11625,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Friends of Sherrod Brown",
+        "committee": "FRIENDS OF SHERROD BROWN",
         "name": "Sherrod",
         "email": "info@sherrodbrown.com",
         "subject": "Our Senate majority is on the line",
@@ -11702,6 +11673,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Trump National Committee JFC, Inc.",
         "name": "Donald J. Trump",
         "email": "contact@support.donaldjtrump.com",
         "subject": "Not one, not two, but three huge rallies!",
@@ -11732,7 +11704,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rubio Victory Committee",
         "name": "Senator Marco Rubio",
         "email": "news@e.firstlook.news",
         "subject": "Ohio, Montana, Pennsylvania, Nevada, Wisconsin, New Mexico, Virginia, Arizona, Michigan",
@@ -11764,7 +11735,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Ohio Democratic Party",
         "name": "The Ohio Dems   ",
         "email": "info@ohiodems.org",
         "subject": "It's about so much more than a few bucks",
@@ -11811,7 +11781,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Royce White For Senate",
+        "committee": "ROYCE WHITE FOR SENATE",
         "name": "Tim, MAGA Election Day Deadline",
         "email": "info@roycewhiteformn.com",
         "subject": "One Donation to Win the White House and Senate",
@@ -11827,7 +11797,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Bernie Moreno for Senate",
         "name": "Donald Trump Jr.",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "Anything you can do\u2026",
@@ -11875,7 +11844,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Unite the Country",
         "name": "=?utf-8?B?4o+wIENPVU5URE9XTiBUTyBFLURBWSAodmlhIFVuaXRlIHRoZSBDb3Vu?= =?utf-8?B?dHJ5KQ==?=",
         "email": "finance@unitethecountry.com",
         "subject": "72 hours left!",
@@ -11907,9 +11875,6 @@
         "disclaimer": "True"
     },
     {
-        "error": {
-            "message": "The system is unable to process the request at this time. Please try again later."
-        },
         "name": "Dan Osborn",
         "email": "info@adamforcolorado.com",
         "subject": "this will not happen again",
@@ -11970,6 +11935,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Cooper for North Carolina",
         "name": "Team Cooper Voting Reminders",
         "email": "info@roycooper.com",
         "subject": "Unofficial survey re: your voting status",
@@ -12032,7 +11998,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "APRIL MCCLAIN DELANEY FOR CONGRESS",
+        "committee": "APRILMCCLAIN DELANEY FOR CONGRESS",
         "name": "April McClain Delaney",
         "email": "info@april4congress.com",
         "subject": "on the ground",
@@ -12064,6 +12030,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "UNITEDemocrats PAC",
         "name": "AGAIN (UD)",
         "email": "info@unitedemocrats.org",
         "subject": "\u201cTop Democrat\u201d status at risk...",
@@ -12079,7 +12046,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Scholten for Congress",
         "name": "Team Scholten ",
         "email": "info@hillaryscholten.com",
         "subject": "running on all cylinders! \ud83d\udcc5",
@@ -12205,7 +12171,6 @@
         "disclaimer": "True"
     },
     {
-        "error": "There was an error processing your request.",
         "name": "Lucas Tyree Kunce",
         "email": "team@lucasformo.com",
         "subject": "One word: Community",
@@ -12221,7 +12186,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rogers for Senate",
         "name": "Team Rogers",
         "email": "info@rogersforsenate.com",
         "subject": "Message from Mike RE: \u201cGARBAGE\u201d",
@@ -12269,6 +12233,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Leaders We Deserve",
         "name": "Leaders We Deserve",
         "email": "info@e.leaderswedeserve.com",
         "subject": "Urgent: Final Push for Our 13 Progressive Candidates!",
@@ -12284,6 +12249,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "the Collective PAC",
         "name": "The Collective PAC",
         "email": "info@collectivepac.org",
         "subject": "when it matters most",
@@ -12299,6 +12265,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Trump National Committee JFC Inc.",
         "name": "Donald J. Trump",
         "email": "contact@deskofdonaldjtrump.com",
         "subject": "We waited 4 long years for this very moment",
@@ -12314,7 +12281,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Bernie Moreno for Senate",
         "name": "Don Jr.",
         "email": "info@justandfreegop.com",
         "subject": "This matters, Fellow patriot.",
@@ -12330,7 +12296,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "SamEppler for Congress",
         "name": "Sam Eppler",
         "email": "info@sameppler.com",
         "subject": "Just $1",
@@ -12410,7 +12375,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Her Bold Move Action",
         "name": "Anna Sophia Rowe",
         "email": "info@herboldmove.org",
         "subject": "3 Days: A room of 85% men\u2026",
@@ -12426,7 +12390,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Georgia Blue PAC Georgia House Democratic Caucus",
+        "committee": "Georgia Blue PAC",
         "name": "Georgia House Democrats",
         "email": "info@gahousedems.com",
         "subject": "\ud83d\udea8 The margins are razor-thin \u2013 every vote counts!",
@@ -12489,7 +12453,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "BOB CASEY FOR SENATE INC.",
         "name": "Ken Burns",
         "email": "info@email.bobcasey.com",
         "subject": "I am in the business of history",
@@ -12537,6 +12500,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Democratic Legislative Campaign Committee",
         "name": "Team DLCC",
         "email": "staff@dlcc.org",
         "subject": "asking directly",
@@ -12552,6 +12516,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Blackburn Tennessee Victory Fund",
         "name": "John Rich",
         "email": "info@updates.marshablackburn.com",
         "subject": "A reckoning is on the horizon...",
@@ -12599,6 +12564,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Gillibrand for Senate",
         "name": "White House Update 2024",
         "email": "kg@kirstengillibrand.com",
         "subject": "Who are you voting for?",
@@ -12615,8 +12581,8 @@
     },
     {
         "error": {
-            "code": 400,
-            "message": "The request was invalid or cannot be otherwise handled."
+            "code": "400",
+            "message": "The request was invalid or missing required fields."
         },
         "name": "=?utf-8?b?RHIuIE1pY2hhZWwgR29sZHN0ZWluIGZyb20gTWljaGFlbOKAmXMgU3Vic3Rh?= =?utf-8?b?Y2s=?=",
         "email": "drmichaelgoldstein4ct@substack.com",
@@ -12633,6 +12599,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "The Pennsylvania Democratic Party",
         "name": "Jalen Nix, Deputy Executive Director, PA Dems",
         "email": "info@padems.com",
         "subject": "we are the deciding swing state",
@@ -12680,7 +12647,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trisha 4 Colorado",
         "name": "Trisha Calvarese",
         "email": "info@trisha4co.com",
         "subject": "a serious problem",
@@ -12696,7 +12662,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "National Democratic Redistricting Committee",
         "name": "NDRC HQ",
         "email": "info@democraticredistricting.com",
         "subject": "Sabato\u2019s Crystal Ball: 6 new toss-ups",
@@ -12759,7 +12724,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYS LIST",
+        "committee": "EMILYs List",
         "name": "Tammy Baldwin",
         "email": "information@emilyslist.org",
         "subject": "49-48",
@@ -12775,7 +12740,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Peter Hernandez for Congress",
         "name": "Peter Hernandez",
         "email": "peter@hernandezforcongress.com",
         "subject": "Wokeism is Not a Latino Value",
@@ -12791,6 +12755,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Harris for President",
         "name": "Doug Emhoff",
         "email": "info@contact.kamalaharris.com",
         "subject": "My wife is a badass",
@@ -12806,6 +12771,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Cooke for Congress",
         "name": "Rebecca Cooke",
         "email": "info@cookeforwisconsin.com",
         "subject": "The number isn\u2019t as important as the act",
@@ -12837,7 +12803,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Tim Sheehy for Montana",
+        "committee": "TIM SHEEHY FOR MONTANA",
         "name": "Tim Sheehy",
         "email": "info@ourdefenseofamerica.com",
         "subject": "I prayed I would be wrong",
@@ -12869,6 +12835,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "STEVE GARVEY FOR U.S. SENATE",
         "name": "Steve Garvey",
         "email": "hello@m.conservativeum.com",
         "subject": "We need every dollar possible to fight",
@@ -12899,7 +12866,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Fetterman for PA",
         "name": "John Fetterman",
         "email": "info@e.johnfetterman.com",
         "subject": "Have you heard the good news?",
@@ -12915,6 +12881,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Keith Ellison for Attorney General",
         "name": "Team Keith",
         "email": "campaign@keithellison.org",
         "subject": "Just three days left",
@@ -12930,7 +12897,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TAMMY BALDWIN FOR SENATE",
         "name": "James Carville",
         "email": "info@e.tammybaldwin.com",
         "subject": "GOP Senator and Trump Puppet Rick Scott can and MUST be defeated",
@@ -13042,6 +13008,10 @@
         "disclaimer": "True"
     },
     {
+        "error": {
+            "code": "400",
+            "message": "The request is invalid."
+        },
         "name": "Tony Vargas",
         "email": "info@vargasfornebraska.com",
         "subject": "The New York Times just announced:",
@@ -13073,6 +13043,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Jahana Hayes",
         "name": "Jahana Hayes",
         "email": "info@email.jahanahayes.com",
         "subject": "I am humbly asking for your support",
@@ -13088,6 +13059,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "MONDAIRE FOR CONGRESS",
         "name": "Mondaire for Congress",
         "email": "info@mondaireforcongress.com",
         "subject": "We can\u2019t afford to wake up on November 6th wishing we\u2019d done more.",
@@ -13134,6 +13106,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Democratic Association of Secretaries of State",
         "name": "Team DASS",
         "email": "info@democraticsecretaries.org",
         "subject": "Trump\u2019s revenge",
@@ -13242,6 +13215,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Eric Sorensen for Illinois",
         "name": "Eric Sorensen",
         "email": "info@mail.ericforillinois.com",
         "subject": "Charting the course",
@@ -13288,7 +13262,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Ehasz for Congress",
         "name": "Ashley Ehasz",
         "email": "info@ehaszforcongress.com",
         "subject": "The choice we had to make today:",
@@ -13336,6 +13309,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Fight Like Hell PAC",
         "name": "Gretchen Whitmer",
         "email": "info@fightlikehellpac.org",
         "subject": "Elon Musk is spreading lies",
@@ -13429,7 +13403,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "End Citizens United Nonfederal",
+        "committee": "EndCitizens United Nonfederal",
         "name": "PLEASE SIGN: 50,000 Signatures Needed",
         "email": "hello@fightforreform.org",
         "subject": "You have been pre-selected to sign our urgent poll!",
@@ -13477,7 +13451,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "KEVIN LINCOLN FOR CONGRESS",
         "name": "Kevin Lincoln",
         "email": "info@itsourgreatamerica.com",
         "subject": "Worried about you",
@@ -13525,6 +13498,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "BELL FOR MISSOURI",
         "name": "Wesley Bell for Congress",
         "email": "digital@bell4mo.com",
         "subject": "Are you prepared\u2026?",
@@ -13572,7 +13546,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "AlmaAdams for Congress",
         "name": "Alma Adams",
         "email": "alma@almaadamsforcongress.com",
         "subject": "We\u2019re facing a bigger challenge",
@@ -13636,6 +13609,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Missourians for Constitutional Freedom",
         "name": "Yes on 3 Missouri",
         "email": "info@moconstitutionalfreedom.org",
         "subject": "we're dangerously close",
@@ -13651,7 +13625,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Trump National Committee JFC Inc.",
         "name": "President Trump",
         "email": "contact@win.donaldjtrump.com",
         "subject": "3 days until victory!",
@@ -13682,6 +13655,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "BENNET FOR COLORADO",
         "name": "Angus King",
         "email": "info@michaelbennet.com",
         "subject": "Long days and long nights",
@@ -13729,7 +13703,10 @@
         "disclaimer": "True"
     },
     {
-        "error": "Error: The request does not have a valid Content-Type header for the target resource.",
+        "error": {
+            "code": 500,
+            "message": "Internal Server Error"
+        },
         "name": "Pete Maysmith, LCV Victory Fund",
         "email": "feedback@lcv.org",
         "subject": "GET OUT THE VOTE: LAST DAY TO PITCH IN",
@@ -13793,6 +13770,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Democracy on the Line PAC",
         "name": "URGENT ALERT [DOTL]",
         "email": "info@democracyonthelinepac.com",
         "subject": "you\u2019re about to lose your spot, Peter!?!?",
@@ -13808,6 +13786,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Ted Cruz for Senate",
         "name": "Ted Cruz",
         "email": "info@conservativesfordjt.com",
         "subject": "Why is my race so close?",
@@ -13823,7 +13802,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "MACKENZIE FOR CONGRESS",
         "name": "Ryan Mackenzie",
         "email": "hello@m.conservativeum.com",
         "subject": "We\u2019re down, but we\u2019re not out.",
@@ -13871,7 +13849,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rosenfor Nevada",
+        "committee": "Rosen for Nevada",
         "name": "Sherrod Brown",
         "email": "info@action.rosenfornevada.com",
         "subject": "where things stand",
@@ -13902,7 +13880,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Democratic Legislative Campaign Committee",
         "name": "DLCC Elections Team",
         "email": "staff@dlcc.org",
         "subject": "Will you help lead the charge to elect state Dems?",
@@ -13934,6 +13911,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Morse for Congress",
         "name": "Andrea Morse",
         "email": "info@andreamorseforcongress.com",
         "subject": "All hands on deck",
@@ -13981,7 +13959,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Engel for Arizona",
         "name": "Engel HQ",
         "email": "info@kirstenengel.com",
         "subject": "We know the truth",
@@ -14028,6 +14005,10 @@
         "disclaimer": "True"
     },
     {
+        "error": {
+            "code": "invalid_request",
+            "message": "This request cannot be processed. It may be due to content policy violations."
+        },
         "name": "Tom Kean, Jr.",
         "email": "info@outreach.tomkean.com",
         "subject": "3\u20262\u20261\u2026",
@@ -14058,7 +14039,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "STEVE GARVEY FOR U.S. SENATE",
+        "committee": "Steve Garvey for U.S. Senate",
         "name": "Steve Garvey",
         "email": "info@justandfreegop.com",
         "subject": "Important message",
@@ -14074,7 +14055,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Bernie Moreno for Senate",
         "name": "Donald Trump Jr.",
         "email": "info@makingamericathegreatest.com",
         "subject": "Not a lot of time",
@@ -14106,12 +14086,9 @@
         "disclaimer": "True"
     },
     {
-        "subject": "We\u2019re STILL not finished",
-        "body": "http://clicksp.frostforcongress.com/f/a/lu_m5Lw3Mu1gnJZYehjqug~~/AAPPAAA~/RgRpCNewP0RsaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW4mYW1vdW50PTI3VwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp Peter, we\u2019re so close to the finishline but I need your help ONE more time. Our college tour hit campuses inFlorida, Ohio, Arizona, Minnesota, Pennsylvania, Nevada, Georgia, Michigan,North Carolina \u2013 all to rally young voters for Harris-Walz. And we\u2019re alreadyseeing results! Early turnout numbers are surging on college campuses in keybattlegrounds like North Carolina, Michigan and Georgia \u2013 and it\u2019s all thanksto people like you, Peter. But guess what? We\u2019re STILL not finished. From nowuntil Election Day, my focus is on Florida. I\u2019ll be on University of CentralFlorida\u2019s campus til\u2019 the polls close, golf-carting students to their pollingplace and reminding them that it\u2019s OK to take a study break to go vote. Morethan OK \u2013 it\u2019s critical. This is one of the few campuses with a pollinglocation on site, so everything we do these last few days can make animmediate impact. But I can\u2019t do it alone. I\u2019m counting on you to fuel thisfight until the very end. Peter, will you rush $27 to help fund our last pushto mobilize young voters at University of Central Florida and across Florida?Any of these votes could be the ONE we need to defeat fascism in Florida, butwe can\u2019t turn them out without your support!(http://clicksp.frostforcongress.com/f/a/lu_m5Lw3Mu1gnJZYehjqug~~/AAPPAAA~/RgRpCNewP0RsaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW4mYW1vdW50PTI3VwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp) If you've saved your paymentinformation with ActBlue Express, your donation will go through immediately:DONATE $10 \u2794(http://clicksp.frostforcongress.com/f/a/--m0Szh3J6BpbGODIOzhqA~~/AAPPAAA~/RgRpCNewP0R-aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9MTAmcmVmY29kZT0yMDI0MTEwMl9lbV9mcl9iMV9jb2xsZWdlLXRvdXItd3JhcHVwX2VuJmV4cHJlc3NfbGFuZT10cnVlVwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp) DONATE $27 \u2794(http://clicksp.frostforcongress.com/f/a/xc2Qv7KIdrCY6wTJ4TpCog~~/AAPPAAA~/RgRpCNewP0R-aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9MjcmcmVmY29kZT0yMDI0MTEwMl9lbV9mcl9iMV9jb2xsZWdlLXRvdXItd3JhcHVwX2VuJmV4cHJlc3NfbGFuZT10cnVlVwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp) DONATE $50 \u2794(http://clicksp.frostforcongress.com/f/a/ZjQJbed5OllsLFqJU75ewg~~/AAPPAAA~/RgRpCNewP0R-aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9NTAmcmVmY29kZT0yMDI0MTEwMl9lbV9mcl9iMV9jb2xsZWdlLXRvdXItd3JhcHVwX2VuJmV4cHJlc3NfbGFuZT10cnVlVwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp) DONATE $100 \u2794(http://clicksp.frostforcongress.com/f/a/Yxb1Cz8aRe8EbzV4XS-C9w~~/AAPPAAA~/RgRpCNewP0R_aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9MTAwJnJlZmNvZGU9MjAyNDExMDJfZW1fZnJfYjFfY29sbGVnZS10b3VyLXdyYXB1cF9lbiZleHByZXNzX2xhbmU9dHJ1ZVcDc3BjQgpnE7BSJmcBfzPmUhRkcHdpbGxpczY3QGdtYWlsLmNvbVgEAAAAaQ~~)DONATE $250 \u2794(http://clicksp.frostforcongress.com/f/a/UjCyiEztF-X7kBbFjBQFDA~~/AAPPAAA~/RgRpCNewP0R_aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9MjUwJnJlZmNvZGU9MjAyNDExMDJfZW1fZnJfYjFfY29sbGVnZS10b3VyLXdyYXB1cF9lbiZleHByZXNzX2xhbmU9dHJ1ZVcDc3BjQgpnE7BSJmcBfzPmUhRkcHdpbGxpczY3QGdtYWlsLmNvbVgEAAAAaQ~~)DONATE OTHER \u2794 (http://clicksp.frostforcongress.com/f/a/7k0C2UB-hyZYVi-HUWeaGg~~/AAPPAAA~/RgRpCNewP0RiaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW5XA3NwY0IKZxOwUiZnAX8z5lIUZHB3aWxsaXM2N0BnbWFpbC5jb21YBAAAAGk~)Let's finish strong, Maxwell Frosthttp://clicksp.frostforcongress.com/f/a/lu_m5Lw3Mu1gnJZYehjqug~~/AAPPAAA~/RgRpCNewP0RsaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW4mYW1vdW50PTI3VwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp Maxwell Alejandro Frost is an organizerrepresenting Florida's 10th Congressional District. In 2022, he made historyto become the first member of Gen Z elected to Congress. Maxwell isn't takingany corporate PAC, big sugar, or fossil fuel contributions. He needs your helpto protect this seat for poor and working-class people. Will you join ourhistoric movement today? Contribute \u2794(http://clicksp.frostforcongress.com/f/a/7k0C2UB-hyZYVi-HUWeaGg~~/AAPPAAA~/RgRpCNewP0RiaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW5XA3NwY0IKZxOwUiZnAX8z5lIUZHB3aWxsaXM2N0BnbWFpbC5jb21YBAAAAGk~)http://clicksp.frostforcongress.com/f/a/ludW_McDAMtgjQZCO9vXNA~~/AAPPAAA~/RgRpCNewP0QiaHR0cDovL3R3aXR0ZXIuY29tL01heHdlbGxGcm9zdEZML1cDc3BjQgpnE7BSJmcBfzPmUhRkcHdpbGxpczY3QGdtYWlsLmNvbVgEAAAAaQ~~http://clicksp.frostforcongress.com/f/a/0gBEYcRU5vxqTH8jO_q4og~~/AAPPAAA~/RgRpCNewP0QiaHR0cDovL2ZhY2Vib29rLmNvbS9NYXh3ZWxsRnJvc3RGTFcDc3BjQgpnE7BSJmcBfzPmUhRkcHdpbGxpczY3QGdtYWlsLmNvbVgEAAAAaQ~~http://clicksp.frostforcongress.com/f/a/LdXbkAUV8aMbR1OV2ncmKg~~/AAPPAAA~/RgRpCNewP0QpaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9tYXh3ZWxsZnJvc3RmbC9XA3NwY0IKZxOwUiZnAX8z5lIUZHB3aWxsaXM2N0BnbWFpbC5jb21YBAAAAGk~www.FrostForCongress.com(http://clicksp.frostforcongress.com/f/a/O3PsIVAsTJCpLuLbep-Nbw~~/AAPPAAA~/RgRpCNewP0QgaHR0cHM6Ly93d3cuZnJvc3Rmb3Jjb25ncmVzcy5jb21XA3NwY0IKZxOwUiZnAX8z5lIUZHB3aWxsaXM2N0BnbWFpbC5jb21YBAAAAGk~)PAID FOR BY MAXWELL FROST FOR CONGRESS Maxwell Frost for Congress PO Box772671 Orlando, FL 32877-2671 United States You can unsubscribe usinghttp://clicksp.frostforcongress.com/f/a/lIUlq4yg-JO7sl3gYDwSmA~~/AAPPAAA~/RgRpCNewP4QoAWh0dHBzOi8vdW5zdWJzY3JpYmUuZW1haWxkZXB1dHkuY29tL3Vuc3ViP3A9bjlieFhpTU1QYzBZNDhEU0hobE5tWmJvUUpZdjRrNlJWZTl0TFNleVRyT0pzVlolMkIxOTJFUyUyQjY5SkZZQzNrcXJ1dG51TjgyR1RLODBkYkIlMkJUYVY2dDlBNDFqQUNVWkdidTVnQXpFRVRCa1pRbUtmTnJmVTBwamVuNiUyQndYUCUyQiUyRklZamwlMkJqMjZ3ODZWajlJZDRBNFZad1AyeDRjczZ5amw3ckxWTVRqSDhodE5sbW9ydjlQdjZLeUhXQW1FaFI2eXVPM2pBSTBGclpmVExJN01LRHdEQ0pUbGNIVnNlRWtGUnhTQ1g1eG9KN05vJTNEVwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp.",
-        "from": "Maxwell Frost <max@frostforcongress.com>",
-        "to": "supporter@example.com",
         "name": "Maxwell Frost",
         "email": "info@frostforcongress.com",
+        "subject": "We\u2019re STILL not finished",
         "date": "2024-11-02 16:26:24",
         "year": "2024",
         "month": "11",
@@ -14119,10 +14096,15 @@
         "hour": "16",
         "minute": "26",
         "domain": "frostforcongress.com",
+        "body": "http://clicksp.frostforcongress.com/f/a/lu_m5Lw3Mu1gnJZYehjqug~~/AAPPAAA~/RgRpCNewP0RsaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW4mYW1vdW50PTI3VwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp Peter, we\u2019re so close to the finishline but I need your help ONE more time. Our college tour hit campuses inFlorida, Ohio, Arizona, Minnesota, Pennsylvania, Nevada, Georgia, Michigan,North Carolina \u2013 all to rally young voters for Harris-Walz. And we\u2019re alreadyseeing results! Early turnout numbers are surging on college campuses in keybattlegrounds like North Carolina, Michigan and Georgia \u2013 and it\u2019s all thanksto people like you, Peter. But guess what? We\u2019re STILL not finished. From nowuntil Election Day, my focus is on Florida. I\u2019ll be on University of CentralFlorida\u2019s campus til\u2019 the polls close, golf-carting students to their pollingplace and reminding them that it\u2019s OK to take a study break to go vote. Morethan OK \u2013 it\u2019s critical. This is one of the few campuses with a pollinglocation on site, so everything we do these last few days can make animmediate impact. But I can\u2019t do it alone. I\u2019m counting on you to fuel thisfight until the very end. Peter, will you rush $27 to help fund our last pushto mobilize young voters at University of Central Florida and across Florida?Any of these votes could be the ONE we need to defeat fascism in Florida, butwe can\u2019t turn them out without your support!(http://clicksp.frostforcongress.com/f/a/lu_m5Lw3Mu1gnJZYehjqug~~/AAPPAAA~/RgRpCNewP0RsaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW4mYW1vdW50PTI3VwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp) If you've saved your paymentinformation with ActBlue Express, your donation will go through immediately:DONATE $10 \u2794(http://clicksp.frostforcongress.com/f/a/--m0Szh3J6BpbGODIOzhqA~~/AAPPAAA~/RgRpCNewP0R-aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9MTAmcmVmY29kZT0yMDI0MTEwMl9lbV9mcl9iMV9jb2xsZWdlLXRvdXItd3JhcHVwX2VuJmV4cHJlc3NfbGFuZT10cnVlVwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp) DONATE $27 \u2794(http://clicksp.frostforcongress.com/f/a/xc2Qv7KIdrCY6wTJ4TpCog~~/AAPPAAA~/RgRpCNewP0R-aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9MjcmcmVmY29kZT0yMDI0MTEwMl9lbV9mcl9iMV9jb2xsZWdlLXRvdXItd3JhcHVwX2VuJmV4cHJlc3NfbGFuZT10cnVlVwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp) DONATE $50 \u2794(http://clicksp.frostforcongress.com/f/a/ZjQJbed5OllsLFqJU75ewg~~/AAPPAAA~/RgRpCNewP0R-aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9NTAmcmVmY29kZT0yMDI0MTEwMl9lbV9mcl9iMV9jb2xsZWdlLXRvdXItd3JhcHVwX2VuJmV4cHJlc3NfbGFuZT10cnVlVwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp) DONATE $100 \u2794(http://clicksp.frostforcongress.com/f/a/Yxb1Cz8aRe8EbzV4XS-C9w~~/AAPPAAA~/RgRpCNewP0R_aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9MTAwJnJlZmNvZGU9MjAyNDExMDJfZW1fZnJfYjFfY29sbGVnZS10b3VyLXdyYXB1cF9lbiZleHByZXNzX2xhbmU9dHJ1ZVcDc3BjQgpnE7BSJmcBfzPmUhRkcHdpbGxpczY3QGdtYWlsLmNvbVgEAAAAaQ~~)DONATE $250 \u2794(http://clicksp.frostforcongress.com/f/a/UjCyiEztF-X7kBbFjBQFDA~~/AAPPAAA~/RgRpCNewP0R_aHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9hbW91bnQ9MjUwJnJlZmNvZGU9MjAyNDExMDJfZW1fZnJfYjFfY29sbGVnZS10b3VyLXdyYXB1cF9lbiZleHByZXNzX2xhbmU9dHJ1ZVcDc3BjQgpnE7BSJmcBfzPmUhRkcHdpbGxpczY3QGdtYWlsLmNvbVgEAAAAaQ~~)DONATE OTHER \u2794 (http://clicksp.frostforcongress.com/f/a/7k0C2UB-hyZYVi-HUWeaGg~~/AAPPAAA~/RgRpCNewP0RiaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW5XA3NwY0IKZxOwUiZnAX8z5lIUZHB3aWxsaXM2N0BnbWFpbC5jb21YBAAAAGk~)Let's finish strong, Maxwell Frosthttp://clicksp.frostforcongress.com/f/a/lu_m5Lw3Mu1gnJZYehjqug~~/AAPPAAA~/RgRpCNewP0RsaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW4mYW1vdW50PTI3VwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp Maxwell Alejandro Frost is an organizerrepresenting Florida's 10th Congressional District. In 2022, he made historyto become the first member of Gen Z elected to Congress. Maxwell isn't takingany corporate PAC, big sugar, or fossil fuel contributions. He needs your helpto protect this seat for poor and working-class people. Will you join ourhistoric movement today? Contribute \u2794(http://clicksp.frostforcongress.com/f/a/7k0C2UB-hyZYVi-HUWeaGg~~/AAPPAAA~/RgRpCNewP0RiaHR0cHM6Ly9zZWN1cmUuYWN0Ymx1ZS5jb20vZG9uYXRlL21hZi15b3V0aG9yZy1lbT9yZWZjb2RlPTIwMjQxMTAyX2VtX2ZyX2IxX2NvbGxlZ2UtdG91ci13cmFwdXBfZW5XA3NwY0IKZxOwUiZnAX8z5lIUZHB3aWxsaXM2N0BnbWFpbC5jb21YBAAAAGk~)http://clicksp.frostforcongress.com/f/a/ludW_McDAMtgjQZCO9vXNA~~/AAPPAAA~/RgRpCNewP0QiaHR0cDovL3R3aXR0ZXIuY29tL01heHdlbGxGcm9zdEZML1cDc3BjQgpnE7BSJmcBfzPmUhRkcHdpbGxpczY3QGdtYWlsLmNvbVgEAAAAaQ~~http://clicksp.frostforcongress.com/f/a/0gBEYcRU5vxqTH8jO_q4og~~/AAPPAAA~/RgRpCNewP0QiaHR0cDovL2ZhY2Vib29rLmNvbS9NYXh3ZWxsRnJvc3RGTFcDc3BjQgpnE7BSJmcBfzPmUhRkcHdpbGxpczY3QGdtYWlsLmNvbVgEAAAAaQ~~http://clicksp.frostforcongress.com/f/a/LdXbkAUV8aMbR1OV2ncmKg~~/AAPPAAA~/RgRpCNewP0QpaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9tYXh3ZWxsZnJvc3RmbC9XA3NwY0IKZxOwUiZnAX8z5lIUZHB3aWxsaXM2N0BnbWFpbC5jb21YBAAAAGk~www.FrostForCongress.com(http://clicksp.frostforcongress.com/f/a/O3PsIVAsTJCpLuLbep-Nbw~~/AAPPAAA~/RgRpCNewP0QgaHR0cHM6Ly93d3cuZnJvc3Rmb3Jjb25ncmVzcy5jb21XA3NwY0IKZxOwUiZnAX8z5lIUZHB3aWxsaXM2N0BnbWFpbC5jb21YBAAAAGk~)PAID FOR BY MAXWELL FROST FOR CONGRESS Maxwell Frost for Congress PO Box772671 Orlando, FL 32877-2671 United States You can unsubscribe usinghttp://clicksp.frostforcongress.com/f/a/lIUlq4yg-JO7sl3gYDwSmA~~/AAPPAAA~/RgRpCNewP4QoAWh0dHBzOi8vdW5zdWJzY3JpYmUuZW1haWxkZXB1dHkuY29tL3Vuc3ViP3A9bjlieFhpTU1QYzBZNDhEU0hobE5tWmJvUUpZdjRrNlJWZTl0TFNleVRyT0pzVlolMkIxOTJFUyUyQjY5SkZZQzNrcXJ1dG51TjgyR1RLODBkYkIlMkJUYVY2dDlBNDFqQUNVWkdidTVnQXpFRVRCa1pRbUtmTnJmVTBwamVuNiUyQndYUCUyQiUyRklZamwlMkJqMjZ3ODZWajlJZDRBNFZad1AyeDRjczZ5amw3ckxWTVRqSDhodE5sbW9ydjlQdjZLeUhXQW1FaFI2eXVPM2pBSTBGclpmVExJN01LRHdEQ0pUbGNIVnNlRWtGUnhTQ1g1eG9KN05vJTNEVwNzcGNCCmcTsFImZwF_M-ZSFGRwd2lsbGlzNjdAZ21haWwuY29tWAQAAABp.",
         "party": "D",
         "disclaimer": "True"
     },
     {
+        "error": {
+            "code": "invalid_request",
+            "message": "The request is missing a valid API key."
+        },
         "name": "Team Moore",
         "email": "campaign@michaelbmoore.com",
         "subject": "Michael B. Moore or Nancy Mace?",
@@ -14170,6 +14152,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Hung Cao for Virginia",
         "name": "Hung Cao",
         "email": "info@bestamericanow.com",
         "subject": "Knock knock knock",
@@ -14232,7 +14215,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Pramila for Congress",
         "name": "Team Pramila",
         "email": "info@e.pramilaforcongress.com",
         "subject": "How you can make a difference",
@@ -14248,6 +14230,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "KAPTUR FOR CONGRESS",
         "name": "Team Kaptur",
         "email": "info@marcykaptur.com",
         "subject": "3 days, 3 things your support helps us do:",
@@ -14310,6 +14293,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "TAMMY BALDWIN FOR SENATE",
         "name": "TammyBaldwin.com",
         "email": "info@e.tammybaldwin.com",
         "subject": "Republicans see Wisconsin as one of their best opportunities",
@@ -14341,7 +14325,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Mark Takano For Congress",
         "name": "Mark Takano",
         "email": "info@marktakano.com",
         "subject": "Can I count on your endorsement, Peter?",
@@ -14357,6 +14340,7 @@
         "disclaimer": "True"
     },
     {
+        "error": "The provided text does not contain a valid email address to extract.",
         "name": "NDRC State Watch",
         "email": "info@democraticredistricting.com",
         "subject": "Kamala Harris is right \u2192",
@@ -14404,7 +14388,6 @@
         "disclaimer": "True"
     },
     {
-        "error": "no valid phone number found",
         "name": "Jude for Congress",
         "email": "tad@tadjude.com",
         "subject": "\u2734\ufe0fMake Voting Fun Again!",
@@ -14420,6 +14403,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Seth Moulton for Congress",
         "name": "Jon Tester",
         "email": "team@sethmoulton.com",
         "subject": "Eleventh hour",
@@ -14483,8 +14467,8 @@
     },
     {
         "error": {
-            "code": 400,
-            "message": "Invalid request"
+            "code": "invalid_request",
+            "message": "The requested URL was invalid."
         },
         "name": "Team Mehta",
         "email": "campaign@lesliemehta.com",
@@ -14564,6 +14548,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Emily Randall for Congress",
         "name": "Derek Kilmer",
         "email": "teamemily@electemilyrandall.com",
         "subject": "I don\u2019t often send emails like this",
@@ -14579,7 +14564,7 @@
         "disclaimer": "True"
     },
     {
-        "committee": "TIM SHEEHY FOR MONTANA",
+        "committee": "Tim Sheehy for Montana",
         "name": "Tim Sheehy",
         "email": "info@g4yamerica.com",
         "subject": "We\u2019re going dark",
@@ -14657,11 +14642,6 @@
         "disclaimer": "True"
     },
     {
-        "error": {
-            "message": "An error occurred while processing your request.",
-            "code": "500",
-            "details": "The request could not be handled due to an internal server error."
-        },
         "name": "Dan Osborn",
         "email": "info@adamforcolorado.com",
         "subject": "the last time ever",
@@ -14693,6 +14673,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "NRSC",
         "name": "NRSC Polling Updates",
         "email": "info@freedomtrainalert.com",
         "subject": "Please stop what you are doing and hear us out",
@@ -14708,7 +14689,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rosen for Nevada",
         "name": "Sherrod Brown",
         "email": "info@action.rosenfornevada.com",
         "subject": "please don\u2019t scroll past this message",
@@ -14741,43 +14721,6 @@
     },
     {
         "name": "Team Vallejo HQ",
-        "campaign": {
-            "state": "Texas",
-            "district": "15",
-            "race_type": "House",
-            "party": "Democratic",
-            "opponent_party": "Republican",
-            "key_points": [
-                "DNC made a historic investment in Texas",
-                "House Majority PAC launched over $1.3 million in TV ads",
-                "Last poll shows only a 3-point gap",
-                "Opponent is anti-choice and MAGA extremist",
-                "Need $15k for last-minute voter outreach"
-            ],
-            "donation_links": [
-                "https://secure.actblue.com/donate/mv-em-nov24?amount=3",
-                "https://secure.actblue.com/donate/mv-em-nov24?amount=&express_lane=true",
-                "https://secure.actblue.com/donate/mv-em-footer24",
-                "https://secure.actblue.com/donate/mv-em-footer24?recurring=true",
-                "https://www.michellefortx15.com/"
-            ],
-            "social_media": {
-                "twitter": "https://twitter.com/MichelleVforTX",
-                "facebook": "https://www.facebook.com/michellevfortx",
-                "instagram": "https://www.instagram.com/michellevfortx/"
-            },
-            "contact": {
-                "address": "Michelle Vallejo for Congress PO Box 1265 Mission, TX 78573 United States",
-                "unsubscribe_link": "https://secure.ngpvan.com/p/mAp0_dUZb0WOLyBKJJuqXw2?unsubscribedata=KiwOvKqh%2Bfxe8JrSP5VhrW924PmMAJPRfYGfEE50URuuJp%2FjhHh4id%2F2JIUGuDKTu9shDxjfG4PIYX%2FbOWLH8U4M8QbPDrDNw5CR76p9laIxe07zJupyMN00iX9DyPYISfj1iJSONfFIXm6b20AZkH1zMUAb2lDwdd3%2FMKVmuMUaGWez1fIWcqAnX874VHX8BBqtuxrcZfKMWA8VzJirGw6OwIJCBpCiRxu6cL43WwAZeD%2BWGkiyxm2rG3%2Blrb%2BQQeo4xAyGDWB7pwqzfOjJyZDMA68TsvTG%2BqlWvqsLWclVi2vsKsQcpmnWwljv3JAPyR9RjVH2K5ufMxNuTkcKJz08YTGsQNmPTeqVGGAPLbKILGCiyByy1EAmzvdHgnGWz2rHcGwnMZ8GNPeEwfLLa185QBErc3e5LctBRrtigfSUtXrKmtnMxhAamm1tMqbs"
-            },
-            "donation_call_to_actions": [
-                "DONATE $3",
-                "DONATE $",
-                "OTHER AMOUNT",
-                "CONTRIBUTE NOW",
-                "CONTRIBUTE MONTHLY"
-            ]
-        },
         "email": "info@michellefortx15.com",
         "subject": "We\u2019re THREE days out",
         "date": "2024-11-02 17:37:17",
@@ -14792,6 +14735,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Hung Cao for Virginia",
         "name": "Hung Cao",
         "email": "info@makingamericathegreatest.com",
         "subject": "Knock knock knock",
@@ -14823,6 +14767,7 @@
         "disclaimer": "True"
     },
     {
+        "error": "The provided text does not contain any valid JSON to parse.",
         "name": "Troy Downing",
         "email": "info@updates.troydowning.com",
         "subject": "From the scrapbooks (8 photos)",
@@ -14854,6 +14799,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Hung Cao for Virginia",
         "name": "Cao Press Team",
         "email": "info@hungcaoforva.com",
         "subject": "Our Latest Newsletter",
@@ -14916,6 +14862,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Friends of Sherrod Brown",
         "name": "gotv@sherrodbrown.com",
         "email": "info@sherrodbrown.com",
         "subject": "You\u2019re assigned: Lorain County",
@@ -14931,6 +14878,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Janelle Bynum For Congress",
         "name": "Bynum HQ",
         "email": "info@janellebynum.com",
         "subject": "Toss of a coin",
@@ -14962,7 +14910,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Rand Paul for Senate",
         "name": "Rand Paul",
         "email": "newsletter@newsletter.conservativedirect.com",
         "subject": "the leap has never been so important",
@@ -14994,7 +14941,6 @@
         "disclaimer": "True"
     },
     {
-        "text": "The provided text appears to be an email or message related to a political campaign for Janelle Stelson, who is running for office in Pennsylvania's 10th District.  The primary goal of the message is to solicit donations to support her campaign against her opponent, Scott Perry.  The message includes numerous hyperlinks, many of which lead to donation pages.  It also provides information about Janelle Stelson, highlighting her background as an Emmy-award-winning journalist and her platform, which includes issues such as good-paying jobs, abortion rights, healthcare, and education.  The message also includes unsubscribe links and links to social media profiles.  The content is typical of a political campaign fundraising email, and the numerous links suggest a desire to drive traffic to specific pages for donations and engagement.",
         "name": "Team Stelson HQ",
         "email": "team@janellestelson.com",
         "subject": "We know we\u2019ve asked time and time again",
@@ -15026,6 +14972,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Turning Point Action",
         "name": "Charlie Kirk, Turning Point Action",
         "email": "info@makingamericathegreatest.com",
         "subject": "Have 2X the impact for 7 DAYS to SAVE AMERICA",
@@ -15057,7 +15004,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "BOB CASEY FOR SENATE INC.",
         "name": "Bob Casey HQ",
         "email": "info@email.bobcasey.com",
         "subject": "David McCormick wants to gut the ACA",
@@ -15089,6 +15035,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "NEW YORK YOUNG REPUBLICAN CLUB",
         "name": "Gavin M. Wax, NYYRC President",
         "email": "hello@m.conservativeum.com",
         "subject": "Do NOT believe the Kamala bump (here\u2019s why >>)",
@@ -15136,6 +15083,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Trump National Committee JFC Inc.",
         "name": "Donald J. Trump",
         "email": "contact@win.donaldjtrump.com",
         "subject": "My final address to the nation?",
@@ -15167,7 +15115,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "EMILYs List",
         "name": "Jessica Mackler, EMILYs List ",
         "email": "information@emilyslist.org",
         "subject": "The margin of effort.",
@@ -15183,7 +15130,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Friends of Tina Kotek",
         "name": "Janelle Bynum",
         "email": "info@tinafororegon.com",
         "subject": "Good news and bad news",
@@ -15247,7 +15193,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Friends of Raja for Congress",
         "name": " BARACK OBAMA RALLY (via Raja Krishnamoorthi)",
         "email": "info@rajaforcongress.com",
         "subject": "STUNNING announcement:",
@@ -15309,6 +15254,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Defeat Boebert PAC",
         "name": "Debbie Mucarsel-Powell",
         "email": "info@defeatboebertpac.com",
         "subject": "Your chance to get to know me a little better",
@@ -15324,10 +15270,6 @@
         "disclaimer": "True"
     },
     {
-        "error": {
-            "code": "400",
-            "message": "The request was invalid"
-        },
         "name": "Suzan DelBene",
         "email": "info@kristinforwisconsin.com",
         "subject": "If you want to know where your support has the biggest impact read this",
@@ -15343,11 +15285,6 @@
         "disclaimer": "True"
     },
     {
-        "error": {
-            "message": "Request failed with status code 500",
-            "type": "error",
-            "status": 500
-        },
         "name": "Rep. Nikema Williams",
         "email": "feedback@georgiademocrat.org",
         "subject": "no second chances",
@@ -15395,6 +15332,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Hung Cao for Virginia",
         "name": "Hung Cao",
         "email": "info@freedomtrainalert.com",
         "subject": "The end of the road",
@@ -15536,7 +15474,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Pfaff for State Senate",
         "name": "Sen. Brad Pfaff",
         "email": "info@electbrad32.com",
         "subject": "Let's win this, Friend",
@@ -15600,7 +15537,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Truth to Power PAC",
         "name": "Katie Porter",
         "email": "info@katieporter.com",
         "subject": "This is what your donations funded:",
@@ -15696,7 +15632,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Hovde for Wisconsin",
         "name": "Eric Hovde",
         "email": "info@conservativesdefendingfreedom.com",
         "subject": "We took a 1-point lead. Now Tammy\u2019s losing it",
@@ -15712,6 +15647,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Senate Conservatives Fund",
         "name": "Senate Conservatives",
         "email": "info@standingstrongamerica.com",
         "subject": "Top Four Senate Candidates",
@@ -15727,7 +15663,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "End Citizens United Nonfederal",
         "name": "=?utf-8?b?T2ggbm/igKYgW0ZGUl0=?=",
         "email": "info@fightforreform.org",
         "subject": "Listen to Jamie Raskin!!!",
@@ -15743,6 +15678,7 @@
         "disclaimer": "True"
     },
     {
+        "committee": "Sensible Americans PAC",
         "name": "Sherrod Brown",
         "email": "info@losecruz.com",
         "subject": "\ud83d\udea8BREAKING: LEAKED NEW POLL",
@@ -15774,7 +15710,6 @@
         "disclaimer": "True"
     },
     {
-        "committee": "Shaheen for Senate",
         "name": "C. Allred",
         "email": "info@jeanneshaheen.org",
         "subject": "I've taken some big hits before",
