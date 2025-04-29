@@ -5,7 +5,7 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 
 # Load the CSV file
-csv_file = "training.csv"
+csv_file = "fundraising-emails/training.csv"
 df_csv = pd.read_csv(csv_file)
 
 # Directory containing JSON files
@@ -76,11 +76,9 @@ for json_filename in os.listdir(json_directory):
             "Recall": recall,
             "F1 Score": f1
         })
-
-        report = classification_report(y_true, y_pred, zero_division=0)
-        with open(f"evals/classification_report_{json_filename.replace('.json', '')}.txt", "w") as f:
-            f.write(f"Classification report for model {json_filename}\n\n")
-            f.write(str(report))
+        
+        # Generate the classification report
+        report = classification_report(y_true, y_pred, zero_division=0, output_dict=True)
         
         # Save as JSON file in the same directory
         json_report_filename = f"evals/classification_report_{json_filename.replace('.json', '')}.json"
