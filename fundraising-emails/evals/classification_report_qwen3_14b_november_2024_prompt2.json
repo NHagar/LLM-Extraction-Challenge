@@ -585,13 +585,13 @@
         "precision": 0.0,
         "recall": 0.0,
         "f1-score": 0.0,
-        "support": 12.0
+        "support": 14.0
     },
     "harris forpresident": {
         "precision": 0.0,
         "recall": 0.0,
         "f1-score": 0.0,
-        "support": 2.0
+        "support": 0.0
     },
     "hellfire pac": {
         "precision": 0.0,

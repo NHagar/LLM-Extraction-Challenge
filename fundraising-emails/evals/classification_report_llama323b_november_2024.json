@@ -864,16 +864,16 @@
         "support": 1.0
     },
     "harris for president": {
-        "precision": 0.6666666666666666,
-        "recall": 0.8,
-        "f1-score": 0.7272727272727273,
-        "support": 5.0
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.9230769230769231,
+        "support": 7.0
     },
     "harris forpresident": {
         "precision": 0.0,
         "recall": 0.0,
         "f1-score": 0.0,
-        "support": 2.0
+        "support": 0.0
     },
     "help elect nella and secure the border": {
         "precision": 0.0,
@@ -2321,17 +2321,17 @@
         "f1-score": 0.0,
         "support": 0.0
     },
-    "accuracy": 0.5744274809160306,
+    "accuracy": 0.5782442748091603,
     "macro avg": {
-        "precision": 0.342807924203273,
-        "recall": 0.28609652979808015,
-        "f1-score": 0.3021026874526481,
+        "precision": 0.34366925064599485,
+        "recall": 0.28624418575968963,
+        "f1-score": 0.30260864144697425,
         "support": 524.0
     },
     "weighted avg": {
-        "precision": 0.7932569974554707,
-        "recall": 0.5744274809160306,
-        "f1-score": 0.6443916992830037,
+        "precision": 0.8002544529262087,
+        "recall": 0.5782442748091603,
+        "f1-score": 0.6497832542928793,
         "support": 524.0
     }
 }

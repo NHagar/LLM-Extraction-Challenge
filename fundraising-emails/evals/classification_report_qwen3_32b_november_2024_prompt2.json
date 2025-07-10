@@ -594,16 +594,10 @@
         "support": 2.0
     },
     "harris for president": {
-        "precision": 0.8461538461538461,
-        "recall": 0.9166666666666666,
-        "f1-score": 0.88,
-        "support": 12.0
-    },
-    "harris forpresident": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 2.0
+        "precision": 1.0,
+        "recall": 0.9285714285714286,
+        "f1-score": 0.9629629629629629,
+        "support": 14.0
     },
     "hellfire pac": {
         "precision": 1.0,
@@ -1697,17 +1691,17 @@
         "f1-score": 1.0,
         "support": 1.0
     },
-    "accuracy": 0.636,
+    "accuracy": 0.638,
     "macro avg": {
-        "precision": 0.6935649891921976,
-        "recall": 0.5465032175961215,
-        "f1-score": 0.5936149731564019,
+        "precision": 0.6965699932455252,
+        "recall": 0.5484833877361955,
+        "f1-score": 0.5960141856958322,
         "support": 1000.0
     },
     "weighted avg": {
-        "precision": 0.8813044413919414,
-        "recall": 0.636,
-        "f1-score": 0.7190578459972315,
+        "precision": 0.8851505952380953,
+        "recall": 0.638,
+        "f1-score": 0.721979327478713,
         "support": 1000.0
     }
 }

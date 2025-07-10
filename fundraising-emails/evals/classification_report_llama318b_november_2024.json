@@ -522,16 +522,10 @@
         "support": 1.0
     },
     "harris for president": {
-        "precision": 0.8,
+        "precision": 1.0,
         "recall": 1.0,
-        "f1-score": 0.8888888888888888,
-        "support": 4.0
-    },
-    "harris forpresident": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 1.0
+        "f1-score": 1.0,
+        "support": 5.0
     },
     "her bold move action": {
         "precision": 1.0,
@@ -1487,17 +1481,17 @@
         "f1-score": 1.0,
         "support": 2.0
     },
-    "accuracy": 0.8698224852071006,
+    "accuracy": 0.8717948717948718,
     "macro avg": {
-        "precision": 0.7280529953917052,
-        "recall": 0.7057659690220175,
-        "f1-score": 0.7123742567520075,
+        "precision": 0.7318102949681897,
+        "recall": 0.708623321123321,
+        "f1-score": 0.7157082056097528,
         "support": 507.0
     },
     "weighted avg": {
-        "precision": 0.9319244857706396,
-        "recall": 0.8698224852071006,
-        "f1-score": 0.8931351968024683,
+        "precision": 0.9354747816286277,
+        "recall": 0.8717948717948718,
+        "f1-score": 0.8959841996514709,
         "support": 507.0
     }
 }
