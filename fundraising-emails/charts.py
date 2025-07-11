@@ -6,6 +6,11 @@ import numpy as np
 # Load the data
 df = pd.read_csv('summary_all_json.csv')
 
+# Filter to only include files ending in _prompt2.json
+df = df[df['JSON Filename'].str.endswith('_prompt2.json')]
+
+print(f"Filtered to {len(df)} models ending in _prompt2.json")
+
 # Extract model names from JSON filenames (remove _prompt2.json and date info)
 df['Model'] = df['JSON Filename'].str.replace('_prompt2.json', '').str.replace(r'_\d{4}', '', regex=True).str.replace('_november', '').str.replace('_december', '')
 
