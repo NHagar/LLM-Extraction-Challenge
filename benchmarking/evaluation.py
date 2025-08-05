@@ -13,6 +13,8 @@ load_dotenv()
 # LLM setup
 models = [
     "gpt-4.1-nano-2025-04-14",
+    "gpt-4.1-mini-2025-04-14",
+    "gpt-4.1-2025-04-14",
 ]
 
 with open("benchmarking/prompts/baseline.md", "r") as f:
@@ -32,11 +34,11 @@ newsletters = [Newsletter(**row) for _, row in df.iterrows()]
 print(f"Loaded {len(newsletters)} newsletters from training data")
 
 
-async def run_inference(model, newsletter):
-    """Run inference for a single newsletter with a given model"""
+async def run_inference(model, newsletter, prompt, prompt_type):
+    """Run inference for a single newsletter with a given model and prompt"""
     response = await client.responses.create(
         model=model,
-        instructions=baseline_prompt,
+        instructions=prompt,
         input=newsletter.body,
         temperature=0.0,
     )
@@ -48,11 +50,12 @@ async def run_inference(model, newsletter):
         committee_name = response_parsed["committee"]
     except json.JSONDecodeError:
         print(
-            f"Error decoding JSON for newsletter {newsletter.uuid} with model {model}"
+            f"Error decoding JSON for newsletter {newsletter.uuid} with model {model} and prompt {prompt_type}"
         )
         committee_name = "<PARSING ERROR>"
 
     return {
+        "prompt_type": prompt_type,
         "newsletter_id": newsletter.uuid,
         "committee_name_inferred": committee_name,
         "committee_name_expected": newsletter.committee,
@@ -63,10 +66,13 @@ async def run_inference(model, newsletter):
 async def run_all_inferences():
     """Run all inferences in parallel"""
     tasks = []
+    prompts = [(baseline_prompt, "baseline"), (fewshot_prompt, "fewshot")]
+
     for model in models:
         print(f"Preparing inference tasks for model: {model}")
         for newsletter in newsletters:
-            tasks.append(run_inference(model, newsletter))
+            for prompt, prompt_type in prompts:
+                tasks.append(run_inference(model, newsletter, prompt, prompt_type))
 
     print(f"Running {len(tasks)} inference tasks in parallel...")
     results = []
