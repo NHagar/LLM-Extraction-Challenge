@@ -10,9 +10,11 @@ dependencies = [
     "openai>=1.98.0",
     "pandas>=2.3.1",
     "pydantic>=2.11.7",
+    "python-dotenv>=1.1.1",
     "scikit-learn>=1.7.1",
     "seaborn>=0.13.2",
     "sqlite-utils>=3.38",
+    "tqdm>=4.67.1",
 ]
 
 [dependency-groups]
