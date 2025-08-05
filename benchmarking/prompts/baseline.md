@@ -1,0 +1,1 @@
+Produce a JSON object with the key 'committee', which is the name of the committee in the disclaimer that begins with Paid for by but does not include `Paid for by`, the committee address or the treasurer name. If no committee is present, the value of 'committee' should be None. Do not include any other text, no yapping.
