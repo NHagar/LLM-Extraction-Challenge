@@ -10,8 +10,8 @@ def calculate_openai_cost(response):
     """
     # OpenAI pricing per 1M tokens (as of recent pricing)
     MODEL_PRICING = {
-        "gpt-4.1": {"input": 2.00, "output": 8.00},
-        "gpt-4.1-mini": {"input": 0.40, "output": 1.60},
+        "gpt-4.1-2025-04-14": {"input": 2.00, "output": 8.00},
+        "gpt-4.1-mini-2025-04-14": {"input": 0.40, "output": 1.60},
         "gpt-4.1-nano-2025-04-14": {"input": 0.10, "output": 0.40},
         "gpt-4.5-preview": {"input": 75.00, "output": 150.00},
         "gpt-4o": {"input": 2.50, "output": 10.00},

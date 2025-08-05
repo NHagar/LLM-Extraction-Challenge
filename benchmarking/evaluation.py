@@ -34,14 +34,15 @@ newsletters = [Newsletter(**row) for _, row in df.iterrows()]
 print(f"Loaded {len(newsletters)} newsletters from training data")
 
 
-async def run_inference(model, newsletter, prompt, prompt_type):
+async def run_inference(model, newsletter, prompt, prompt_type, semaphore):
     """Run inference for a single newsletter with a given model and prompt"""
-    response = await client.responses.create(
-        model=model,
-        instructions=prompt,
-        input=newsletter.body,
-        temperature=0.0,
-    )
+    async with semaphore:
+        response = await client.responses.create(
+            model=model,
+            instructions=prompt,
+            input=newsletter.body,
+            temperature=0.0,
+        )
 
     cost = calculate_openai_cost(response)
 
@@ -64,7 +65,9 @@ async def run_inference(model, newsletter, prompt, prompt_type):
 
 
 async def run_all_inferences():
-    """Run all inferences in parallel"""
+    """Run all inferences in parallel with rate limiting"""
+    # Limit concurrent requests to avoid rate limits
+    semaphore = asyncio.Semaphore(20)
     tasks = []
     prompts = [(baseline_prompt, "baseline"), (fewshot_prompt, "fewshot")]
 
@@ -72,9 +75,11 @@ async def run_all_inferences():
         print(f"Preparing inference tasks for model: {model}")
         for newsletter in newsletters:
             for prompt, prompt_type in prompts:
-                tasks.append(run_inference(model, newsletter, prompt, prompt_type))
+                tasks.append(
+                    run_inference(model, newsletter, prompt, prompt_type, semaphore)
+                )
 
-    print(f"Running {len(tasks)} inference tasks in parallel...")
+    print(f"Running {len(tasks)} inference tasks in parallel (max 20 concurrent)...")
     results = []
     for task in tqdm(asyncio.as_completed(tasks), total=len(tasks)):
         result = await task
