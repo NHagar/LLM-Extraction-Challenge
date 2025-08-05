@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-import os
-import csv
-import pandas as pd
 from datetime import datetime
+
+import pandas as pd
+
 
 def generate_leaderboard_html(summary_csv_path, output_path):
     """
@@ -19,26 +19,35 @@ def generate_leaderboard_html(summary_csv_path, output_path):
         return
 
     # Separate dataframes for updated and original prompts
-    df_updated = df[df['JSON Filename'].str.contains('prompt2', case=False)].copy()
-    df_original = df[~df['JSON Filename'].str.contains('prompt2', case=False)].copy()
+    df_updated = df[df["JSON Filename"].str.contains("prompt2", case=False)].copy()
+    df_original = df[~df["JSON Filename"].str.contains("prompt2", case=False)].copy()
 
     # Sort both dataframes
-    df_updated = df_updated.sort_values(by=['Total Records', 'Committee Matches'], ascending=[False, False])
-    df_original = df_original.sort_values(by=['Total Records', 'Committee Matches'], ascending=[False, False])
+    df_updated = df_updated.sort_values(
+        by=["Total Records", "Committee Matches"], ascending=[False, False]
+    )
+    df_original = df_original.sort_values(
+        by=["Total Records", "Committee Matches"], ascending=[False, False]
+    )
 
     # Function to generate table rows
     def generate_table_rows(dataframe):
-        return "".join([f"""
+        return "".join(
+            [
+                f"""
         <tr>
-            <td>{row['JSON Filename']}</td>
-            <td>{row['Total Records']}</td>
-            <td>{row['Committee Matches']}</td>
-            <td>{row['Committee Matches'] / row['Total Records'] * 100:.2f}%</td>
-            <td>{row['Accuracy']:.2f}</td>
-            <td>{row['Precision']:.2f}</td>
-            <td>{row['Recall']:.2f}</td>
-            <td>{row['F1 Score']:.2f}</td>
-        </tr>""" for _, row in dataframe.iterrows()])
+            <td>{row["JSON Filename"]}</td>
+            <td>{row["Total Records"]}</td>
+            <td>{row["Committee Matches"]}</td>
+            <td>{row["Committee Matches"] / row["Total Records"] * 100:.2f}%</td>
+            <td>{row["Accuracy"]:.2f}</td>
+            <td>{row["Precision"]:.2f}</td>
+            <td>{row["Recall"]:.2f}</td>
+            <td>{row["F1 Score"]:.2f}</td>
+        </tr>"""
+                for _, row in dataframe.iterrows()
+            ]
+        )
 
     # Generate HTML
     html_content = f"""<!DOCTYPE html>
@@ -139,15 +148,16 @@ def generate_leaderboard_html(summary_csv_path, output_path):
     </table>
 
     <div class="timestamp">
-        Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+        Last Updated: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
     </div>
 </body>
 </html>"""
 
     # Write the HTML file
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write(html_content)
     print(f"Leaderboard HTML generated at {output_path}")
+
 
 if __name__ == "__main__":
     # Default paths, can be modified as needed

@@ -1,0 +1,19 @@
+[project]
+name = "llm-extraction-challenge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.5",
+    "ollama>=0.5.1",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+    "sqlite-utils>=3.38",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.12.7",
+]
