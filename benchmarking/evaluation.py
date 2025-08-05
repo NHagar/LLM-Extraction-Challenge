@@ -1,11 +1,12 @@
+import asyncio
 import csv
 import json
 
 from cost import calculate_openai_cost
 from dotenv import load_dotenv
 from models import Newsletter
-from openai import OpenAI
-from tqdm import tqdm
+from openai import AsyncOpenAI
+from tqdm.asyncio import tqdm
 
 load_dotenv()
 
@@ -20,7 +21,7 @@ with open("benchmarking/prompts/baseline.md", "r") as f:
 with open("benchmarking/prompts/fewshot.md", "r") as f:
     fewshot_prompt = f.read()
 
-client = OpenAI()
+client = AsyncOpenAI()
 
 
 # Load training data from CSV and create Newsletter instances
@@ -32,38 +33,54 @@ with open("fundraising-emails/training.csv", newline="", encoding="utf-8") as cs
 
 print(f"Loaded {len(newsletters)} newsletters from training data")
 
-inferences = []
-# run inference for each model
-for model in models:
-    print(f"Running inference for model: {model}")
-    for newsletter in tqdm(newsletters):
-        response = client.responses.create(
-            model=model,
-            instructions=baseline_prompt,
-            input=newsletter.body,
-            temperature=0.0,
+async def run_inference(model, newsletter):
+    """Run inference for a single newsletter with a given model"""
+    response = await client.responses.create(
+        model=model,
+        instructions=baseline_prompt,
+        input=newsletter.body,
+        temperature=0.0,
+    )
+
+    cost = calculate_openai_cost(response)
+
+    try:
+        response_parsed = json.loads(response.output_text)
+        committee_name = response_parsed["committee"]
+    except json.JSONDecodeError:
+        print(
+            f"Error decoding JSON for newsletter {newsletter.uuid} with model {model}"
         )
+        committee_name = "<PARSING ERROR>"
 
-        cost = calculate_openai_cost(response)
+    return {
+        "model": model,
+        "newsletter_id": newsletter.uuid,
+        "committee_name_inferred": committee_name,
+        "committee_name_expected": newsletter.committee,
+        "cost": cost,
+    }
 
-        try:
-            response_parsed = json.loads(response.output_text)
-            committee_name = response_parsed["committee"]
-        except json.JSONDecodeError:
-            print(
-                f"Error decoding JSON for newsletter {newsletter.uuid} with model {model}"
-            )
-            committee_name = "<PARSING ERROR>"
 
-        inferences.append(
-            {
-                "model": model,
-                "newsletter_id": newsletter.uuid,
-                "committee_name_inferred": committee_name,
-                "committee_name_expected": newsletter.committee,
-                "cost": cost,
-            }
-        )
+async def run_all_inferences():
+    """Run all inferences in parallel"""
+    tasks = []
+    for model in models:
+        print(f"Preparing inference tasks for model: {model}")
+        for newsletter in newsletters:
+            tasks.append(run_inference(model, newsletter))
+    
+    print(f"Running {len(tasks)} inference tasks in parallel...")
+    results = []
+    for task in tqdm(asyncio.as_completed(tasks), total=len(tasks)):
+        result = await task
+        results.append(result)
+    
+    return results
+
+
+# Run all inferences in parallel
+inferences = asyncio.run(run_all_inferences())
 
 # Write inferences to CSV
 with open("benchmarking/inferences.csv", "w", newline="", encoding="utf-8") as csvfile:
