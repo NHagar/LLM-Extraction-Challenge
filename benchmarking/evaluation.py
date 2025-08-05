@@ -1,7 +1,7 @@
 import asyncio
-import csv
 import json
 
+import pandas as pd
 from cost import calculate_openai_cost
 from dotenv import load_dotenv
 from models import Newsletter
@@ -25,13 +25,12 @@ client = AsyncOpenAI()
 
 
 # Load training data from CSV and create Newsletter instances
-newsletters = []
-with open("fundraising-emails/training.csv", newline="", encoding="utf-8") as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        newsletters.append(Newsletter(**row))
+df = pd.read_csv("fundraising-emails/training.csv", encoding="utf-8")
+df = df.fillna("")  # Replace NaN values with empty strings
+newsletters = [Newsletter(**row) for _, row in df.iterrows()]
 
 print(f"Loaded {len(newsletters)} newsletters from training data")
+
 
 async def run_inference(model, newsletter):
     """Run inference for a single newsletter with a given model"""
@@ -54,11 +53,10 @@ async def run_inference(model, newsletter):
         committee_name = "<PARSING ERROR>"
 
     return {
-        "model": model,
         "newsletter_id": newsletter.uuid,
         "committee_name_inferred": committee_name,
         "committee_name_expected": newsletter.committee,
-        "cost": cost,
+        **cost,
     }
 
 
@@ -69,29 +67,19 @@ async def run_all_inferences():
         print(f"Preparing inference tasks for model: {model}")
         for newsletter in newsletters:
             tasks.append(run_inference(model, newsletter))
-    
+
     print(f"Running {len(tasks)} inference tasks in parallel...")
     results = []
     for task in tqdm(asyncio.as_completed(tasks), total=len(tasks)):
         result = await task
         results.append(result)
-    
+
     return results
 
 
 # Run all inferences in parallel
 inferences = asyncio.run(run_all_inferences())
 
-# Write inferences to CSV
-with open("benchmarking/inferences.csv", "w", newline="", encoding="utf-8") as csvfile:
-    fieldnames = [
-        "model",
-        "newsletter_id",
-        "committee_name_inferred",
-        "committee_name_expected",
-        "cost",
-    ]
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    for inference in inferences:
-        writer.writerow(inference)
+# Write inferences to CSV using pandas
+results_df = pd.DataFrame(inferences)
+results_df.to_csv("benchmarking/data/inferences.csv", index=False, encoding="utf-8")
