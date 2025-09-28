@@ -23,3 +23,7 @@ class Newsletter(BaseModel):
     def uuid(self) -> str:
         unique_str = f"{self.committee}-{self.name}-{self.email}-{self.subject}-{self.date}-{self.year}-{self.month}-{self.day}-{self.hour}-{self.minute}-{self.domain}"
         return str(uuid5(NAMESPACE_DNS, unique_str))
+
+
+class EmailResponse(BaseModel):
+    committee: str

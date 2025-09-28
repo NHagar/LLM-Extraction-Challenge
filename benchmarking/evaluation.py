@@ -4,7 +4,7 @@ import json
 import pandas as pd
 from cost import calculate_openai_cost
 from dotenv import load_dotenv
-from models import Newsletter
+from models import EmailResponse, Newsletter
 from openai import AsyncOpenAI
 from tqdm.asyncio import tqdm
 
@@ -57,6 +57,38 @@ async def run_inference(model, newsletter, prompt, prompt_type, semaphore):
 
     return {
         "prompt_type": prompt_type,
+        "newsletter_id": newsletter.uuid,
+        "committee_name_inferred": committee_name,
+        "committee_name_expected": newsletter.committee,
+        **cost,
+    }
+
+
+async def run_inference_structured_output(
+    model, newsletter, prompt, prompt_type, semaphore
+):
+    """Run inference for a single newsletter with a given model and prompt, expecting structured output"""
+    async with semaphore:
+        response = await client.responses.parse(
+            model=model,
+            instructions=prompt,
+            input=newsletter.body,
+            temperature=0.0,
+            text_format=EmailResponse,
+        )
+    cost = calculate_openai_cost(response)
+
+    try:
+        response_parsed = response.output_parsed
+        committee_name = response_parsed.committee
+    except json.JSONDecodeError:
+        print(
+            f"Error decoding JSON for newsletter {newsletter.uuid} with model {model} and prompt {prompt_type}"
+        )
+        committee_name = "<PARSING ERROR>"
+
+    return {
+        "prompt_type": f"{prompt_type}_structured",
         "newsletter_id": newsletter.uuid,
         "committee_name_inferred": committee_name,
         "committee_name_expected": newsletter.committee,
