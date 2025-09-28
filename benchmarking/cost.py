@@ -18,6 +18,7 @@ def calculate_openai_cost(response):
         "gpt-4o-mini": {"input": 0.15, "output": 0.60},
         "o3": {"input": 2.00, "output": 8.00},
         "o4-mini": {"input": 1.10, "output": 4.40},
+        "gpt-5-nano-2025-08-07": {"input": 0.05, "output": 0.40},
     }
 
     # Extract information from response

@@ -14,7 +14,7 @@ load_dotenv()
 models = [
     "gpt-4.1-nano-2025-04-14",
     "gpt-4.1-mini-2025-04-14",
-    "gpt-4.1-2025-04-14",
+    "gpt-5-nano-2025-08-07",
 ]
 
 with open("benchmarking/prompts/baseline.md", "r") as f:
@@ -41,7 +41,7 @@ async def run_inference(model, newsletter, prompt, prompt_type, semaphore):
             model=model,
             instructions=prompt,
             input=newsletter.body,
-            temperature=0.0,
+            # temperature=0.0,
         )
 
     cost = calculate_openai_cost(response)
@@ -53,6 +53,7 @@ async def run_inference(model, newsletter, prompt, prompt_type, semaphore):
         print(
             f"Error decoding JSON for newsletter {newsletter.uuid} with model {model} and prompt {prompt_type}"
         )
+        print(response.output_text)
         committee_name = "<PARSING ERROR>"
 
     return {
@@ -73,7 +74,7 @@ async def run_inference_structured_output(
             model=model,
             instructions=prompt,
             input=newsletter.body,
-            temperature=0.0,
+            # temperature=0.0,
             text_format=EmailResponse,
         )
     cost = calculate_openai_cost(response)
@@ -85,6 +86,7 @@ async def run_inference_structured_output(
         print(
             f"Error decoding JSON for newsletter {newsletter.uuid} with model {model} and prompt {prompt_type}"
         )
+        print(response.output_parsed)
         committee_name = "<PARSING ERROR>"
 
     return {
@@ -113,7 +115,9 @@ async def run_all_inferences():
                 )
                 # Add structured output inference task
                 tasks.append(
-                    run_inference_structured_output(model, newsletter, prompt, prompt_type, semaphore)
+                    run_inference_structured_output(
+                        model, newsletter, prompt, prompt_type, semaphore
+                    )
                 )
 
     print(f"Running {len(tasks)} inference tasks in parallel (max 20 concurrent)...")
