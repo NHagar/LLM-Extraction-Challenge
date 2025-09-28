@@ -107,8 +107,13 @@ async def run_all_inferences():
         print(f"Preparing inference tasks for model: {model}")
         for newsletter in newsletters:
             for prompt, prompt_type in prompts:
+                # Add regular inference task
                 tasks.append(
                     run_inference(model, newsletter, prompt, prompt_type, semaphore)
+                )
+                # Add structured output inference task
+                tasks.append(
+                    run_inference_structured_output(model, newsletter, prompt, prompt_type, semaphore)
                 )
 
     print(f"Running {len(tasks)} inference tasks in parallel (max 20 concurrent)...")
