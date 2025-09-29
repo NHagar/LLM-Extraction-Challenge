@@ -40,7 +40,7 @@ print(f"Loaded {len(newsletters)} newsletters from training data")
 
 def run_inference(model, newsletter, prompt, prompt_type):
     """Run inference for a single newsletter with a given model and prompt"""
-    max_attempts = 2
+    max_attempts = 1
 
     for attempt in range(max_attempts):
         try:
@@ -90,10 +90,14 @@ def run_inference(model, newsletter, prompt, prompt_type):
                     }
         except Exception as e:
             if attempt < max_attempts - 1:
-                print(f"Error running inference for newsletter {newsletter.uuid}, retrying... (attempt {attempt + 1}/{max_attempts}): {e}")
+                print(
+                    f"Error running inference for newsletter {newsletter.uuid}, retrying... (attempt {attempt + 1}/{max_attempts}): {e}"
+                )
                 continue
             else:
-                print(f"Error running inference for newsletter {newsletter.uuid} after {max_attempts} attempts: {e}")
+                print(
+                    f"Error running inference for newsletter {newsletter.uuid} after {max_attempts} attempts: {e}"
+                )
                 return {
                     "prompt_type": prompt_type,
                     "newsletter_id": newsletter.uuid,
