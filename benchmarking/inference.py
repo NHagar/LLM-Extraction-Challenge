@@ -1,5 +1,6 @@
 import asyncio
 import json
+from datetime import datetime
 
 import pandas as pd
 from cost import calculate_openai_cost
@@ -132,6 +133,9 @@ async def run_all_inferences():
 # Run all inferences in parallel
 inferences = asyncio.run(run_all_inferences())
 
-# Write inferences to CSV using pandas
+# Write inferences to CSV using pandas with unique timestamp suffix
 results_df = pd.DataFrame(inferences)
-results_df.to_csv("benchmarking/data/inferences.csv", index=False, encoding="utf-8")
+timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+output_path = f"benchmarking/data/inferences_{timestamp}.csv"
+results_df.to_csv(output_path, index=False, encoding="utf-8")
+print(f"Results saved to {output_path}")
