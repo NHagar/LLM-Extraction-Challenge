@@ -40,46 +40,68 @@ print(f"Loaded {len(newsletters)} newsletters from training data")
 
 def run_inference(model, newsletter, prompt, prompt_type):
     """Run inference for a single newsletter with a given model and prompt"""
-    try:
-        response = client.chat.completions.create(
-            model=model,
-            messages=[
-                {"role": "system", "content": prompt},
-                {"role": "user", "content": newsletter.body},
-            ],
-            temperature=0.0,
-        )
+    max_attempts = 2
 
-        output_text = response.choices[0].message.content
-
+    for attempt in range(max_attempts):
         try:
-            response_parsed = json.loads(output_text)
-            committee_name = response_parsed["committee"]
-        except json.JSONDecodeError:
-            print(
-                f"Error decoding JSON for newsletter {newsletter.uuid} with model {model} and prompt {prompt_type}"
+            response = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "system", "content": prompt},
+                    {"role": "user", "content": newsletter.body},
+                ],
+                temperature=0.0,
             )
-            print(output_text)
-            committee_name = "<PARSING ERROR>"
 
-        return {
-            "prompt_type": prompt_type,
-            "newsletter_id": newsletter.uuid,
-            "committee_name_inferred": committee_name,
-            "committee_name_expected": newsletter.committee,
-            "input_tokens": response.usage.prompt_tokens,
-            "output_tokens": response.usage.completion_tokens,
-        }
-    except Exception as e:
-        print(f"Error running inference for newsletter {newsletter.uuid}: {e}")
-        return {
-            "prompt_type": prompt_type,
-            "newsletter_id": newsletter.uuid,
-            "committee_name_inferred": "<ERROR>",
-            "committee_name_expected": newsletter.committee,
-            "input_tokens": 0,
-            "output_tokens": 0,
-        }
+            output_text = response.choices[0].message.content
+            input_tokens = response.usage.prompt_tokens
+            output_tokens = response.usage.completion_tokens
+
+            try:
+                response_parsed = json.loads(output_text)
+                committee_name = response_parsed["committee"]
+
+                return {
+                    "prompt_type": prompt_type,
+                    "newsletter_id": newsletter.uuid,
+                    "committee_name_inferred": committee_name,
+                    "committee_name_expected": newsletter.committee,
+                    "input_tokens": input_tokens,
+                    "output_tokens": output_tokens,
+                }
+            except json.JSONDecodeError:
+                if attempt < max_attempts - 1:
+                    print(
+                        f"Parsing error for newsletter {newsletter.uuid}, retrying... (attempt {attempt + 1}/{max_attempts})"
+                    )
+                    continue
+                else:
+                    print(
+                        f"Error decoding JSON for newsletter {newsletter.uuid} with model {model} and prompt {prompt_type} after {max_attempts} attempts"
+                    )
+                    print(output_text)
+                    return {
+                        "prompt_type": prompt_type,
+                        "newsletter_id": newsletter.uuid,
+                        "committee_name_inferred": "<PARSING ERROR>",
+                        "committee_name_expected": newsletter.committee,
+                        "input_tokens": input_tokens,
+                        "output_tokens": output_tokens,
+                    }
+        except Exception as e:
+            if attempt < max_attempts - 1:
+                print(f"Error running inference for newsletter {newsletter.uuid}, retrying... (attempt {attempt + 1}/{max_attempts}): {e}")
+                continue
+            else:
+                print(f"Error running inference for newsletter {newsletter.uuid} after {max_attempts} attempts: {e}")
+                return {
+                    "prompt_type": prompt_type,
+                    "newsletter_id": newsletter.uuid,
+                    "committee_name_inferred": "<ERROR>",
+                    "committee_name_expected": newsletter.committee,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                }
 
 
 def run_all_inferences():
