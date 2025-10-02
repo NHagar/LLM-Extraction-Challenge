@@ -5,17 +5,20 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "faster-whisper>=1.2.0",
     "matplotlib>=3.10.5",
     "ollama>=0.5.1",
     "openai>=1.98.0",
     "pandas>=2.3.1",
     "pdf2image>=1.17.0",
     "pydantic>=2.11.7",
+    "pydub>=0.25.1",
     "python-dotenv>=1.1.1",
     "scikit-learn>=1.7.1",
     "seaborn>=0.13.2",
     "sqlite-utils>=3.38",
     "tqdm>=4.67.1",
+    "whisperx>=3.4.3",
 ]
 
 [dependency-groups]
