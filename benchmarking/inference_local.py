@@ -13,7 +13,7 @@ load_dotenv()
 MODEL = "openai/gpt-oss-20b"
 
 # Configuration
-SAMPLE_SIZE = 10  # Set to a number to sample newsletters, None for all
+SAMPLE_SIZE = None  # Set to a number to sample newsletters, None for all
 
 with open("benchmarking/prompts/baseline.md", "r") as f:
     baseline_prompt = f.read()
